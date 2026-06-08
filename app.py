@@ -108,42 +108,62 @@ if page == "Overview Dashboard":
 
 elif page == "Restaurant Analysis":
     st.title("🏪 Restaurant Deep Dive")
-    
+
     col1, col2 = st.columns(2)
+
     with col1:
         st.subheader("Top 10 Rated Restaurants")
         top_rated = df.nlargest(10, 'rate')[['name', 'rate', 'location']].drop_duplicates()
-        fig_top = px.bar(top_rated, x='rate', y='name', orientation='h', color='rate', text='location')
+
+        fig_top = px.bar(
+            top_rated,
+            x='rate',
+            y='name',
+            orientation='h',
+            color='rate',
+            text='location'
+        )
+
         st.plotly_chart(fig_top, use_container_width=True)
-        
+
     with col2:
-    st.subheader("Popularity vs Rating")
+        st.subheader("Popularity vs Rating")
 
-    # Clean numeric columns
-    df["rate"] = pd.to_numeric(df["rate"], errors="coerce")
-    df["votes"] = pd.to_numeric(df["votes"], errors="coerce")
+        # Clean numeric columns
+        df["rate"] = pd.to_numeric(df["rate"], errors="coerce")
+        df["votes"] = pd.to_numeric(df["votes"], errors="coerce")
 
-    df["cost"] = (
-        df["cost"]
-        .astype(str)
-        .str.replace(",", "", regex=False)
+        df["cost"] = (
+            df["cost"]
+            .astype(str)
+            .str.replace(",", "", regex=False)
+        )
+
+        df["cost"] = pd.to_numeric(df["cost"], errors="coerce")
+
+        scatter_df = df.dropna(subset=["rate", "votes", "cost"])
+
+        fig_scatter = px.scatter(
+            scatter_df,
+            x="rate",
+            y="votes",
+            size="cost",
+            hover_name="name",
+            color="rest_type"
+        )
+
+        st.plotly_chart(fig_scatter, use_container_width=True)
+
+    st.subheader("Restaurant Type Breakdown")
+
+    fig_pie = px.pie(
+        df,
+        names='rest_type',
+        hole=0.4,
+        title="Distribution of Restaurant Types"
     )
 
-    df["cost"] = pd.to_numeric(df["cost"], errors="coerce")
-
-    scatter_df = df.dropna(subset=["rate", "votes", "cost"])
-
-    fig_scatter = px.scatter(
-        scatter_df,
-        x="rate",
-        y="votes",
-        size="cost",
-        hover_name="name",
-        color="rest_type"
-    )
-
-    st.plotly_chart(fig_scatter, use_container_width=True)
-
+    st.plotly_chart(fig_pie, use_container_width=True)
     st.subheader("Restaurant Type Breakdown")
     fig_pie = px.pie(df, names='rest_type', hole=0.4, title="Distribution of Restaurant Types")
     st.plotly_chart(fig_pie, use_container_width=True)
