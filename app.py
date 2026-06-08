@@ -117,10 +117,32 @@ elif page == "Restaurant Analysis":
         st.plotly_chart(fig_top, use_container_width=True)
         
     with col2:
-        st.subheader("Popularity vs Rating")
-        fig_scatter = px.scatter(df, x="rate", y="votes", size="cost", hover_name="name", 
-                                color="rest_type", template="plotly_white")
-        st.plotly_chart(fig_scatter, use_container_width=True)
+    st.subheader("Popularity vs Rating")
+
+    # Clean numeric columns
+    df["rate"] = pd.to_numeric(df["rate"], errors="coerce")
+    df["votes"] = pd.to_numeric(df["votes"], errors="coerce")
+
+    df["cost"] = (
+        df["cost"]
+        .astype(str)
+        .str.replace(",", "", regex=False)
+    )
+
+    df["cost"] = pd.to_numeric(df["cost"], errors="coerce")
+
+    scatter_df = df.dropna(subset=["rate", "votes", "cost"])
+
+    fig_scatter = px.scatter(
+        scatter_df,
+        x="rate",
+        y="votes",
+        size="cost",
+        hover_name="name",
+        color="rest_type"
+    )
+
+    st.plotly_chart(fig_scatter, use_container_width=True)
 
     st.subheader("Restaurant Type Breakdown")
     fig_pie = px.pie(df, names='rest_type', hole=0.4, title="Distribution of Restaurant Types")
