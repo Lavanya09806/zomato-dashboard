@@ -164,9 +164,6 @@ elif page == "Restaurant Analysis":
     )
 
     st.plotly_chart(fig_pie, use_container_width=True)
-    st.subheader("Restaurant Type Breakdown")
-    fig_pie = px.pie(df, names='rest_type', hole=0.4, title="Distribution of Restaurant Types")
-    st.plotly_chart(fig_pie, use_container_width=True)
 
 elif page == "Cuisine Analysis":
     st.title("🍜 Cuisine Intelligence")
