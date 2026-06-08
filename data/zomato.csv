@@ -1,0 +1,1001 @@
+url,address,name,online_order,book_table,rate,votes,phone,location,rest_type,dish_liked,cuisines,approx_cost(for two people),reviews_list,menu_item,listed_in(type),listed_in(city)
+http://zomato.com/0,Address 0,Restaurant 0,Yes,No,,3607,987654320,Koramangala 5th Block,Buffet,"Pasta, Pizza","North Indian, Mexican, Italian",600,[],[],Dining,Indiranagar
+http://zomato.com/1,Address 1,Restaurant 1,No,Yes,,2583,987654321,Marathahalli,Delivery,"Pasta, Pizza","Continental, Mexican",200,[],[],Dining,Koramangala 5th Block
+http://zomato.com/2,Address 2,Restaurant 2,Yes,Yes,,4073,987654322,BTM,Cafe,"Pasta, Pizza",North Indian,800,[],[],Dining,HSR
+http://zomato.com/3,Address 3,Restaurant 3,Yes,Yes,,3075,987654323,Indiranagar,Bakery,"Pasta, Pizza","Chinese, Continental, South Indian",2000,[],[],Other,Marathahalli
+http://zomato.com/4,Address 4,Restaurant 4,Yes,Yes,,3906,987654324,Indiranagar,Cafe,"Pasta, Pizza","North Indian, Fast Food, Beverages",2000,[],[],Dining,BTM
+http://zomato.com/5,Address 5,Restaurant 5,No,Yes,,289,987654325,Koramangala 5th Block,Bakery,"Pasta, Pizza","Mughlai, Italian",1000,[],[],Cafes,BTM
+http://zomato.com/6,Address 6,Restaurant 6,Yes,No,2.6/5,2480,987654326,Koramangala 5th Block,Cafe,"Pasta, Pizza","Chinese, North Indian",600,[],[],Other,HSR
+http://zomato.com/7,Address 7,Restaurant 7,Yes,Yes,4.8/5,3252,987654327,Koramangala 5th Block,Dessert Parlor,"Pasta, Pizza",Desserts,200,[],[],Other,HSR
+http://zomato.com/8,Address 8,Restaurant 8,Yes,No,3.9/5,278,987654328,BTM,Cafe,"Pasta, Pizza",Chinese,3000,[],[],Other,Jayanagar
+http://zomato.com/9,Address 9,Restaurant 9,No,No,2.6/5,2924,987654329,Indiranagar,Dessert Parlor,"Pasta, Pizza","Mexican, Beverages",400,[],[],Dining,HSR
+http://zomato.com/10,Address 10,Restaurant 10,Yes,Yes,3.2/5,580,9876543210,Whitefield,Dessert Parlor,"Pasta, Pizza","North Indian, South Indian, Italian",,[],[],Dining,Marathahalli
+http://zomato.com/11,Address 11,Restaurant 11,Yes,Yes,4.9/5,4958,9876543211,Koramangala 5th Block,Delivery,"Pasta, Pizza","Mughlai, Beverages, Mexican",,[],[],Dining,Jayanagar
+http://zomato.com/12,Address 12,Restaurant 12,Yes,No,3.7/5,253,9876543212,Jayanagar,Casual Dining,"Pasta, Pizza",Desserts,,[],[],Other,BTM
+http://zomato.com/13,Address 13,Restaurant 13,Yes,Yes,4.6/5,4276,9876543213,HSR,Bakery,"Pasta, Pizza","Italian, Beverages",,[],[],Cafes,Jayanagar
+http://zomato.com/14,Address 14,Restaurant 14,No,Yes,4.6/5,4776,9876543214,BTM,Delivery,"Pasta, Pizza","Desserts, Beverages, Chinese",,[],[],Other,JP Nagar
+http://zomato.com/15,Address 15,Restaurant 15,Yes,No,NEW,824,9876543215,Koramangala 5th Block,Delivery,"Pasta, Pizza","Mughlai, Beverages",,[],[],Cafes,JP Nagar
+http://zomato.com/16,Address 16,Restaurant 16,No,No,3.1/5,3832,9876543216,HSR,Buffet,"Pasta, Pizza","Italian, Mughlai, Continental",200,[],[],Other,BTM
+http://zomato.com/17,Address 17,Restaurant 17,No,Yes,2.7/5,699,9876543217,JP Nagar,Dessert Parlor,"Pasta, Pizza","South Indian, Fast Food, Chinese",200,[],[],Cafes,Koramangala 5th Block
+http://zomato.com/18,Address 18,Restaurant 18,No,No,3.3/5,1380,9876543218,Koramangala 5th Block,Dessert Parlor,"Pasta, Pizza","South Indian, Desserts",400,[],[],Other,BTM
+http://zomato.com/19,Address 19,Restaurant 19,Yes,Yes,2.7/5,3896,9876543219,Indiranagar,Bakery,"Pasta, Pizza","Continental, Chinese, Italian",400,[],[],Other,Marathahalli
+http://zomato.com/20,Address 20,Restaurant 20,No,Yes,3.8/5,1673,9876543220,Marathahalli,Cafe,"Pasta, Pizza","Italian, Fast Food",600,[],[],Cafes,HSR
+http://zomato.com/21,Address 21,Restaurant 21,Yes,Yes,3.3/5,2727,9876543221,Koramangala 5th Block,Cafe,"Pasta, Pizza","Mexican, Italian",2000,[],[],Cafes,Jayanagar
+http://zomato.com/22,Address 22,Restaurant 22,No,No,4.7/5,3156,9876543222,BTM,Delivery,"Pasta, Pizza","Chinese, South Indian",600,[],[],Cafes,Koramangala 5th Block
+http://zomato.com/23,Address 23,Restaurant 23,No,No,3.1/5,3388,9876543223,Marathahalli,Quick Service Restaurant,"Pasta, Pizza","Mexican, South Indian",600,[],[],Cafes,Jayanagar
+http://zomato.com/24,Address 24,Restaurant 24,No,No,NEW,4307,9876543224,JP Nagar,Quick Service Restaurant,"Pasta, Pizza","South Indian, Italian",200,[],[],Cafes,Indiranagar
+http://zomato.com/25,Address 25,Restaurant 25,No,No,2.6/5,383,9876543225,Jayanagar,Cafe,"Pasta, Pizza","Beverages, South Indian",1500,[],[],Cafes,Whitefield
+http://zomato.com/26,Address 26,Restaurant 26,No,No,3.8/5,341,9876543226,Marathahalli,Quick Service Restaurant,"Pasta, Pizza","Desserts, Italian, Continental",1500,[],[],Cafes,Whitefield
+http://zomato.com/27,Address 27,Restaurant 27,No,Yes,4.5/5,1987,9876543227,HSR,Buffet,"Pasta, Pizza","Italian, Fast Food, Beverages",1500,[],[],Cafes,Jayanagar
+http://zomato.com/28,Address 28,Restaurant 28,No,Yes,3.4/5,4059,9876543228,Whitefield,Cafe,"Pasta, Pizza","Italian, Mughlai",1500,[],[],Other,Koramangala 5th Block
+http://zomato.com/29,Address 29,Restaurant 29,No,Yes,3.5/5,4939,9876543229,Koramangala 5th Block,Dessert Parlor,"Pasta, Pizza",Mughlai,600,[],[],Cafes,BTM
+http://zomato.com/30,Address 30,Restaurant 30,Yes,Yes,4.1/5,3109,9876543230,JP Nagar,Delivery,"Pasta, Pizza","South Indian, Chinese, North Indian",200,[],[],Cafes,JP Nagar
+http://zomato.com/31,Address 31,Restaurant 31,Yes,No,5.0/5,4082,9876543231,JP Nagar,Casual Dining,"Pasta, Pizza","Continental, South Indian",1500,[],[],Other,Marathahalli
+http://zomato.com/32,Address 32,Restaurant 32,No,Yes,3.5/5,4515,9876543232,Marathahalli,Delivery,"Pasta, Pizza","Desserts, Fast Food",3000,[],[],Other,Jayanagar
+http://zomato.com/33,Address 33,Restaurant 33,No,No,4.3/5,2798,9876543233,Jayanagar,Cafe,"Pasta, Pizza",Italian,1000,[],[],Dining,Jayanagar
+http://zomato.com/34,Address 34,Restaurant 34,No,Yes,2.8/5,3240,9876543234,Indiranagar,Buffet,"Pasta, Pizza","Italian, South Indian, Mexican",800,[],[],Dining,Marathahalli
+http://zomato.com/35,Address 35,Restaurant 35,Yes,No,3.2/5,1988,9876543235,Koramangala 5th Block,Cafe,"Pasta, Pizza","Desserts, Mexican",1000,[],[],Cafes,BTM
+http://zomato.com/36,Address 36,Restaurant 36,No,No,3.1/5,3414,9876543236,JP Nagar,Delivery,"Pasta, Pizza",Desserts,200,[],[],Cafes,HSR
+http://zomato.com/37,Address 37,Restaurant 37,Yes,Yes,NEW,1849,9876543237,Jayanagar,Buffet,"Pasta, Pizza","Continental, Beverages, North Indian",200,[],[],Dining,JP Nagar
+http://zomato.com/38,Address 38,Restaurant 38,Yes,Yes,NEW,305,9876543238,Whitefield,Buffet,"Pasta, Pizza","Continental, North Indian",800,[],[],Dining,Jayanagar
+http://zomato.com/39,Address 39,Restaurant 39,Yes,Yes,3.6/5,3613,9876543239,JP Nagar,Buffet,"Pasta, Pizza","Chinese, Continental, North Indian",400,[],[],Cafes,Indiranagar
+http://zomato.com/40,Address 40,Restaurant 40,Yes,Yes,4.2/5,2749,9876543240,Jayanagar,Bakery,"Pasta, Pizza",Desserts,400,[],[],Dining,JP Nagar
+http://zomato.com/41,Address 41,Restaurant 41,Yes,No,4.9/5,4964,9876543241,BTM,Cafe,"Pasta, Pizza",Fast Food,3000,[],[],Cafes,Indiranagar
+http://zomato.com/42,Address 42,Restaurant 42,No,Yes,2.7/5,1135,9876543242,Indiranagar,Quick Service Restaurant,"Pasta, Pizza","North Indian, Beverages, Mexican",400,[],[],Other,Whitefield
+http://zomato.com/43,Address 43,Restaurant 43,No,Yes,4.7/5,205,9876543243,Indiranagar,Quick Service Restaurant,"Pasta, Pizza","Mughlai, Continental, Mexican",600,[],[],Other,Marathahalli
+http://zomato.com/44,Address 44,Restaurant 44,No,No,3.7/5,4591,9876543244,JP Nagar,Cafe,"Pasta, Pizza","South Indian, Fast Food, Beverages",400,[],[],Dining,JP Nagar
+http://zomato.com/45,Address 45,Restaurant 45,No,Yes,2.9/5,3450,9876543245,HSR,Cafe,"Pasta, Pizza",Fast Food,2000,[],[],Other,HSR
+http://zomato.com/46,Address 46,Restaurant 46,No,Yes,3.1/5,3811,9876543246,JP Nagar,Bakery,"Pasta, Pizza","Continental, Beverages",600,[],[],Other,JP Nagar
+http://zomato.com/47,Address 47,Restaurant 47,Yes,Yes,4.1/5,3622,9876543247,Marathahalli,Quick Service Restaurant,"Pasta, Pizza","Mexican, South Indian",600,[],[],Other,Koramangala 5th Block
+http://zomato.com/48,Address 48,Restaurant 48,No,Yes,3.8/5,3599,9876543248,Koramangala 5th Block,Cafe,"Pasta, Pizza",South Indian,3000,[],[],Other,Koramangala 5th Block
+http://zomato.com/49,Address 49,Restaurant 49,No,Yes,2.9/5,2551,9876543249,Jayanagar,Cafe,"Pasta, Pizza","Fast Food, South Indian, Beverages",400,[],[],Cafes,Marathahalli
+http://zomato.com/50,Address 50,Restaurant 50,Yes,No,3.0/5,4308,9876543250,JP Nagar,Bakery,"Pasta, Pizza","Continental, Mughlai",400,[],[],Cafes,HSR
+http://zomato.com/51,Address 51,Restaurant 51,No,Yes,3.4/5,309,9876543251,Koramangala 5th Block,Bakery,"Pasta, Pizza","Beverages, Mughlai",3000,[],[],Dining,JP Nagar
+http://zomato.com/52,Address 52,Restaurant 52,Yes,Yes,NEW,2708,9876543252,Marathahalli,Delivery,"Pasta, Pizza","Continental, Fast Food",800,[],[],Other,BTM
+http://zomato.com/53,Address 53,Restaurant 53,No,Yes,4.7/5,1991,9876543253,BTM,Bakery,"Pasta, Pizza","Beverages, South Indian",1500,[],[],Other,Whitefield
+http://zomato.com/54,Address 54,Restaurant 54,Yes,Yes,5.0/5,271,9876543254,BTM,Casual Dining,"Pasta, Pizza","Desserts, Mexican, Beverages",3000,[],[],Other,HSR
+http://zomato.com/55,Address 55,Restaurant 55,No,Yes,3.5/5,3642,9876543255,Koramangala 5th Block,Quick Service Restaurant,"Pasta, Pizza","North Indian, Mexican",800,[],[],Dining,Jayanagar
+http://zomato.com/56,Address 56,Restaurant 56,No,No,4.2/5,4086,9876543256,JP Nagar,Delivery,"Pasta, Pizza",South Indian,600,[],[],Cafes,Marathahalli
+http://zomato.com/57,Address 57,Restaurant 57,Yes,Yes,4.5/5,1822,9876543257,Indiranagar,Casual Dining,"Pasta, Pizza","Italian, Beverages",800,[],[],Other,BTM
+http://zomato.com/58,Address 58,Restaurant 58,Yes,No,3.1/5,3273,9876543258,Jayanagar,Cafe,"Pasta, Pizza",Italian,600,[],[],Cafes,HSR
+http://zomato.com/59,Address 59,Restaurant 59,Yes,No,4.0/5,4538,9876543259,Jayanagar,Cafe,"Pasta, Pizza","Beverages, Continental",200,[],[],Dining,Marathahalli
+http://zomato.com/60,Address 60,Restaurant 60,Yes,Yes,2.7/5,4349,9876543260,BTM,Delivery,"Pasta, Pizza","Desserts, Beverages",600,[],[],Cafes,HSR
+http://zomato.com/61,Address 61,Restaurant 61,Yes,Yes,3.2/5,520,9876543261,BTM,Bakery,"Pasta, Pizza",Mexican,600,[],[],Other,Koramangala 5th Block
+http://zomato.com/62,Address 62,Restaurant 62,Yes,Yes,4.7/5,976,9876543262,Indiranagar,Buffet,"Pasta, Pizza","Beverages, Italian, North Indian",800,[],[],Cafes,Whitefield
+http://zomato.com/63,Address 63,Restaurant 63,Yes,Yes,4.7/5,3722,9876543263,HSR,Buffet,"Pasta, Pizza","Chinese, South Indian, Mughlai",1500,[],[],Cafes,Marathahalli
+http://zomato.com/64,Address 64,Restaurant 64,Yes,No,4.1/5,3551,9876543264,JP Nagar,Cafe,"Pasta, Pizza","Chinese, North Indian, Beverages",200,[],[],Dining,Whitefield
+http://zomato.com/65,Address 65,Restaurant 65,No,Yes,2.7/5,4105,9876543265,BTM,Buffet,"Pasta, Pizza","South Indian, Chinese",1000,[],[],Dining,Marathahalli
+http://zomato.com/66,Address 66,Restaurant 66,No,Yes,3.4/5,2773,9876543266,BTM,Dessert Parlor,"Pasta, Pizza","Mughlai, Beverages",1000,[],[],Dining,Koramangala 5th Block
+http://zomato.com/67,Address 67,Restaurant 67,Yes,Yes,4.3/5,2552,9876543267,BTM,Delivery,"Pasta, Pizza",South Indian,1500,[],[],Dining,Jayanagar
+http://zomato.com/68,Address 68,Restaurant 68,No,Yes,2.7/5,2832,9876543268,Jayanagar,Casual Dining,"Pasta, Pizza","Mughlai, North Indian, Chinese",1000,[],[],Cafes,BTM
+http://zomato.com/69,Address 69,Restaurant 69,No,Yes,4.2/5,3907,9876543269,JP Nagar,Delivery,"Pasta, Pizza","Continental, Beverages",200,[],[],Cafes,Koramangala 5th Block
+http://zomato.com/70,Address 70,Restaurant 70,No,Yes,NEW,152,9876543270,Marathahalli,Quick Service Restaurant,"Pasta, Pizza",Mughlai,400,[],[],Dining,Marathahalli
+http://zomato.com/71,Address 71,Restaurant 71,No,No,3.7/5,2964,9876543271,JP Nagar,Bakery,"Pasta, Pizza",Desserts,200,[],[],Dining,Whitefield
+http://zomato.com/72,Address 72,Restaurant 72,Yes,No,4.0/5,2916,9876543272,Koramangala 5th Block,Bakery,"Pasta, Pizza","Desserts, Fast Food",800,[],[],Other,Indiranagar
+http://zomato.com/73,Address 73,Restaurant 73,No,Yes,3.4/5,2800,9876543273,Indiranagar,Delivery,"Pasta, Pizza","Mughlai, Desserts, Continental",3000,[],[],Other,Koramangala 5th Block
+http://zomato.com/74,Address 74,Restaurant 74,Yes,Yes,3.9/5,1752,9876543274,HSR,Cafe,"Pasta, Pizza","Beverages, Chinese, Continental",2000,[],[],Dining,Whitefield
+http://zomato.com/75,Address 75,Restaurant 75,No,Yes,4.7/5,2610,9876543275,BTM,Cafe,"Pasta, Pizza",North Indian,600,[],[],Cafes,HSR
+http://zomato.com/76,Address 76,Restaurant 76,No,No,4.1/5,3875,9876543276,BTM,Dessert Parlor,"Pasta, Pizza",North Indian,600,[],[],Dining,HSR
+http://zomato.com/77,Address 77,Restaurant 77,No,Yes,4.7/5,1104,9876543277,JP Nagar,Dessert Parlor,"Pasta, Pizza","Desserts, Beverages",3000,[],[],Cafes,Koramangala 5th Block
+http://zomato.com/78,Address 78,Restaurant 78,Yes,No,4.6/5,2536,9876543278,HSR,Bakery,"Pasta, Pizza",Italian,800,[],[],Cafes,Marathahalli
+http://zomato.com/79,Address 79,Restaurant 79,No,Yes,4.2/5,4990,9876543279,BTM,Dessert Parlor,"Pasta, Pizza","Fast Food, South Indian, Mughlai",800,[],[],Other,HSR
+http://zomato.com/80,Address 80,Restaurant 80,Yes,Yes,4.4/5,4199,9876543280,HSR,Casual Dining,"Pasta, Pizza","Beverages, Italian",2000,[],[],Dining,Whitefield
+http://zomato.com/81,Address 81,Restaurant 81,No,Yes,4.7/5,3854,9876543281,Marathahalli,Dessert Parlor,"Pasta, Pizza",Mexican,2000,[],[],Dining,BTM
+http://zomato.com/82,Address 82,Restaurant 82,Yes,Yes,2.6/5,3494,9876543282,Whitefield,Casual Dining,"Pasta, Pizza",Desserts,600,[],[],Cafes,Jayanagar
+http://zomato.com/83,Address 83,Restaurant 83,No,No,2.8/5,1914,9876543283,Indiranagar,Dessert Parlor,"Pasta, Pizza",South Indian,2000,[],[],Dining,Whitefield
+http://zomato.com/84,Address 84,Restaurant 84,Yes,No,4.4/5,3072,9876543284,HSR,Bakery,"Pasta, Pizza",Continental,2000,[],[],Other,HSR
+http://zomato.com/85,Address 85,Restaurant 85,Yes,Yes,4.5/5,1006,9876543285,Jayanagar,Bakery,"Pasta, Pizza","Mexican, Beverages",2000,[],[],Other,HSR
+http://zomato.com/86,Address 86,Restaurant 86,No,Yes,3.8/5,406,9876543286,Koramangala 5th Block,Casual Dining,"Pasta, Pizza","Mughlai, Beverages",3000,[],[],Dining,JP Nagar
+http://zomato.com/87,Address 87,Restaurant 87,Yes,No,NEW,166,9876543287,Jayanagar,Delivery,"Pasta, Pizza","South Indian, Chinese",1500,[],[],Dining,Indiranagar
+http://zomato.com/88,Address 88,Restaurant 88,No,No,4.0/5,508,9876543288,BTM,Bakery,"Pasta, Pizza",Beverages,400,[],[],Other,Marathahalli
+http://zomato.com/89,Address 89,Restaurant 89,No,No,4.1/5,1661,9876543289,Marathahalli,Delivery,"Pasta, Pizza","Mughlai, Mexican",2000,[],[],Dining,Whitefield
+http://zomato.com/90,Address 90,Restaurant 90,No,No,4.1/5,3664,9876543290,Marathahalli,Cafe,"Pasta, Pizza",Beverages,400,[],[],Cafes,HSR
+http://zomato.com/91,Address 91,Restaurant 91,No,Yes,4.4/5,3489,9876543291,Jayanagar,Casual Dining,"Pasta, Pizza","Beverages, Mexican, Fast Food",400,[],[],Dining,Marathahalli
+http://zomato.com/92,Address 92,Restaurant 92,No,No,4.4/5,4858,9876543292,Indiranagar,Buffet,"Pasta, Pizza","Mexican, Desserts, Continental",800,[],[],Cafes,Koramangala 5th Block
+http://zomato.com/93,Address 93,Restaurant 93,No,Yes,4.9/5,680,9876543293,Jayanagar,Bakery,"Pasta, Pizza","Fast Food, Mughlai, Beverages",2000,[],[],Dining,Koramangala 5th Block
+http://zomato.com/94,Address 94,Restaurant 94,No,No,4.1/5,2524,9876543294,JP Nagar,Quick Service Restaurant,"Pasta, Pizza",Chinese,600,[],[],Dining,Whitefield
+http://zomato.com/95,Address 95,Restaurant 95,No,No,2.8/5,2120,9876543295,BTM,Cafe,"Pasta, Pizza","Desserts, Italian, Mexican",1500,[],[],Other,JP Nagar
+http://zomato.com/96,Address 96,Restaurant 96,No,No,4.2/5,4677,9876543296,BTM,Delivery,"Pasta, Pizza","Continental, Chinese",600,[],[],Cafes,HSR
+http://zomato.com/97,Address 97,Restaurant 97,No,No,NEW,4357,9876543297,Jayanagar,Bakery,"Pasta, Pizza",Chinese,2000,[],[],Other,Whitefield
+http://zomato.com/98,Address 98,Restaurant 98,No,No,4.3/5,1363,9876543298,Koramangala 5th Block,Casual Dining,"Pasta, Pizza",Continental,600,[],[],Dining,Jayanagar
+http://zomato.com/99,Address 99,Restaurant 99,Yes,Yes,NEW,1331,9876543299,Koramangala 5th Block,Buffet,"Pasta, Pizza","Beverages, Fast Food, Continental",2000,[],[],Other,JP Nagar
+http://zomato.com/100,Address 100,Restaurant 100,Yes,Yes,3.4/5,2292,987654320,BTM,Dessert Parlor,"Pasta, Pizza","Continental, Mughlai",1500,[],[],Dining,HSR
+http://zomato.com/101,Address 101,Restaurant 101,No,No,2.6/5,1538,987654321,Whitefield,Buffet,"Pasta, Pizza","Desserts, Continental",200,[],[],Dining,HSR
+http://zomato.com/102,Address 102,Restaurant 102,No,No,4.9/5,3408,987654322,Koramangala 5th Block,Quick Service Restaurant,"Pasta, Pizza","Chinese, Beverages",1500,[],[],Dining,Marathahalli
+http://zomato.com/103,Address 103,Restaurant 103,No,Yes,4.4/5,560,987654323,Jayanagar,Delivery,"Pasta, Pizza","North Indian, Italian, South Indian",3000,[],[],Cafes,Whitefield
+http://zomato.com/104,Address 104,Restaurant 104,No,No,4.4/5,1099,987654324,Koramangala 5th Block,Cafe,"Pasta, Pizza","Continental, Chinese",200,[],[],Cafes,HSR
+http://zomato.com/105,Address 105,Restaurant 105,No,No,NEW,1903,987654325,BTM,Buffet,"Pasta, Pizza","South Indian, Mughlai, North Indian",1000,[],[],Cafes,Marathahalli
+http://zomato.com/106,Address 106,Restaurant 106,No,Yes,NEW,174,987654326,Indiranagar,Casual Dining,"Pasta, Pizza","North Indian, Mughlai, Desserts",200,[],[],Other,HSR
+http://zomato.com/107,Address 107,Restaurant 107,No,No,3.7/5,2156,987654327,HSR,Quick Service Restaurant,"Pasta, Pizza","Mexican, Chinese",400,[],[],Dining,Indiranagar
+http://zomato.com/108,Address 108,Restaurant 108,No,No,4.2/5,2230,987654328,Koramangala 5th Block,Casual Dining,"Pasta, Pizza","Continental, Italian",3000,[],[],Other,JP Nagar
+http://zomato.com/109,Address 109,Restaurant 109,Yes,Yes,3.2/5,4287,987654329,JP Nagar,Bakery,"Pasta, Pizza","North Indian, Chinese, Mexican",400,[],[],Other,Whitefield
+http://zomato.com/110,Address 110,Restaurant 110,No,Yes,3.6/5,4160,9876543210,Indiranagar,Dessert Parlor,"Pasta, Pizza",Mexican,3000,[],[],Dining,Indiranagar
+http://zomato.com/111,Address 111,Restaurant 111,Yes,Yes,2.9/5,3920,9876543211,Whitefield,Cafe,"Pasta, Pizza","Beverages, Fast Food",1500,[],[],Other,Whitefield
+http://zomato.com/112,Address 112,Restaurant 112,No,No,4.2/5,1497,9876543212,JP Nagar,Casual Dining,"Pasta, Pizza",Continental,400,[],[],Dining,Jayanagar
+http://zomato.com/113,Address 113,Restaurant 113,No,Yes,2.7/5,3854,9876543213,Jayanagar,Delivery,"Pasta, Pizza","Fast Food, Italian, North Indian",400,[],[],Dining,Koramangala 5th Block
+http://zomato.com/114,Address 114,Restaurant 114,Yes,Yes,4.1/5,3171,9876543214,HSR,Bakery,"Pasta, Pizza","South Indian, Italian, Chinese",1000,[],[],Dining,BTM
+http://zomato.com/115,Address 115,Restaurant 115,No,Yes,4.9/5,1567,9876543215,Jayanagar,Bakery,"Pasta, Pizza",Mexican,400,[],[],Dining,Marathahalli
+http://zomato.com/116,Address 116,Restaurant 116,Yes,Yes,3.6/5,1151,9876543216,HSR,Cafe,"Pasta, Pizza","North Indian, Desserts, South Indian",800,[],[],Other,Whitefield
+http://zomato.com/117,Address 117,Restaurant 117,No,Yes,3.5/5,368,9876543217,HSR,Bakery,"Pasta, Pizza","Continental, South Indian, Fast Food",800,[],[],Other,JP Nagar
+http://zomato.com/118,Address 118,Restaurant 118,No,Yes,3.5/5,4946,9876543218,Jayanagar,Delivery,"Pasta, Pizza",Fast Food,800,[],[],Other,Whitefield
+http://zomato.com/119,Address 119,Restaurant 119,Yes,No,5.0/5,42,9876543219,JP Nagar,Casual Dining,"Pasta, Pizza","Desserts, Mexican",200,[],[],Cafes,Whitefield
+http://zomato.com/120,Address 120,Restaurant 120,No,No,4.7/5,1907,9876543220,JP Nagar,Cafe,"Pasta, Pizza",Fast Food,1500,[],[],Other,Whitefield
+http://zomato.com/121,Address 121,Restaurant 121,Yes,Yes,3.0/5,3490,9876543221,HSR,Bakery,"Pasta, Pizza","Mughlai, North Indian",1500,[],[],Other,BTM
+http://zomato.com/122,Address 122,Restaurant 122,No,Yes,NEW,2535,9876543222,JP Nagar,Bakery,"Pasta, Pizza",Desserts,600,[],[],Cafes,HSR
+http://zomato.com/123,Address 123,Restaurant 123,Yes,Yes,3.4/5,4173,9876543223,HSR,Delivery,"Pasta, Pizza","Chinese, South Indian, North Indian",1000,[],[],Dining,Whitefield
+http://zomato.com/124,Address 124,Restaurant 124,Yes,No,3.7/5,2873,9876543224,BTM,Dessert Parlor,"Pasta, Pizza","Mughlai, Italian",800,[],[],Dining,HSR
+http://zomato.com/125,Address 125,Restaurant 125,No,No,3.0/5,1824,9876543225,HSR,Dessert Parlor,"Pasta, Pizza","Mughlai, Fast Food",800,[],[],Dining,JP Nagar
+http://zomato.com/126,Address 126,Restaurant 126,No,No,4.4/5,1293,9876543226,BTM,Buffet,"Pasta, Pizza","Italian, Mexican",400,[],[],Cafes,JP Nagar
+http://zomato.com/127,Address 127,Restaurant 127,Yes,No,4.6/5,4769,9876543227,Indiranagar,Bakery,"Pasta, Pizza","Desserts, Beverages, Mughlai",800,[],[],Other,Whitefield
+http://zomato.com/128,Address 128,Restaurant 128,No,No,4.1/5,4796,9876543228,Marathahalli,Casual Dining,"Pasta, Pizza","Italian, Chinese",400,[],[],Other,HSR
+http://zomato.com/129,Address 129,Restaurant 129,No,No,2.6/5,4854,9876543229,Indiranagar,Cafe,"Pasta, Pizza","Beverages, North Indian, Fast Food",400,[],[],Other,Koramangala 5th Block
+http://zomato.com/130,Address 130,Restaurant 130,No,No,4.0/5,3386,9876543230,Jayanagar,Bakery,"Pasta, Pizza",South Indian,600,[],[],Other,Whitefield
+http://zomato.com/131,Address 131,Restaurant 131,Yes,No,3.7/5,2972,9876543231,Marathahalli,Quick Service Restaurant,"Pasta, Pizza",Beverages,200,[],[],Cafes,Marathahalli
+http://zomato.com/132,Address 132,Restaurant 132,Yes,No,2.8/5,3922,9876543232,Koramangala 5th Block,Cafe,"Pasta, Pizza","Chinese, Mexican",400,[],[],Other,Marathahalli
+http://zomato.com/133,Address 133,Restaurant 133,Yes,Yes,3.6/5,4997,9876543233,Jayanagar,Buffet,"Pasta, Pizza","North Indian, Desserts, Mughlai",400,[],[],Dining,JP Nagar
+http://zomato.com/134,Address 134,Restaurant 134,Yes,Yes,3.7/5,992,9876543234,Whitefield,Dessert Parlor,"Pasta, Pizza","Mexican, Chinese",1500,[],[],Cafes,BTM
+http://zomato.com/135,Address 135,Restaurant 135,Yes,Yes,NEW,2386,9876543235,Indiranagar,Bakery,"Pasta, Pizza","South Indian, Beverages, Desserts",600,[],[],Cafes,Marathahalli
+http://zomato.com/136,Address 136,Restaurant 136,Yes,Yes,3.2/5,2240,9876543236,JP Nagar,Delivery,"Pasta, Pizza",South Indian,400,[],[],Dining,Marathahalli
+http://zomato.com/137,Address 137,Restaurant 137,Yes,No,3.3/5,1476,9876543237,Indiranagar,Quick Service Restaurant,"Pasta, Pizza","South Indian, North Indian, Chinese",1000,[],[],Dining,Jayanagar
+http://zomato.com/138,Address 138,Restaurant 138,Yes,No,2.5/5,3407,9876543238,JP Nagar,Bakery,"Pasta, Pizza","Beverages, Chinese",200,[],[],Other,Whitefield
+http://zomato.com/139,Address 139,Restaurant 139,Yes,Yes,NEW,389,9876543239,Marathahalli,Buffet,"Pasta, Pizza",Fast Food,3000,[],[],Dining,Whitefield
+http://zomato.com/140,Address 140,Restaurant 140,No,No,3.7/5,999,9876543240,Whitefield,Casual Dining,"Pasta, Pizza","Continental, Fast Food",1000,[],[],Cafes,Whitefield
+http://zomato.com/141,Address 141,Restaurant 141,Yes,Yes,3.2/5,4620,9876543241,Marathahalli,Quick Service Restaurant,"Pasta, Pizza","Italian, South Indian, Continental",800,[],[],Cafes,Whitefield
+http://zomato.com/142,Address 142,Restaurant 142,No,No,4.7/5,1855,9876543242,Whitefield,Buffet,"Pasta, Pizza","North Indian, Mughlai",200,[],[],Cafes,Indiranagar
+http://zomato.com/143,Address 143,Restaurant 143,No,Yes,2.6/5,658,9876543243,Indiranagar,Bakery,"Pasta, Pizza","Chinese, Fast Food",800,[],[],Other,Whitefield
+http://zomato.com/144,Address 144,Restaurant 144,No,No,2.8/5,2763,9876543244,JP Nagar,Casual Dining,"Pasta, Pizza",North Indian,1500,[],[],Other,BTM
+http://zomato.com/145,Address 145,Restaurant 145,Yes,No,5.0/5,3663,9876543245,Marathahalli,Quick Service Restaurant,"Pasta, Pizza",Italian,2000,[],[],Dining,HSR
+http://zomato.com/146,Address 146,Restaurant 146,Yes,Yes,3.7/5,4986,9876543246,Whitefield,Casual Dining,"Pasta, Pizza","Continental, Beverages, Mughlai",2000,[],[],Other,JP Nagar
+http://zomato.com/147,Address 147,Restaurant 147,Yes,No,4.3/5,1481,9876543247,HSR,Casual Dining,"Pasta, Pizza","Mughlai, Italian, South Indian",2000,[],[],Other,HSR
+http://zomato.com/148,Address 148,Restaurant 148,Yes,Yes,2.5/5,3731,9876543248,Jayanagar,Quick Service Restaurant,"Pasta, Pizza","Desserts, Continental, Fast Food",400,[],[],Cafes,BTM
+http://zomato.com/149,Address 149,Restaurant 149,No,Yes,3.8/5,451,9876543249,Jayanagar,Quick Service Restaurant,"Pasta, Pizza","South Indian, Continental, North Indian",600,[],[],Cafes,JP Nagar
+http://zomato.com/150,Address 150,Restaurant 150,Yes,Yes,NEW,2475,9876543250,Marathahalli,Casual Dining,"Pasta, Pizza",Chinese,1000,[],[],Dining,Indiranagar
+http://zomato.com/151,Address 151,Restaurant 151,Yes,Yes,2.6/5,3222,9876543251,JP Nagar,Buffet,"Pasta, Pizza","Chinese, Fast Food",800,[],[],Cafes,Whitefield
+http://zomato.com/152,Address 152,Restaurant 152,Yes,No,NEW,1537,9876543252,HSR,Dessert Parlor,"Pasta, Pizza",Continental,400,[],[],Other,Koramangala 5th Block
+http://zomato.com/153,Address 153,Restaurant 153,Yes,No,2.8/5,3093,9876543253,Marathahalli,Quick Service Restaurant,"Pasta, Pizza","Mexican, Desserts, Chinese",2000,[],[],Dining,HSR
+http://zomato.com/154,Address 154,Restaurant 154,Yes,No,4.2/5,882,9876543254,Indiranagar,Bakery,"Pasta, Pizza",Desserts,1000,[],[],Dining,Whitefield
+http://zomato.com/155,Address 155,Restaurant 155,No,Yes,3.0/5,4408,9876543255,Whitefield,Cafe,"Pasta, Pizza","Mexican, Continental, Fast Food",1000,[],[],Cafes,JP Nagar
+http://zomato.com/156,Address 156,Restaurant 156,Yes,No,2.8/5,4068,9876543256,BTM,Delivery,"Pasta, Pizza","Continental, Chinese",1500,[],[],Cafes,HSR
+http://zomato.com/157,Address 157,Restaurant 157,No,Yes,4.3/5,4935,9876543257,Indiranagar,Casual Dining,"Pasta, Pizza","South Indian, Italian",1500,[],[],Cafes,Jayanagar
+http://zomato.com/158,Address 158,Restaurant 158,Yes,No,NEW,2566,9876543258,Jayanagar,Casual Dining,"Pasta, Pizza","Mexican, Mughlai",2000,[],[],Dining,Marathahalli
+http://zomato.com/159,Address 159,Restaurant 159,No,No,2.6/5,3277,9876543259,Whitefield,Delivery,"Pasta, Pizza","Italian, Fast Food",800,[],[],Cafes,Jayanagar
+http://zomato.com/160,Address 160,Restaurant 160,Yes,No,4.3/5,374,9876543260,Marathahalli,Dessert Parlor,"Pasta, Pizza","North Indian, Beverages, Mughlai",2000,[],[],Other,Koramangala 5th Block
+http://zomato.com/161,Address 161,Restaurant 161,Yes,Yes,4.3/5,4546,9876543261,Indiranagar,Delivery,"Pasta, Pizza","Mexican, Fast Food, Chinese",2000,[],[],Dining,Whitefield
+http://zomato.com/162,Address 162,Restaurant 162,No,No,3.3/5,3697,9876543262,Koramangala 5th Block,Quick Service Restaurant,"Pasta, Pizza",Desserts,400,[],[],Cafes,Indiranagar
+http://zomato.com/163,Address 163,Restaurant 163,No,No,2.7/5,3062,9876543263,BTM,Delivery,"Pasta, Pizza","Fast Food, Beverages",600,[],[],Other,Whitefield
+http://zomato.com/164,Address 164,Restaurant 164,No,Yes,3.9/5,4690,9876543264,JP Nagar,Casual Dining,"Pasta, Pizza",Beverages,2000,[],[],Other,Koramangala 5th Block
+http://zomato.com/165,Address 165,Restaurant 165,Yes,No,3.6/5,3250,9876543265,HSR,Delivery,"Pasta, Pizza","Beverages, Mughlai, Fast Food",800,[],[],Cafes,Koramangala 5th Block
+http://zomato.com/166,Address 166,Restaurant 166,No,Yes,3.8/5,4595,9876543266,HSR,Cafe,"Pasta, Pizza","North Indian, South Indian, Mughlai",1000,[],[],Other,Marathahalli
+http://zomato.com/167,Address 167,Restaurant 167,Yes,No,2.7/5,4559,9876543267,JP Nagar,Bakery,"Pasta, Pizza","Mughlai, Beverages, Fast Food",1000,[],[],Dining,Koramangala 5th Block
+http://zomato.com/168,Address 168,Restaurant 168,Yes,Yes,NEW,112,9876543268,Koramangala 5th Block,Quick Service Restaurant,"Pasta, Pizza",Beverages,3000,[],[],Dining,Jayanagar
+http://zomato.com/169,Address 169,Restaurant 169,No,Yes,2.9/5,3197,9876543269,Jayanagar,Delivery,"Pasta, Pizza",Fast Food,200,[],[],Other,Marathahalli
+http://zomato.com/170,Address 170,Restaurant 170,No,No,3.0/5,2378,9876543270,Whitefield,Casual Dining,"Pasta, Pizza","Mughlai, Mexican",2000,[],[],Dining,Whitefield
+http://zomato.com/171,Address 171,Restaurant 171,Yes,Yes,3.3/5,1924,9876543271,JP Nagar,Buffet,"Pasta, Pizza","Desserts, Continental",3000,[],[],Cafes,HSR
+http://zomato.com/172,Address 172,Restaurant 172,Yes,Yes,4.5/5,139,9876543272,Koramangala 5th Block,Bakery,"Pasta, Pizza",North Indian,3000,[],[],Other,Whitefield
+http://zomato.com/173,Address 173,Restaurant 173,No,Yes,3.7/5,1424,9876543273,Marathahalli,Quick Service Restaurant,"Pasta, Pizza","Chinese, Fast Food",400,[],[],Dining,Indiranagar
+http://zomato.com/174,Address 174,Restaurant 174,No,Yes,4.3/5,2949,9876543274,BTM,Casual Dining,"Pasta, Pizza","Italian, South Indian, North Indian",200,[],[],Cafes,Koramangala 5th Block
+http://zomato.com/175,Address 175,Restaurant 175,No,Yes,5.0/5,3168,9876543275,HSR,Dessert Parlor,"Pasta, Pizza",Chinese,1500,[],[],Cafes,Koramangala 5th Block
+http://zomato.com/176,Address 176,Restaurant 176,Yes,Yes,4.1/5,516,9876543276,BTM,Cafe,"Pasta, Pizza",Mughlai,600,[],[],Dining,JP Nagar
+http://zomato.com/177,Address 177,Restaurant 177,Yes,No,4.2/5,2616,9876543277,Koramangala 5th Block,Dessert Parlor,"Pasta, Pizza",Mexican,800,[],[],Other,Marathahalli
+http://zomato.com/178,Address 178,Restaurant 178,Yes,Yes,NEW,887,9876543278,BTM,Cafe,"Pasta, Pizza","Italian, South Indian",2000,[],[],Cafes,JP Nagar
+http://zomato.com/179,Address 179,Restaurant 179,Yes,Yes,NEW,3104,9876543279,Jayanagar,Delivery,"Pasta, Pizza","Continental, North Indian",1000,[],[],Cafes,Marathahalli
+http://zomato.com/180,Address 180,Restaurant 180,Yes,No,3.7/5,49,9876543280,Jayanagar,Quick Service Restaurant,"Pasta, Pizza","South Indian, Mughlai, Desserts",400,[],[],Cafes,Jayanagar
+http://zomato.com/181,Address 181,Restaurant 181,Yes,No,4.3/5,3951,9876543281,Indiranagar,Delivery,"Pasta, Pizza","Mexican, Beverages, Italian",1000,[],[],Cafes,Marathahalli
+http://zomato.com/182,Address 182,Restaurant 182,No,No,3.6/5,3560,9876543282,JP Nagar,Cafe,"Pasta, Pizza","Continental, Fast Food, Mughlai",2000,[],[],Other,Whitefield
+http://zomato.com/183,Address 183,Restaurant 183,Yes,No,3.4/5,18,9876543283,Indiranagar,Cafe,"Pasta, Pizza","Fast Food, Mexican, Chinese",1500,[],[],Dining,Indiranagar
+http://zomato.com/184,Address 184,Restaurant 184,Yes,No,2.6/5,4821,9876543284,BTM,Cafe,"Pasta, Pizza",South Indian,200,[],[],Dining,HSR
+http://zomato.com/185,Address 185,Restaurant 185,Yes,No,3.9/5,1473,9876543285,HSR,Bakery,"Pasta, Pizza","Desserts, North Indian, Beverages",2000,[],[],Dining,Marathahalli
+http://zomato.com/186,Address 186,Restaurant 186,No,No,4.3/5,4061,9876543286,Koramangala 5th Block,Casual Dining,"Pasta, Pizza","Italian, Mughlai, Continental",200,[],[],Cafes,Marathahalli
+http://zomato.com/187,Address 187,Restaurant 187,Yes,Yes,4.7/5,2606,9876543287,Whitefield,Quick Service Restaurant,"Pasta, Pizza","Italian, Mughlai",800,[],[],Other,Marathahalli
+http://zomato.com/188,Address 188,Restaurant 188,Yes,Yes,3.6/5,451,9876543288,BTM,Delivery,"Pasta, Pizza",Mughlai,400,[],[],Dining,Indiranagar
+http://zomato.com/189,Address 189,Restaurant 189,No,No,4.0/5,3765,9876543289,Whitefield,Delivery,"Pasta, Pizza",Mexican,1500,[],[],Other,Koramangala 5th Block
+http://zomato.com/190,Address 190,Restaurant 190,Yes,Yes,3.0/5,2438,9876543290,Jayanagar,Dessert Parlor,"Pasta, Pizza","North Indian, Beverages, Continental",400,[],[],Dining,Indiranagar
+http://zomato.com/191,Address 191,Restaurant 191,Yes,Yes,4.1/5,4310,9876543291,Whitefield,Cafe,"Pasta, Pizza","Mughlai, Chinese, North Indian",800,[],[],Cafes,BTM
+http://zomato.com/192,Address 192,Restaurant 192,Yes,Yes,2.8/5,1549,9876543292,Whitefield,Buffet,"Pasta, Pizza","Chinese, Beverages, Desserts",1500,[],[],Dining,BTM
+http://zomato.com/193,Address 193,Restaurant 193,Yes,No,4.8/5,3474,9876543293,HSR,Cafe,"Pasta, Pizza","Mughlai, Mexican, Continental",3000,[],[],Cafes,BTM
+http://zomato.com/194,Address 194,Restaurant 194,Yes,No,3.1/5,127,9876543294,Whitefield,Cafe,"Pasta, Pizza",Chinese,1500,[],[],Cafes,Koramangala 5th Block
+http://zomato.com/195,Address 195,Restaurant 195,No,Yes,3.0/5,4855,9876543295,BTM,Buffet,"Pasta, Pizza","Beverages, South Indian",200,[],[],Dining,BTM
+http://zomato.com/196,Address 196,Restaurant 196,No,No,3.7/5,2761,9876543296,Koramangala 5th Block,Delivery,"Pasta, Pizza","Chinese, Italian, Desserts",200,[],[],Other,HSR
+http://zomato.com/197,Address 197,Restaurant 197,No,Yes,4.7/5,4456,9876543297,Whitefield,Dessert Parlor,"Pasta, Pizza","Mughlai, Mexican, Fast Food",200,[],[],Cafes,Whitefield
+http://zomato.com/198,Address 198,Restaurant 198,Yes,Yes,3.8/5,4664,9876543298,Marathahalli,Casual Dining,"Pasta, Pizza",Mexican,1000,[],[],Other,Indiranagar
+http://zomato.com/199,Address 199,Restaurant 199,Yes,Yes,4.0/5,1415,9876543299,Whitefield,Buffet,"Pasta, Pizza",South Indian,3000,[],[],Dining,Koramangala 5th Block
+http://zomato.com/200,Address 200,Restaurant 200,Yes,Yes,3.5/5,201,987654320,Whitefield,Bakery,"Pasta, Pizza","South Indian, Italian",600,[],[],Cafes,Whitefield
+http://zomato.com/201,Address 201,Restaurant 201,No,No,3.1/5,2369,987654321,Indiranagar,Quick Service Restaurant,"Pasta, Pizza","North Indian, Beverages",2000,[],[],Other,Whitefield
+http://zomato.com/202,Address 202,Restaurant 202,Yes,No,3.3/5,517,987654322,Koramangala 5th Block,Buffet,"Pasta, Pizza",Chinese,200,[],[],Cafes,Koramangala 5th Block
+http://zomato.com/203,Address 203,Restaurant 203,Yes,No,2.8/5,1341,987654323,BTM,Casual Dining,"Pasta, Pizza","Mexican, Beverages, South Indian",600,[],[],Dining,BTM
+http://zomato.com/204,Address 204,Restaurant 204,No,Yes,3.6/5,4776,987654324,Jayanagar,Delivery,"Pasta, Pizza","Mughlai, Continental, Desserts",600,[],[],Cafes,Koramangala 5th Block
+http://zomato.com/205,Address 205,Restaurant 205,Yes,No,2.7/5,1988,987654325,Indiranagar,Bakery,"Pasta, Pizza",Continental,400,[],[],Dining,Jayanagar
+http://zomato.com/206,Address 206,Restaurant 206,No,Yes,3.8/5,3545,987654326,BTM,Bakery,"Pasta, Pizza",Italian,800,[],[],Other,Whitefield
+http://zomato.com/207,Address 207,Restaurant 207,No,No,4.6/5,4520,987654327,JP Nagar,Bakery,"Pasta, Pizza","Italian, Continental, Beverages",1000,[],[],Cafes,Koramangala 5th Block
+http://zomato.com/208,Address 208,Restaurant 208,No,Yes,3.1/5,3802,987654328,Koramangala 5th Block,Cafe,"Pasta, Pizza","Continental, Chinese",600,[],[],Other,Whitefield
+http://zomato.com/209,Address 209,Restaurant 209,Yes,Yes,4.3/5,3275,987654329,Marathahalli,Quick Service Restaurant,"Pasta, Pizza",Chinese,2000,[],[],Dining,BTM
+http://zomato.com/210,Address 210,Restaurant 210,Yes,Yes,2.9/5,3654,9876543210,Koramangala 5th Block,Delivery,"Pasta, Pizza","Continental, North Indian",1000,[],[],Dining,Indiranagar
+http://zomato.com/211,Address 211,Restaurant 211,Yes,No,NEW,2434,9876543211,JP Nagar,Delivery,"Pasta, Pizza",Mexican,400,[],[],Other,HSR
+http://zomato.com/212,Address 212,Restaurant 212,Yes,No,4.2/5,4873,9876543212,JP Nagar,Bakery,"Pasta, Pizza",Beverages,200,[],[],Other,JP Nagar
+http://zomato.com/213,Address 213,Restaurant 213,Yes,No,4.6/5,207,9876543213,JP Nagar,Delivery,"Pasta, Pizza","Chinese, North Indian",1500,[],[],Dining,BTM
+http://zomato.com/214,Address 214,Restaurant 214,Yes,No,4.0/5,2633,9876543214,HSR,Quick Service Restaurant,"Pasta, Pizza","Chinese, Beverages, Continental",600,[],[],Other,JP Nagar
+http://zomato.com/215,Address 215,Restaurant 215,Yes,Yes,3.0/5,4117,9876543215,Jayanagar,Quick Service Restaurant,"Pasta, Pizza",North Indian,800,[],[],Dining,Marathahalli
+http://zomato.com/216,Address 216,Restaurant 216,No,No,3.2/5,153,9876543216,Whitefield,Dessert Parlor,"Pasta, Pizza","Mughlai, North Indian",1500,[],[],Other,Koramangala 5th Block
+http://zomato.com/217,Address 217,Restaurant 217,Yes,No,NEW,3366,9876543217,Koramangala 5th Block,Buffet,"Pasta, Pizza",Beverages,400,[],[],Dining,Koramangala 5th Block
+http://zomato.com/218,Address 218,Restaurant 218,No,Yes,4.8/5,4314,9876543218,BTM,Buffet,"Pasta, Pizza","Chinese, Fast Food, North Indian",1000,[],[],Dining,BTM
+http://zomato.com/219,Address 219,Restaurant 219,Yes,Yes,NEW,4764,9876543219,HSR,Dessert Parlor,"Pasta, Pizza","Beverages, North Indian",2000,[],[],Cafes,Whitefield
+http://zomato.com/220,Address 220,Restaurant 220,Yes,Yes,3.6/5,1518,9876543220,BTM,Casual Dining,"Pasta, Pizza",Chinese,3000,[],[],Dining,BTM
+http://zomato.com/221,Address 221,Restaurant 221,Yes,No,3.3/5,2600,9876543221,Whitefield,Buffet,"Pasta, Pizza",Continental,200,[],[],Dining,Marathahalli
+http://zomato.com/222,Address 222,Restaurant 222,No,Yes,2.6/5,2195,9876543222,Whitefield,Quick Service Restaurant,"Pasta, Pizza","Desserts, North Indian",1000,[],[],Cafes,BTM
+http://zomato.com/223,Address 223,Restaurant 223,No,Yes,5.0/5,4498,9876543223,Marathahalli,Quick Service Restaurant,"Pasta, Pizza","South Indian, Continental, Beverages",800,[],[],Cafes,Koramangala 5th Block
+http://zomato.com/224,Address 224,Restaurant 224,No,Yes,2.5/5,4691,9876543224,JP Nagar,Buffet,"Pasta, Pizza","Mexican, Continental",600,[],[],Other,BTM
+http://zomato.com/225,Address 225,Restaurant 225,No,No,4.1/5,3554,9876543225,Jayanagar,Quick Service Restaurant,"Pasta, Pizza","Mughlai, Italian",800,[],[],Other,Whitefield
+http://zomato.com/226,Address 226,Restaurant 226,Yes,Yes,3.6/5,2414,9876543226,Marathahalli,Dessert Parlor,"Pasta, Pizza","Mughlai, Desserts, North Indian",1000,[],[],Dining,Koramangala 5th Block
+http://zomato.com/227,Address 227,Restaurant 227,No,No,3.7/5,2849,9876543227,Indiranagar,Bakery,"Pasta, Pizza","Fast Food, Mexican, South Indian",1000,[],[],Other,Whitefield
+http://zomato.com/228,Address 228,Restaurant 228,Yes,No,2.8/5,1742,9876543228,HSR,Bakery,"Pasta, Pizza",South Indian,1500,[],[],Other,BTM
+http://zomato.com/229,Address 229,Restaurant 229,Yes,Yes,NEW,1306,9876543229,HSR,Delivery,"Pasta, Pizza","North Indian, South Indian, Beverages",800,[],[],Dining,Koramangala 5th Block
+http://zomato.com/230,Address 230,Restaurant 230,No,Yes,4.3/5,3849,9876543230,Jayanagar,Bakery,"Pasta, Pizza","Beverages, North Indian",800,[],[],Cafes,Jayanagar
+http://zomato.com/231,Address 231,Restaurant 231,No,No,4.2/5,4168,9876543231,Whitefield,Cafe,"Pasta, Pizza","Chinese, North Indian",800,[],[],Cafes,HSR
+http://zomato.com/232,Address 232,Restaurant 232,No,Yes,2.7/5,4576,9876543232,BTM,Dessert Parlor,"Pasta, Pizza",Continental,200,[],[],Dining,Whitefield
+http://zomato.com/233,Address 233,Restaurant 233,No,Yes,3.6/5,4655,9876543233,HSR,Quick Service Restaurant,"Pasta, Pizza",Chinese,2000,[],[],Dining,HSR
+http://zomato.com/234,Address 234,Restaurant 234,No,No,2.9/5,4840,9876543234,Jayanagar,Buffet,"Pasta, Pizza","North Indian, Chinese, Italian",1000,[],[],Dining,Jayanagar
+http://zomato.com/235,Address 235,Restaurant 235,No,No,4.6/5,4195,9876543235,HSR,Bakery,"Pasta, Pizza",Mexican,400,[],[],Dining,Jayanagar
+http://zomato.com/236,Address 236,Restaurant 236,No,Yes,4.2/5,2555,9876543236,HSR,Dessert Parlor,"Pasta, Pizza","North Indian, Desserts",200,[],[],Dining,Jayanagar
+http://zomato.com/237,Address 237,Restaurant 237,No,No,4.0/5,2305,9876543237,JP Nagar,Bakery,"Pasta, Pizza",Italian,200,[],[],Dining,Jayanagar
+http://zomato.com/238,Address 238,Restaurant 238,Yes,Yes,3.9/5,4508,9876543238,Indiranagar,Casual Dining,"Pasta, Pizza","Continental, Chinese",200,[],[],Other,Indiranagar
+http://zomato.com/239,Address 239,Restaurant 239,No,Yes,NEW,1088,9876543239,JP Nagar,Quick Service Restaurant,"Pasta, Pizza",Italian,1500,[],[],Other,HSR
+http://zomato.com/240,Address 240,Restaurant 240,No,Yes,4.2/5,2642,9876543240,Indiranagar,Casual Dining,"Pasta, Pizza","Beverages, Desserts",3000,[],[],Other,BTM
+http://zomato.com/241,Address 241,Restaurant 241,Yes,No,3.0/5,1177,9876543241,HSR,Quick Service Restaurant,"Pasta, Pizza","Mughlai, Desserts",2000,[],[],Cafes,Marathahalli
+http://zomato.com/242,Address 242,Restaurant 242,No,Yes,3.5/5,4916,9876543242,Marathahalli,Dessert Parlor,"Pasta, Pizza","North Indian, Beverages",2000,[],[],Dining,BTM
+http://zomato.com/243,Address 243,Restaurant 243,Yes,Yes,2.8/5,4757,9876543243,BTM,Delivery,"Pasta, Pizza","South Indian, Chinese, Fast Food",400,[],[],Dining,BTM
+http://zomato.com/244,Address 244,Restaurant 244,Yes,Yes,5.0/5,2994,9876543244,Whitefield,Bakery,"Pasta, Pizza",Mexican,3000,[],[],Other,HSR
+http://zomato.com/245,Address 245,Restaurant 245,No,No,NEW,559,9876543245,HSR,Bakery,"Pasta, Pizza",Continental,800,[],[],Cafes,BTM
+http://zomato.com/246,Address 246,Restaurant 246,Yes,No,3.5/5,2964,9876543246,Indiranagar,Cafe,"Pasta, Pizza",Continental,1500,[],[],Other,JP Nagar
+http://zomato.com/247,Address 247,Restaurant 247,Yes,No,4.5/5,1271,9876543247,Indiranagar,Buffet,"Pasta, Pizza","Continental, South Indian",1000,[],[],Dining,Indiranagar
+http://zomato.com/248,Address 248,Restaurant 248,Yes,No,4.3/5,1813,9876543248,Indiranagar,Casual Dining,"Pasta, Pizza","North Indian, Chinese, Fast Food",3000,[],[],Dining,BTM
+http://zomato.com/249,Address 249,Restaurant 249,Yes,No,3.5/5,2915,9876543249,HSR,Bakery,"Pasta, Pizza",Beverages,600,[],[],Other,Koramangala 5th Block
+http://zomato.com/250,Address 250,Restaurant 250,No,Yes,4.2/5,609,9876543250,Jayanagar,Dessert Parlor,"Pasta, Pizza","Italian, Mughlai, South Indian",1500,[],[],Other,BTM
+http://zomato.com/251,Address 251,Restaurant 251,Yes,No,4.4/5,2461,9876543251,Marathahalli,Delivery,"Pasta, Pizza",Italian,600,[],[],Dining,Koramangala 5th Block
+http://zomato.com/252,Address 252,Restaurant 252,No,No,3.6/5,4120,9876543252,Jayanagar,Buffet,"Pasta, Pizza","Italian, Mexican, South Indian",1000,[],[],Other,Marathahalli
+http://zomato.com/253,Address 253,Restaurant 253,Yes,No,2.8/5,283,9876543253,Whitefield,Dessert Parlor,"Pasta, Pizza","Mughlai, North Indian",400,[],[],Dining,JP Nagar
+http://zomato.com/254,Address 254,Restaurant 254,Yes,Yes,2.5/5,2928,9876543254,HSR,Casual Dining,"Pasta, Pizza",Mughlai,2000,[],[],Other,JP Nagar
+http://zomato.com/255,Address 255,Restaurant 255,Yes,No,3.4/5,4396,9876543255,Indiranagar,Cafe,"Pasta, Pizza",Continental,600,[],[],Cafes,JP Nagar
+http://zomato.com/256,Address 256,Restaurant 256,Yes,No,4.2/5,1091,9876543256,Marathahalli,Bakery,"Pasta, Pizza",Desserts,200,[],[],Dining,Jayanagar
+http://zomato.com/257,Address 257,Restaurant 257,No,Yes,3.6/5,816,9876543257,Marathahalli,Dessert Parlor,"Pasta, Pizza",Italian,1500,[],[],Cafes,Indiranagar
+http://zomato.com/258,Address 258,Restaurant 258,No,No,3.4/5,82,9876543258,Koramangala 5th Block,Buffet,"Pasta, Pizza","Italian, South Indian",3000,[],[],Other,BTM
+http://zomato.com/259,Address 259,Restaurant 259,Yes,Yes,2.7/5,1920,9876543259,Whitefield,Quick Service Restaurant,"Pasta, Pizza","Fast Food, Desserts",3000,[],[],Cafes,Koramangala 5th Block
+http://zomato.com/260,Address 260,Restaurant 260,Yes,Yes,4.2/5,3491,9876543260,BTM,Delivery,"Pasta, Pizza",Fast Food,600,[],[],Other,Indiranagar
+http://zomato.com/261,Address 261,Restaurant 261,No,Yes,3.7/5,3144,9876543261,BTM,Buffet,"Pasta, Pizza",Desserts,1000,[],[],Cafes,Indiranagar
+http://zomato.com/262,Address 262,Restaurant 262,Yes,Yes,4.7/5,2093,9876543262,Marathahalli,Dessert Parlor,"Pasta, Pizza","Beverages, North Indian",2000,[],[],Cafes,Indiranagar
+http://zomato.com/263,Address 263,Restaurant 263,Yes,Yes,3.7/5,4713,9876543263,HSR,Delivery,"Pasta, Pizza","Beverages, Desserts",200,[],[],Cafes,JP Nagar
+http://zomato.com/264,Address 264,Restaurant 264,Yes,No,NEW,175,9876543264,Indiranagar,Bakery,"Pasta, Pizza","Chinese, Mughlai",3000,[],[],Dining,Marathahalli
+http://zomato.com/265,Address 265,Restaurant 265,No,Yes,3.5/5,2704,9876543265,Indiranagar,Quick Service Restaurant,"Pasta, Pizza","Italian, Continental",600,[],[],Cafes,Marathahalli
+http://zomato.com/266,Address 266,Restaurant 266,No,Yes,4.0/5,4937,9876543266,Marathahalli,Cafe,"Pasta, Pizza","Continental, Beverages",2000,[],[],Other,JP Nagar
+http://zomato.com/267,Address 267,Restaurant 267,No,No,4.0/5,369,9876543267,Jayanagar,Buffet,"Pasta, Pizza",Beverages,1000,[],[],Other,Koramangala 5th Block
+http://zomato.com/268,Address 268,Restaurant 268,Yes,Yes,4.5/5,1818,9876543268,Whitefield,Cafe,"Pasta, Pizza","Beverages, North Indian",400,[],[],Dining,Koramangala 5th Block
+http://zomato.com/269,Address 269,Restaurant 269,Yes,No,4.9/5,2101,9876543269,Indiranagar,Quick Service Restaurant,"Pasta, Pizza",Chinese,1000,[],[],Dining,Koramangala 5th Block
+http://zomato.com/270,Address 270,Restaurant 270,No,No,NEW,4785,9876543270,Marathahalli,Delivery,"Pasta, Pizza","Mughlai, Italian, South Indian",400,[],[],Other,BTM
+http://zomato.com/271,Address 271,Restaurant 271,No,No,2.5/5,3490,9876543271,Indiranagar,Bakery,"Pasta, Pizza","Chinese, Italian, Mexican",3000,[],[],Cafes,Marathahalli
+http://zomato.com/272,Address 272,Restaurant 272,No,Yes,4.7/5,1779,9876543272,BTM,Dessert Parlor,"Pasta, Pizza","Desserts, Fast Food, Italian",2000,[],[],Other,BTM
+http://zomato.com/273,Address 273,Restaurant 273,No,Yes,4.8/5,1364,9876543273,Marathahalli,Quick Service Restaurant,"Pasta, Pizza",Continental,2000,[],[],Dining,Marathahalli
+http://zomato.com/274,Address 274,Restaurant 274,Yes,Yes,NEW,4462,9876543274,Whitefield,Casual Dining,"Pasta, Pizza","Fast Food, Chinese",200,[],[],Dining,Indiranagar
+http://zomato.com/275,Address 275,Restaurant 275,No,No,3.4/5,3342,9876543275,Marathahalli,Delivery,"Pasta, Pizza",Mughlai,1000,[],[],Other,JP Nagar
+http://zomato.com/276,Address 276,Restaurant 276,Yes,Yes,3.7/5,4739,9876543276,Koramangala 5th Block,Cafe,"Pasta, Pizza","North Indian, Mughlai, Mexican",800,[],[],Cafes,Jayanagar
+http://zomato.com/277,Address 277,Restaurant 277,No,Yes,3.2/5,3676,9876543277,Marathahalli,Buffet,"Pasta, Pizza",Chinese,3000,[],[],Cafes,Indiranagar
+http://zomato.com/278,Address 278,Restaurant 278,Yes,Yes,4.5/5,2426,9876543278,Marathahalli,Quick Service Restaurant,"Pasta, Pizza",Mexican,1500,[],[],Dining,Whitefield
+http://zomato.com/279,Address 279,Restaurant 279,No,No,3.3/5,72,9876543279,HSR,Cafe,"Pasta, Pizza",Fast Food,800,[],[],Other,BTM
+http://zomato.com/280,Address 280,Restaurant 280,No,No,4.3/5,2962,9876543280,BTM,Delivery,"Pasta, Pizza",Desserts,3000,[],[],Other,Marathahalli
+http://zomato.com/281,Address 281,Restaurant 281,No,Yes,3.5/5,859,9876543281,Whitefield,Cafe,"Pasta, Pizza","South Indian, Chinese",800,[],[],Dining,Indiranagar
+http://zomato.com/282,Address 282,Restaurant 282,No,Yes,3.0/5,3856,9876543282,HSR,Quick Service Restaurant,"Pasta, Pizza",Italian,800,[],[],Other,JP Nagar
+http://zomato.com/283,Address 283,Restaurant 283,Yes,Yes,3.0/5,4138,9876543283,Marathahalli,Delivery,"Pasta, Pizza","Mexican, Chinese",1500,[],[],Dining,Whitefield
+http://zomato.com/284,Address 284,Restaurant 284,No,Yes,4.3/5,2424,9876543284,Whitefield,Casual Dining,"Pasta, Pizza","Desserts, Continental, Mughlai",800,[],[],Cafes,HSR
+http://zomato.com/285,Address 285,Restaurant 285,Yes,No,3.9/5,1064,9876543285,Koramangala 5th Block,Quick Service Restaurant,"Pasta, Pizza","Continental, Mughlai",400,[],[],Cafes,BTM
+http://zomato.com/286,Address 286,Restaurant 286,Yes,No,4.9/5,2217,9876543286,Whitefield,Dessert Parlor,"Pasta, Pizza","Chinese, Italian, South Indian",1000,[],[],Other,Indiranagar
+http://zomato.com/287,Address 287,Restaurant 287,Yes,No,4.5/5,4017,9876543287,Indiranagar,Bakery,"Pasta, Pizza",Mexican,2000,[],[],Cafes,JP Nagar
+http://zomato.com/288,Address 288,Restaurant 288,Yes,No,2.6/5,2259,9876543288,HSR,Quick Service Restaurant,"Pasta, Pizza",Mexican,200,[],[],Cafes,JP Nagar
+http://zomato.com/289,Address 289,Restaurant 289,No,Yes,4.9/5,3751,9876543289,Whitefield,Delivery,"Pasta, Pizza","Mexican, Mughlai, North Indian",800,[],[],Dining,Marathahalli
+http://zomato.com/290,Address 290,Restaurant 290,Yes,Yes,4.5/5,2086,9876543290,BTM,Buffet,"Pasta, Pizza","Continental, North Indian",2000,[],[],Dining,Jayanagar
+http://zomato.com/291,Address 291,Restaurant 291,Yes,Yes,3.1/5,368,9876543291,Koramangala 5th Block,Bakery,"Pasta, Pizza","Mughlai, South Indian, Mexican",800,[],[],Other,Indiranagar
+http://zomato.com/292,Address 292,Restaurant 292,Yes,No,4.0/5,2804,9876543292,JP Nagar,Quick Service Restaurant,"Pasta, Pizza","Chinese, North Indian",3000,[],[],Dining,JP Nagar
+http://zomato.com/293,Address 293,Restaurant 293,No,Yes,4.6/5,150,9876543293,Marathahalli,Casual Dining,"Pasta, Pizza","Fast Food, Continental, Beverages",200,[],[],Other,BTM
+http://zomato.com/294,Address 294,Restaurant 294,No,No,3.4/5,1134,9876543294,Whitefield,Buffet,"Pasta, Pizza","Italian, North Indian",3000,[],[],Other,Koramangala 5th Block
+http://zomato.com/295,Address 295,Restaurant 295,No,No,4.5/5,2784,9876543295,Marathahalli,Casual Dining,"Pasta, Pizza","Mughlai, Desserts",200,[],[],Dining,JP Nagar
+http://zomato.com/296,Address 296,Restaurant 296,No,Yes,4.6/5,4164,9876543296,Jayanagar,Dessert Parlor,"Pasta, Pizza",South Indian,800,[],[],Cafes,Jayanagar
+http://zomato.com/297,Address 297,Restaurant 297,Yes,Yes,4.2/5,2346,9876543297,Indiranagar,Buffet,"Pasta, Pizza","Chinese, Beverages",400,[],[],Cafes,JP Nagar
+http://zomato.com/298,Address 298,Restaurant 298,Yes,Yes,NEW,4897,9876543298,HSR,Cafe,"Pasta, Pizza",Desserts,2000,[],[],Cafes,Marathahalli
+http://zomato.com/299,Address 299,Restaurant 299,No,No,3.6/5,2250,9876543299,Indiranagar,Buffet,"Pasta, Pizza","Mexican, Beverages, South Indian",200,[],[],Cafes,HSR
+http://zomato.com/300,Address 300,Restaurant 300,Yes,Yes,2.9/5,60,987654320,Jayanagar,Bakery,"Pasta, Pizza","Desserts, Mughlai",1000,[],[],Other,Indiranagar
+http://zomato.com/301,Address 301,Restaurant 301,Yes,No,4.7/5,3010,987654321,Jayanagar,Buffet,"Pasta, Pizza","Desserts, Fast Food, Beverages",2000,[],[],Cafes,Marathahalli
+http://zomato.com/302,Address 302,Restaurant 302,Yes,Yes,2.7/5,3901,987654322,HSR,Delivery,"Pasta, Pizza",Chinese,1000,[],[],Other,Indiranagar
+http://zomato.com/303,Address 303,Restaurant 303,No,No,NEW,1337,987654323,Whitefield,Delivery,"Pasta, Pizza","Beverages, Desserts",2000,[],[],Dining,Whitefield
+http://zomato.com/304,Address 304,Restaurant 304,No,No,4.0/5,1184,987654324,Jayanagar,Cafe,"Pasta, Pizza",Fast Food,400,[],[],Dining,Indiranagar
+http://zomato.com/305,Address 305,Restaurant 305,Yes,Yes,3.1/5,4426,987654325,JP Nagar,Buffet,"Pasta, Pizza","Continental, Desserts",3000,[],[],Other,Whitefield
+http://zomato.com/306,Address 306,Restaurant 306,No,No,4.0/5,1551,987654326,Marathahalli,Casual Dining,"Pasta, Pizza","South Indian, Chinese",1500,[],[],Cafes,Marathahalli
+http://zomato.com/307,Address 307,Restaurant 307,No,No,5.0/5,4433,987654327,Marathahalli,Casual Dining,"Pasta, Pizza",Italian,3000,[],[],Other,Koramangala 5th Block
+http://zomato.com/308,Address 308,Restaurant 308,No,Yes,4.2/5,1629,987654328,Koramangala 5th Block,Quick Service Restaurant,"Pasta, Pizza","Fast Food, Italian, Mexican",600,[],[],Cafes,BTM
+http://zomato.com/309,Address 309,Restaurant 309,No,No,3.6/5,1327,987654329,BTM,Dessert Parlor,"Pasta, Pizza",Fast Food,400,[],[],Cafes,Jayanagar
+http://zomato.com/310,Address 310,Restaurant 310,No,Yes,4.2/5,1526,9876543210,Jayanagar,Bakery,"Pasta, Pizza","Desserts, South Indian",800,[],[],Other,Koramangala 5th Block
+http://zomato.com/311,Address 311,Restaurant 311,Yes,No,2.8/5,1673,9876543211,Jayanagar,Dessert Parlor,"Pasta, Pizza","Mughlai, South Indian",600,[],[],Other,BTM
+http://zomato.com/312,Address 312,Restaurant 312,No,Yes,4.3/5,1361,9876543212,JP Nagar,Buffet,"Pasta, Pizza","North Indian, Chinese",800,[],[],Cafes,Whitefield
+http://zomato.com/313,Address 313,Restaurant 313,Yes,Yes,3.2/5,1573,9876543213,Indiranagar,Dessert Parlor,"Pasta, Pizza","North Indian, Mughlai",1000,[],[],Other,JP Nagar
+http://zomato.com/314,Address 314,Restaurant 314,Yes,No,NEW,2686,9876543214,Indiranagar,Quick Service Restaurant,"Pasta, Pizza",South Indian,200,[],[],Cafes,JP Nagar
+http://zomato.com/315,Address 315,Restaurant 315,No,No,NEW,4370,9876543215,Marathahalli,Dessert Parlor,"Pasta, Pizza",Mughlai,2000,[],[],Other,Koramangala 5th Block
+http://zomato.com/316,Address 316,Restaurant 316,Yes,No,3.0/5,2366,9876543216,Marathahalli,Cafe,"Pasta, Pizza",Italian,800,[],[],Dining,JP Nagar
+http://zomato.com/317,Address 317,Restaurant 317,Yes,No,3.1/5,3757,9876543217,Whitefield,Quick Service Restaurant,"Pasta, Pizza",Mughlai,1000,[],[],Cafes,Whitefield
+http://zomato.com/318,Address 318,Restaurant 318,Yes,No,2.7/5,2434,9876543218,HSR,Cafe,"Pasta, Pizza","Desserts, Beverages, Mexican",400,[],[],Dining,Marathahalli
+http://zomato.com/319,Address 319,Restaurant 319,No,Yes,2.7/5,1993,9876543219,BTM,Buffet,"Pasta, Pizza",Fast Food,800,[],[],Other,Jayanagar
+http://zomato.com/320,Address 320,Restaurant 320,No,No,3.1/5,869,9876543220,JP Nagar,Quick Service Restaurant,"Pasta, Pizza","North Indian, Fast Food, Mughlai",3000,[],[],Dining,HSR
+http://zomato.com/321,Address 321,Restaurant 321,Yes,Yes,4.7/5,1014,9876543221,HSR,Buffet,"Pasta, Pizza","Beverages, South Indian",1000,[],[],Other,Indiranagar
+http://zomato.com/322,Address 322,Restaurant 322,No,Yes,3.8/5,1911,9876543222,HSR,Buffet,"Pasta, Pizza",Mughlai,200,[],[],Cafes,Whitefield
+http://zomato.com/323,Address 323,Restaurant 323,No,No,3.3/5,602,9876543223,Koramangala 5th Block,Dessert Parlor,"Pasta, Pizza",South Indian,2000,[],[],Other,BTM
+http://zomato.com/324,Address 324,Restaurant 324,No,Yes,5.0/5,3821,9876543224,HSR,Cafe,"Pasta, Pizza","North Indian, Italian, South Indian",800,[],[],Other,HSR
+http://zomato.com/325,Address 325,Restaurant 325,No,Yes,3.9/5,690,9876543225,Koramangala 5th Block,Buffet,"Pasta, Pizza","Mughlai, Italian, Chinese",1500,[],[],Cafes,Whitefield
+http://zomato.com/326,Address 326,Restaurant 326,Yes,Yes,3.7/5,493,9876543226,HSR,Cafe,"Pasta, Pizza","Desserts, Mughlai, Beverages",1000,[],[],Other,Indiranagar
+http://zomato.com/327,Address 327,Restaurant 327,Yes,Yes,NEW,489,9876543227,JP Nagar,Cafe,"Pasta, Pizza","Fast Food, Italian, Mexican",800,[],[],Cafes,Indiranagar
+http://zomato.com/328,Address 328,Restaurant 328,No,No,4.9/5,2556,9876543228,Koramangala 5th Block,Quick Service Restaurant,"Pasta, Pizza","Desserts, Mexican, Mughlai",200,[],[],Other,Jayanagar
+http://zomato.com/329,Address 329,Restaurant 329,No,Yes,4.2/5,4485,9876543229,Indiranagar,Delivery,"Pasta, Pizza","Mexican, Beverages",2000,[],[],Cafes,Jayanagar
+http://zomato.com/330,Address 330,Restaurant 330,Yes,No,3.8/5,294,9876543230,Koramangala 5th Block,Dessert Parlor,"Pasta, Pizza","Beverages, Continental, Mughlai",800,[],[],Dining,Jayanagar
+http://zomato.com/331,Address 331,Restaurant 331,Yes,No,NEW,4027,9876543231,Koramangala 5th Block,Buffet,"Pasta, Pizza",Continental,800,[],[],Other,JP Nagar
+http://zomato.com/332,Address 332,Restaurant 332,No,Yes,4.4/5,2843,9876543232,JP Nagar,Cafe,"Pasta, Pizza","Desserts, Mexican",2000,[],[],Other,BTM
+http://zomato.com/333,Address 333,Restaurant 333,Yes,No,4.2/5,2912,9876543233,JP Nagar,Bakery,"Pasta, Pizza","Fast Food, Continental, Chinese",1500,[],[],Other,BTM
+http://zomato.com/334,Address 334,Restaurant 334,No,No,4.8/5,1717,9876543234,Koramangala 5th Block,Delivery,"Pasta, Pizza",North Indian,1000,[],[],Cafes,Whitefield
+http://zomato.com/335,Address 335,Restaurant 335,No,No,3.5/5,2596,9876543235,BTM,Buffet,"Pasta, Pizza","Chinese, Beverages",600,[],[],Other,Marathahalli
+http://zomato.com/336,Address 336,Restaurant 336,Yes,Yes,5.0/5,4744,9876543236,Jayanagar,Bakery,"Pasta, Pizza",Mexican,3000,[],[],Cafes,Indiranagar
+http://zomato.com/337,Address 337,Restaurant 337,Yes,No,3.8/5,1873,9876543237,BTM,Dessert Parlor,"Pasta, Pizza",Mughlai,2000,[],[],Other,Whitefield
+http://zomato.com/338,Address 338,Restaurant 338,No,No,3.8/5,4663,9876543238,JP Nagar,Dessert Parlor,"Pasta, Pizza","Beverages, Fast Food",800,[],[],Dining,HSR
+http://zomato.com/339,Address 339,Restaurant 339,No,No,2.7/5,3258,9876543239,BTM,Cafe,"Pasta, Pizza","Beverages, Mexican",600,[],[],Other,Whitefield
+http://zomato.com/340,Address 340,Restaurant 340,Yes,Yes,2.8/5,2817,9876543240,BTM,Cafe,"Pasta, Pizza","Mughlai, Beverages, Chinese",400,[],[],Dining,BTM
+http://zomato.com/341,Address 341,Restaurant 341,No,No,4.5/5,444,9876543241,Whitefield,Buffet,"Pasta, Pizza","Mughlai, Desserts",800,[],[],Cafes,Jayanagar
+http://zomato.com/342,Address 342,Restaurant 342,Yes,Yes,2.6/5,3641,9876543242,Whitefield,Quick Service Restaurant,"Pasta, Pizza","Chinese, Continental, Mexican",600,[],[],Dining,Jayanagar
+http://zomato.com/343,Address 343,Restaurant 343,No,Yes,3.2/5,4458,9876543243,Indiranagar,Delivery,"Pasta, Pizza","Fast Food, Beverages",400,[],[],Other,Whitefield
+http://zomato.com/344,Address 344,Restaurant 344,Yes,Yes,2.7/5,741,9876543244,HSR,Buffet,"Pasta, Pizza",Mughlai,1500,[],[],Other,BTM
+http://zomato.com/345,Address 345,Restaurant 345,Yes,Yes,3.9/5,2041,9876543245,Koramangala 5th Block,Delivery,"Pasta, Pizza",Continental,1000,[],[],Cafes,BTM
+http://zomato.com/346,Address 346,Restaurant 346,Yes,Yes,3.5/5,679,9876543246,Jayanagar,Cafe,"Pasta, Pizza","Chinese, Mughlai",800,[],[],Other,BTM
+http://zomato.com/347,Address 347,Restaurant 347,No,Yes,4.0/5,2467,9876543247,Indiranagar,Dessert Parlor,"Pasta, Pizza",Chinese,1000,[],[],Other,Jayanagar
+http://zomato.com/348,Address 348,Restaurant 348,No,No,4.8/5,3697,9876543248,Koramangala 5th Block,Cafe,"Pasta, Pizza","Desserts, Beverages",400,[],[],Cafes,BTM
+http://zomato.com/349,Address 349,Restaurant 349,Yes,Yes,5.0/5,1358,9876543249,BTM,Dessert Parlor,"Pasta, Pizza","Beverages, Chinese, Italian",1000,[],[],Cafes,JP Nagar
+http://zomato.com/350,Address 350,Restaurant 350,No,No,3.0/5,62,9876543250,JP Nagar,Buffet,"Pasta, Pizza",Mexican,1000,[],[],Dining,Indiranagar
+http://zomato.com/351,Address 351,Restaurant 351,Yes,No,2.8/5,2559,9876543251,Whitefield,Dessert Parlor,"Pasta, Pizza","Italian, Continental, Mexican",2000,[],[],Cafes,HSR
+http://zomato.com/352,Address 352,Restaurant 352,Yes,Yes,3.5/5,3769,9876543252,Marathahalli,Cafe,"Pasta, Pizza",Beverages,200,[],[],Other,BTM
+http://zomato.com/353,Address 353,Restaurant 353,No,No,4.7/5,4351,9876543253,Jayanagar,Casual Dining,"Pasta, Pizza",Beverages,400,[],[],Cafes,Whitefield
+http://zomato.com/354,Address 354,Restaurant 354,No,No,4.5/5,134,9876543254,BTM,Delivery,"Pasta, Pizza",Mexican,1000,[],[],Other,Indiranagar
+http://zomato.com/355,Address 355,Restaurant 355,Yes,No,2.7/5,3644,9876543255,Marathahalli,Bakery,"Pasta, Pizza","South Indian, Beverages",3000,[],[],Dining,JP Nagar
+http://zomato.com/356,Address 356,Restaurant 356,No,No,2.9/5,4970,9876543256,Whitefield,Dessert Parlor,"Pasta, Pizza","Mughlai, North Indian, Continental",600,[],[],Cafes,HSR
+http://zomato.com/357,Address 357,Restaurant 357,No,Yes,3.4/5,4917,9876543257,BTM,Dessert Parlor,"Pasta, Pizza",South Indian,400,[],[],Other,Jayanagar
+http://zomato.com/358,Address 358,Restaurant 358,Yes,No,4.1/5,2135,9876543258,HSR,Casual Dining,"Pasta, Pizza","Mexican, South Indian, Fast Food",200,[],[],Cafes,Koramangala 5th Block
+http://zomato.com/359,Address 359,Restaurant 359,Yes,Yes,2.8/5,3278,9876543259,HSR,Buffet,"Pasta, Pizza","Mughlai, Continental, Mexican",800,[],[],Cafes,JP Nagar
+http://zomato.com/360,Address 360,Restaurant 360,No,No,4.8/5,822,9876543260,Marathahalli,Buffet,"Pasta, Pizza",Italian,1500,[],[],Cafes,Koramangala 5th Block
+http://zomato.com/361,Address 361,Restaurant 361,Yes,No,4.0/5,3074,9876543261,JP Nagar,Buffet,"Pasta, Pizza",Continental,1000,[],[],Cafes,Indiranagar
+http://zomato.com/362,Address 362,Restaurant 362,Yes,Yes,2.9/5,2981,9876543262,BTM,Bakery,"Pasta, Pizza","Continental, South Indian, Fast Food",600,[],[],Dining,Whitefield
+http://zomato.com/363,Address 363,Restaurant 363,No,No,3.5/5,120,9876543263,Koramangala 5th Block,Quick Service Restaurant,"Pasta, Pizza",Mughlai,200,[],[],Other,HSR
+http://zomato.com/364,Address 364,Restaurant 364,Yes,No,3.4/5,1637,9876543264,BTM,Casual Dining,"Pasta, Pizza",Italian,400,[],[],Cafes,Jayanagar
+http://zomato.com/365,Address 365,Restaurant 365,Yes,No,NEW,924,9876543265,JP Nagar,Bakery,"Pasta, Pizza",Mexican,1500,[],[],Other,HSR
+http://zomato.com/366,Address 366,Restaurant 366,No,Yes,NEW,644,9876543266,BTM,Casual Dining,"Pasta, Pizza","Beverages, Mughlai",1500,[],[],Dining,JP Nagar
+http://zomato.com/367,Address 367,Restaurant 367,No,No,4.9/5,2032,9876543267,Marathahalli,Dessert Parlor,"Pasta, Pizza","Desserts, Continental",3000,[],[],Other,Jayanagar
+http://zomato.com/368,Address 368,Restaurant 368,Yes,Yes,4.9/5,2761,9876543268,JP Nagar,Delivery,"Pasta, Pizza","Fast Food, Beverages, Mughlai",1000,[],[],Other,Koramangala 5th Block
+http://zomato.com/369,Address 369,Restaurant 369,Yes,No,3.3/5,2068,9876543269,Whitefield,Casual Dining,"Pasta, Pizza","Italian, Desserts, Beverages",200,[],[],Dining,Koramangala 5th Block
+http://zomato.com/370,Address 370,Restaurant 370,No,Yes,3.6/5,241,9876543270,Jayanagar,Quick Service Restaurant,"Pasta, Pizza","Mughlai, Beverages, Mexican",200,[],[],Cafes,Marathahalli
+http://zomato.com/371,Address 371,Restaurant 371,No,Yes,4.1/5,2668,9876543271,JP Nagar,Cafe,"Pasta, Pizza","Mexican, South Indian",600,[],[],Other,HSR
+http://zomato.com/372,Address 372,Restaurant 372,No,No,4.0/5,802,9876543272,BTM,Bakery,"Pasta, Pizza","Beverages, Mexican, North Indian",800,[],[],Other,BTM
+http://zomato.com/373,Address 373,Restaurant 373,No,No,2.9/5,4164,9876543273,Whitefield,Casual Dining,"Pasta, Pizza","Fast Food, North Indian, Italian",800,[],[],Cafes,Whitefield
+http://zomato.com/374,Address 374,Restaurant 374,Yes,Yes,NEW,195,9876543274,Jayanagar,Casual Dining,"Pasta, Pizza","Italian, South Indian",2000,[],[],Cafes,BTM
+http://zomato.com/375,Address 375,Restaurant 375,No,Yes,3.6/5,2187,9876543275,HSR,Quick Service Restaurant,"Pasta, Pizza","Fast Food, Italian, Beverages",800,[],[],Other,Koramangala 5th Block
+http://zomato.com/376,Address 376,Restaurant 376,No,No,NEW,3515,9876543276,Koramangala 5th Block,Delivery,"Pasta, Pizza","Italian, Mughlai",2000,[],[],Dining,Whitefield
+http://zomato.com/377,Address 377,Restaurant 377,Yes,Yes,2.6/5,2330,9876543277,Marathahalli,Casual Dining,"Pasta, Pizza","North Indian, Fast Food, Beverages",1500,[],[],Cafes,Marathahalli
+http://zomato.com/378,Address 378,Restaurant 378,No,No,5.0/5,2359,9876543278,BTM,Casual Dining,"Pasta, Pizza","Mughlai, Continental, Fast Food",1500,[],[],Cafes,JP Nagar
+http://zomato.com/379,Address 379,Restaurant 379,Yes,No,2.9/5,4841,9876543279,BTM,Delivery,"Pasta, Pizza","Fast Food, Continental, Desserts",3000,[],[],Dining,Marathahalli
+http://zomato.com/380,Address 380,Restaurant 380,No,No,3.3/5,3606,9876543280,HSR,Quick Service Restaurant,"Pasta, Pizza",Chinese,400,[],[],Other,Whitefield
+http://zomato.com/381,Address 381,Restaurant 381,No,No,4.2/5,276,9876543281,Koramangala 5th Block,Bakery,"Pasta, Pizza",Beverages,1500,[],[],Cafes,Koramangala 5th Block
+http://zomato.com/382,Address 382,Restaurant 382,No,Yes,NEW,60,9876543282,HSR,Bakery,"Pasta, Pizza","Continental, Mexican",1500,[],[],Other,Indiranagar
+http://zomato.com/383,Address 383,Restaurant 383,Yes,No,5.0/5,3390,9876543283,Indiranagar,Casual Dining,"Pasta, Pizza","Continental, Chinese, Fast Food",200,[],[],Other,Whitefield
+http://zomato.com/384,Address 384,Restaurant 384,Yes,Yes,4.0/5,1913,9876543284,HSR,Delivery,"Pasta, Pizza","Continental, North Indian, South Indian",400,[],[],Other,Jayanagar
+http://zomato.com/385,Address 385,Restaurant 385,No,No,4.1/5,3927,9876543285,Whitefield,Casual Dining,"Pasta, Pizza","Beverages, Chinese",200,[],[],Dining,BTM
+http://zomato.com/386,Address 386,Restaurant 386,Yes,Yes,3.6/5,2591,9876543286,Jayanagar,Buffet,"Pasta, Pizza","Beverages, South Indian",600,[],[],Other,Indiranagar
+http://zomato.com/387,Address 387,Restaurant 387,Yes,No,4.7/5,566,9876543287,BTM,Cafe,"Pasta, Pizza","Desserts, Chinese, Mughlai",2000,[],[],Other,HSR
+http://zomato.com/388,Address 388,Restaurant 388,Yes,Yes,3.0/5,3935,9876543288,HSR,Bakery,"Pasta, Pizza","North Indian, South Indian",2000,[],[],Cafes,Whitefield
+http://zomato.com/389,Address 389,Restaurant 389,Yes,Yes,3.5/5,1571,9876543289,BTM,Buffet,"Pasta, Pizza",Mughlai,600,[],[],Cafes,Jayanagar
+http://zomato.com/390,Address 390,Restaurant 390,Yes,No,4.3/5,4717,9876543290,JP Nagar,Dessert Parlor,"Pasta, Pizza",Mughlai,2000,[],[],Dining,BTM
+http://zomato.com/391,Address 391,Restaurant 391,Yes,No,2.5/5,1200,9876543291,Koramangala 5th Block,Cafe,"Pasta, Pizza",Continental,400,[],[],Dining,HSR
+http://zomato.com/392,Address 392,Restaurant 392,No,No,3.7/5,4409,9876543292,HSR,Casual Dining,"Pasta, Pizza","Mexican, Fast Food, Beverages",400,[],[],Cafes,Marathahalli
+http://zomato.com/393,Address 393,Restaurant 393,No,No,NEW,2854,9876543293,Jayanagar,Quick Service Restaurant,"Pasta, Pizza",Continental,1500,[],[],Cafes,Indiranagar
+http://zomato.com/394,Address 394,Restaurant 394,Yes,Yes,4.4/5,2895,9876543294,Whitefield,Bakery,"Pasta, Pizza",Desserts,2000,[],[],Dining,Whitefield
+http://zomato.com/395,Address 395,Restaurant 395,No,No,3.8/5,1236,9876543295,Indiranagar,Dessert Parlor,"Pasta, Pizza","South Indian, Beverages, Desserts",600,[],[],Other,JP Nagar
+http://zomato.com/396,Address 396,Restaurant 396,No,Yes,2.5/5,136,9876543296,BTM,Cafe,"Pasta, Pizza",Mughlai,1000,[],[],Dining,Marathahalli
+http://zomato.com/397,Address 397,Restaurant 397,No,Yes,4.9/5,1029,9876543297,Koramangala 5th Block,Bakery,"Pasta, Pizza","North Indian, Mughlai",800,[],[],Other,Jayanagar
+http://zomato.com/398,Address 398,Restaurant 398,No,No,4.9/5,2156,9876543298,Marathahalli,Delivery,"Pasta, Pizza","Fast Food, Italian, Chinese",1500,[],[],Cafes,JP Nagar
+http://zomato.com/399,Address 399,Restaurant 399,Yes,Yes,2.8/5,2594,9876543299,Jayanagar,Quick Service Restaurant,"Pasta, Pizza","Chinese, Fast Food, Mughlai",800,[],[],Cafes,Koramangala 5th Block
+http://zomato.com/400,Address 400,Restaurant 400,No,Yes,3.6/5,661,987654320,Marathahalli,Cafe,"Pasta, Pizza",Mexican,600,[],[],Cafes,Marathahalli
+http://zomato.com/401,Address 401,Restaurant 401,No,Yes,2.7/5,2472,987654321,Jayanagar,Delivery,"Pasta, Pizza",Fast Food,2000,[],[],Other,BTM
+http://zomato.com/402,Address 402,Restaurant 402,Yes,Yes,2.9/5,2677,987654322,Jayanagar,Buffet,"Pasta, Pizza","Chinese, Mughlai",2000,[],[],Dining,Marathahalli
+http://zomato.com/403,Address 403,Restaurant 403,Yes,No,4.3/5,2308,987654323,Whitefield,Casual Dining,"Pasta, Pizza","Mexican, Desserts, Mughlai",800,[],[],Other,BTM
+http://zomato.com/404,Address 404,Restaurant 404,No,No,3.4/5,86,987654324,Whitefield,Delivery,"Pasta, Pizza","Fast Food, Italian, Beverages",1000,[],[],Dining,Whitefield
+http://zomato.com/405,Address 405,Restaurant 405,No,No,3.6/5,2512,987654325,Whitefield,Cafe,"Pasta, Pizza",Mughlai,2000,[],[],Dining,Whitefield
+http://zomato.com/406,Address 406,Restaurant 406,No,No,4.7/5,2942,987654326,HSR,Cafe,"Pasta, Pizza","Desserts, Italian",1000,[],[],Dining,Jayanagar
+http://zomato.com/407,Address 407,Restaurant 407,No,Yes,4.5/5,2773,987654327,JP Nagar,Buffet,"Pasta, Pizza",Fast Food,200,[],[],Cafes,Marathahalli
+http://zomato.com/408,Address 408,Restaurant 408,No,Yes,4.2/5,2504,987654328,Jayanagar,Casual Dining,"Pasta, Pizza","Continental, Italian, South Indian",400,[],[],Dining,Whitefield
+http://zomato.com/409,Address 409,Restaurant 409,No,No,3.1/5,3310,987654329,Koramangala 5th Block,Delivery,"Pasta, Pizza",Italian,800,[],[],Cafes,Koramangala 5th Block
+http://zomato.com/410,Address 410,Restaurant 410,Yes,No,2.6/5,1700,9876543210,Marathahalli,Delivery,"Pasta, Pizza",South Indian,2000,[],[],Dining,BTM
+http://zomato.com/411,Address 411,Restaurant 411,No,No,3.7/5,3670,9876543211,Whitefield,Casual Dining,"Pasta, Pizza","Fast Food, Italian, Beverages",1000,[],[],Dining,HSR
+http://zomato.com/412,Address 412,Restaurant 412,No,Yes,4.1/5,2700,9876543212,HSR,Delivery,"Pasta, Pizza","Italian, Mexican, Desserts",3000,[],[],Cafes,HSR
+http://zomato.com/413,Address 413,Restaurant 413,Yes,No,4.1/5,3629,9876543213,Whitefield,Bakery,"Pasta, Pizza","Desserts, Chinese, Fast Food",3000,[],[],Cafes,HSR
+http://zomato.com/414,Address 414,Restaurant 414,Yes,No,2.7/5,4590,9876543214,Marathahalli,Casual Dining,"Pasta, Pizza","Beverages, Continental",2000,[],[],Other,Whitefield
+http://zomato.com/415,Address 415,Restaurant 415,Yes,No,2.9/5,1647,9876543215,Marathahalli,Quick Service Restaurant,"Pasta, Pizza",Fast Food,400,[],[],Dining,Marathahalli
+http://zomato.com/416,Address 416,Restaurant 416,Yes,Yes,3.8/5,3318,9876543216,BTM,Cafe,"Pasta, Pizza",Fast Food,400,[],[],Cafes,HSR
+http://zomato.com/417,Address 417,Restaurant 417,No,Yes,2.6/5,3687,9876543217,Jayanagar,Quick Service Restaurant,"Pasta, Pizza","Mexican, Fast Food, Desserts",200,[],[],Other,Indiranagar
+http://zomato.com/418,Address 418,Restaurant 418,No,Yes,NEW,596,9876543218,Whitefield,Bakery,"Pasta, Pizza",Chinese,400,[],[],Other,JP Nagar
+http://zomato.com/419,Address 419,Restaurant 419,No,Yes,2.7/5,4545,9876543219,Marathahalli,Buffet,"Pasta, Pizza","Fast Food, Mexican",400,[],[],Cafes,Marathahalli
+http://zomato.com/420,Address 420,Restaurant 420,No,Yes,NEW,484,9876543220,JP Nagar,Bakery,"Pasta, Pizza","Italian, Fast Food, Mexican",1500,[],[],Dining,BTM
+http://zomato.com/421,Address 421,Restaurant 421,No,Yes,NEW,645,9876543221,JP Nagar,Dessert Parlor,"Pasta, Pizza",Fast Food,3000,[],[],Other,Koramangala 5th Block
+http://zomato.com/422,Address 422,Restaurant 422,No,Yes,4.3/5,3089,9876543222,Whitefield,Dessert Parlor,"Pasta, Pizza","Fast Food, Desserts, North Indian",600,[],[],Dining,Marathahalli
+http://zomato.com/423,Address 423,Restaurant 423,Yes,Yes,3.2/5,4757,9876543223,HSR,Dessert Parlor,"Pasta, Pizza",South Indian,3000,[],[],Dining,Koramangala 5th Block
+http://zomato.com/424,Address 424,Restaurant 424,No,No,4.4/5,4853,9876543224,Marathahalli,Casual Dining,"Pasta, Pizza","South Indian, Continental",3000,[],[],Other,Marathahalli
+http://zomato.com/425,Address 425,Restaurant 425,Yes,No,3.0/5,4384,9876543225,BTM,Delivery,"Pasta, Pizza",South Indian,2000,[],[],Cafes,HSR
+http://zomato.com/426,Address 426,Restaurant 426,Yes,Yes,2.7/5,720,9876543226,Jayanagar,Bakery,"Pasta, Pizza",Mexican,3000,[],[],Dining,JP Nagar
+http://zomato.com/427,Address 427,Restaurant 427,No,Yes,4.4/5,4733,9876543227,Jayanagar,Quick Service Restaurant,"Pasta, Pizza",Italian,200,[],[],Cafes,JP Nagar
+http://zomato.com/428,Address 428,Restaurant 428,Yes,No,2.6/5,498,9876543228,HSR,Buffet,"Pasta, Pizza","Chinese, Beverages, Mughlai",200,[],[],Other,Koramangala 5th Block
+http://zomato.com/429,Address 429,Restaurant 429,No,Yes,NEW,4729,9876543229,BTM,Quick Service Restaurant,"Pasta, Pizza","Italian, Mughlai",800,[],[],Dining,Marathahalli
+http://zomato.com/430,Address 430,Restaurant 430,Yes,Yes,3.2/5,1673,9876543230,Jayanagar,Quick Service Restaurant,"Pasta, Pizza","Continental, Beverages",400,[],[],Cafes,JP Nagar
+http://zomato.com/431,Address 431,Restaurant 431,No,Yes,4.1/5,3067,9876543231,BTM,Quick Service Restaurant,"Pasta, Pizza","Beverages, South Indian, Desserts",800,[],[],Cafes,Jayanagar
+http://zomato.com/432,Address 432,Restaurant 432,Yes,No,3.0/5,114,9876543232,Indiranagar,Buffet,"Pasta, Pizza",Mexican,1500,[],[],Dining,Marathahalli
+http://zomato.com/433,Address 433,Restaurant 433,No,No,4.0/5,2979,9876543233,Whitefield,Dessert Parlor,"Pasta, Pizza","South Indian, Beverages, Continental",3000,[],[],Cafes,JP Nagar
+http://zomato.com/434,Address 434,Restaurant 434,No,No,4.1/5,4769,9876543234,Jayanagar,Quick Service Restaurant,"Pasta, Pizza","Beverages, Chinese",1000,[],[],Cafes,Indiranagar
+http://zomato.com/435,Address 435,Restaurant 435,No,No,2.6/5,1736,9876543235,JP Nagar,Buffet,"Pasta, Pizza",Mughlai,400,[],[],Other,Indiranagar
+http://zomato.com/436,Address 436,Restaurant 436,No,No,4.5/5,3611,9876543236,Marathahalli,Buffet,"Pasta, Pizza",Mexican,1000,[],[],Other,Jayanagar
+http://zomato.com/437,Address 437,Restaurant 437,No,Yes,4.9/5,2253,9876543237,BTM,Delivery,"Pasta, Pizza","Beverages, Mughlai, Italian",3000,[],[],Cafes,JP Nagar
+http://zomato.com/438,Address 438,Restaurant 438,Yes,No,4.0/5,2294,9876543238,BTM,Buffet,"Pasta, Pizza","Mughlai, Italian, North Indian",600,[],[],Cafes,Indiranagar
+http://zomato.com/439,Address 439,Restaurant 439,Yes,Yes,4.5/5,3630,9876543239,Koramangala 5th Block,Dessert Parlor,"Pasta, Pizza",Mughlai,1500,[],[],Dining,HSR
+http://zomato.com/440,Address 440,Restaurant 440,Yes,Yes,2.8/5,146,9876543240,HSR,Quick Service Restaurant,"Pasta, Pizza",Chinese,400,[],[],Other,Marathahalli
+http://zomato.com/441,Address 441,Restaurant 441,No,No,4.8/5,3982,9876543241,Koramangala 5th Block,Buffet,"Pasta, Pizza","Chinese, Mexican, Italian",800,[],[],Dining,Whitefield
+http://zomato.com/442,Address 442,Restaurant 442,Yes,No,3.4/5,3453,9876543242,Jayanagar,Casual Dining,"Pasta, Pizza",South Indian,800,[],[],Cafes,JP Nagar
+http://zomato.com/443,Address 443,Restaurant 443,No,Yes,3.6/5,4507,9876543243,Koramangala 5th Block,Buffet,"Pasta, Pizza","Continental, Beverages, Mexican",400,[],[],Dining,BTM
+http://zomato.com/444,Address 444,Restaurant 444,No,Yes,4.9/5,2410,9876543244,Koramangala 5th Block,Cafe,"Pasta, Pizza","Italian, Beverages, Mughlai",2000,[],[],Cafes,Jayanagar
+http://zomato.com/445,Address 445,Restaurant 445,Yes,Yes,2.8/5,136,9876543245,Indiranagar,Cafe,"Pasta, Pizza",Italian,800,[],[],Other,JP Nagar
+http://zomato.com/446,Address 446,Restaurant 446,Yes,No,4.7/5,3360,9876543246,BTM,Cafe,"Pasta, Pizza",Beverages,3000,[],[],Other,Koramangala 5th Block
+http://zomato.com/447,Address 447,Restaurant 447,No,No,3.2/5,3005,9876543247,JP Nagar,Buffet,"Pasta, Pizza","Chinese, Mexican, Desserts",3000,[],[],Cafes,Koramangala 5th Block
+http://zomato.com/448,Address 448,Restaurant 448,Yes,No,4.7/5,3552,9876543248,HSR,Dessert Parlor,"Pasta, Pizza","South Indian, Mughlai, Chinese",2000,[],[],Other,Indiranagar
+http://zomato.com/449,Address 449,Restaurant 449,No,No,4.8/5,18,9876543249,JP Nagar,Quick Service Restaurant,"Pasta, Pizza","Mexican, Beverages",400,[],[],Cafes,BTM
+http://zomato.com/450,Address 450,Restaurant 450,No,No,4.4/5,2242,9876543250,Indiranagar,Bakery,"Pasta, Pizza",Continental,200,[],[],Dining,Koramangala 5th Block
+http://zomato.com/451,Address 451,Restaurant 451,No,Yes,4.6/5,448,9876543251,Indiranagar,Bakery,"Pasta, Pizza",Beverages,800,[],[],Cafes,Jayanagar
+http://zomato.com/452,Address 452,Restaurant 452,No,No,4.4/5,1948,9876543252,Koramangala 5th Block,Bakery,"Pasta, Pizza","Continental, Beverages, Italian",2000,[],[],Dining,BTM
+http://zomato.com/453,Address 453,Restaurant 453,No,Yes,2.9/5,945,9876543253,Whitefield,Dessert Parlor,"Pasta, Pizza","Chinese, Mexican",400,[],[],Cafes,Indiranagar
+http://zomato.com/454,Address 454,Restaurant 454,Yes,Yes,5.0/5,4236,9876543254,BTM,Delivery,"Pasta, Pizza",South Indian,400,[],[],Other,Jayanagar
+http://zomato.com/455,Address 455,Restaurant 455,Yes,Yes,2.6/5,1920,9876543255,Marathahalli,Casual Dining,"Pasta, Pizza","North Indian, Italian, Chinese",2000,[],[],Cafes,Marathahalli
+http://zomato.com/456,Address 456,Restaurant 456,No,No,2.8/5,2977,9876543256,BTM,Casual Dining,"Pasta, Pizza","North Indian, Beverages",800,[],[],Cafes,Jayanagar
+http://zomato.com/457,Address 457,Restaurant 457,No,No,4.5/5,4188,9876543257,Marathahalli,Cafe,"Pasta, Pizza","Beverages, Fast Food, Mughlai",200,[],[],Cafes,Koramangala 5th Block
+http://zomato.com/458,Address 458,Restaurant 458,Yes,No,3.8/5,4015,9876543258,Koramangala 5th Block,Cafe,"Pasta, Pizza","Fast Food, Desserts, Mexican",800,[],[],Other,Marathahalli
+http://zomato.com/459,Address 459,Restaurant 459,Yes,Yes,4.3/5,238,9876543259,Marathahalli,Buffet,"Pasta, Pizza","Continental, Chinese, Beverages",400,[],[],Cafes,Koramangala 5th Block
+http://zomato.com/460,Address 460,Restaurant 460,No,Yes,4.0/5,204,9876543260,Indiranagar,Bakery,"Pasta, Pizza","North Indian, Fast Food",200,[],[],Other,Jayanagar
+http://zomato.com/461,Address 461,Restaurant 461,Yes,Yes,3.2/5,2607,9876543261,JP Nagar,Buffet,"Pasta, Pizza",Desserts,3000,[],[],Cafes,Koramangala 5th Block
+http://zomato.com/462,Address 462,Restaurant 462,No,Yes,4.2/5,4340,9876543262,Marathahalli,Bakery,"Pasta, Pizza","Continental, Chinese",1000,[],[],Dining,BTM
+http://zomato.com/463,Address 463,Restaurant 463,Yes,Yes,4.1/5,4927,9876543263,BTM,Cafe,"Pasta, Pizza","Fast Food, Mexican",600,[],[],Cafes,Koramangala 5th Block
+http://zomato.com/464,Address 464,Restaurant 464,No,Yes,2.9/5,3388,9876543264,HSR,Quick Service Restaurant,"Pasta, Pizza",Italian,800,[],[],Dining,Koramangala 5th Block
+http://zomato.com/465,Address 465,Restaurant 465,Yes,No,2.5/5,2972,9876543265,Koramangala 5th Block,Delivery,"Pasta, Pizza","Fast Food, Desserts, Mughlai",1500,[],[],Other,JP Nagar
+http://zomato.com/466,Address 466,Restaurant 466,No,No,4.3/5,4390,9876543266,Whitefield,Buffet,"Pasta, Pizza","North Indian, Desserts, Mughlai",400,[],[],Other,Marathahalli
+http://zomato.com/467,Address 467,Restaurant 467,Yes,No,2.7/5,2687,9876543267,Koramangala 5th Block,Delivery,"Pasta, Pizza",Chinese,200,[],[],Cafes,BTM
+http://zomato.com/468,Address 468,Restaurant 468,Yes,No,4.5/5,4951,9876543268,Jayanagar,Delivery,"Pasta, Pizza","Mexican, Continental, Desserts",2000,[],[],Other,Marathahalli
+http://zomato.com/469,Address 469,Restaurant 469,No,Yes,3.9/5,4166,9876543269,Koramangala 5th Block,Delivery,"Pasta, Pizza","Continental, Chinese",3000,[],[],Cafes,HSR
+http://zomato.com/470,Address 470,Restaurant 470,Yes,Yes,4.0/5,1348,9876543270,Indiranagar,Cafe,"Pasta, Pizza",North Indian,2000,[],[],Other,Marathahalli
+http://zomato.com/471,Address 471,Restaurant 471,No,No,3.4/5,4400,9876543271,JP Nagar,Casual Dining,"Pasta, Pizza","Continental, Italian, Fast Food",2000,[],[],Dining,HSR
+http://zomato.com/472,Address 472,Restaurant 472,Yes,Yes,3.9/5,816,9876543272,JP Nagar,Cafe,"Pasta, Pizza","Fast Food, Desserts, Mughlai",200,[],[],Other,Jayanagar
+http://zomato.com/473,Address 473,Restaurant 473,No,No,NEW,820,9876543273,HSR,Delivery,"Pasta, Pizza","Beverages, Mughlai",1000,[],[],Dining,HSR
+http://zomato.com/474,Address 474,Restaurant 474,Yes,No,2.6/5,192,9876543274,Marathahalli,Cafe,"Pasta, Pizza","South Indian, Fast Food, Continental",800,[],[],Cafes,HSR
+http://zomato.com/475,Address 475,Restaurant 475,No,No,3.0/5,1776,9876543275,Indiranagar,Delivery,"Pasta, Pizza","Desserts, Fast Food, Mughlai",1500,[],[],Cafes,Whitefield
+http://zomato.com/476,Address 476,Restaurant 476,Yes,Yes,3.4/5,3645,9876543276,Jayanagar,Dessert Parlor,"Pasta, Pizza","Italian, North Indian",3000,[],[],Cafes,Jayanagar
+http://zomato.com/477,Address 477,Restaurant 477,No,No,2.9/5,4624,9876543277,Indiranagar,Bakery,"Pasta, Pizza",Mexican,2000,[],[],Dining,Marathahalli
+http://zomato.com/478,Address 478,Restaurant 478,Yes,No,4.7/5,250,9876543278,Koramangala 5th Block,Casual Dining,"Pasta, Pizza",Mughlai,200,[],[],Cafes,Indiranagar
+http://zomato.com/479,Address 479,Restaurant 479,No,No,3.4/5,1788,9876543279,Indiranagar,Dessert Parlor,"Pasta, Pizza","North Indian, South Indian",2000,[],[],Cafes,Koramangala 5th Block
+http://zomato.com/480,Address 480,Restaurant 480,No,Yes,4.3/5,3700,9876543280,Indiranagar,Quick Service Restaurant,"Pasta, Pizza","Continental, Mughlai, Fast Food",1000,[],[],Dining,Koramangala 5th Block
+http://zomato.com/481,Address 481,Restaurant 481,No,Yes,4.0/5,2463,9876543281,HSR,Cafe,"Pasta, Pizza","Fast Food, South Indian",400,[],[],Other,Whitefield
+http://zomato.com/482,Address 482,Restaurant 482,Yes,No,3.5/5,1167,9876543282,Jayanagar,Quick Service Restaurant,"Pasta, Pizza","Desserts, Mexican, Italian",2000,[],[],Cafes,Indiranagar
+http://zomato.com/483,Address 483,Restaurant 483,No,Yes,2.5/5,3893,9876543283,Koramangala 5th Block,Buffet,"Pasta, Pizza","Beverages, Desserts, Mughlai",1000,[],[],Other,JP Nagar
+http://zomato.com/484,Address 484,Restaurant 484,Yes,Yes,3.4/5,1096,9876543284,Whitefield,Cafe,"Pasta, Pizza",Chinese,800,[],[],Other,HSR
+http://zomato.com/485,Address 485,Restaurant 485,No,Yes,2.7/5,2679,9876543285,HSR,Bakery,"Pasta, Pizza","Chinese, Italian, Mexican",3000,[],[],Cafes,BTM
+http://zomato.com/486,Address 486,Restaurant 486,Yes,Yes,3.7/5,1847,9876543286,Whitefield,Dessert Parlor,"Pasta, Pizza",Chinese,3000,[],[],Cafes,Jayanagar
+http://zomato.com/487,Address 487,Restaurant 487,No,Yes,2.7/5,3904,9876543287,HSR,Bakery,"Pasta, Pizza","Italian, Mughlai, Mexican",2000,[],[],Dining,JP Nagar
+http://zomato.com/488,Address 488,Restaurant 488,Yes,Yes,3.9/5,504,9876543288,JP Nagar,Buffet,"Pasta, Pizza",Chinese,1000,[],[],Dining,Indiranagar
+http://zomato.com/489,Address 489,Restaurant 489,Yes,Yes,4.0/5,1621,9876543289,BTM,Delivery,"Pasta, Pizza","Mexican, Fast Food, Italian",200,[],[],Cafes,Whitefield
+http://zomato.com/490,Address 490,Restaurant 490,No,Yes,4.5/5,2472,9876543290,HSR,Bakery,"Pasta, Pizza",Desserts,200,[],[],Other,Indiranagar
+http://zomato.com/491,Address 491,Restaurant 491,Yes,Yes,4.6/5,2546,9876543291,Marathahalli,Bakery,"Pasta, Pizza","Desserts, South Indian, Mughlai",600,[],[],Dining,Whitefield
+http://zomato.com/492,Address 492,Restaurant 492,Yes,Yes,2.7/5,1387,9876543292,Indiranagar,Delivery,"Pasta, Pizza",North Indian,1000,[],[],Dining,JP Nagar
+http://zomato.com/493,Address 493,Restaurant 493,No,No,NEW,2994,9876543293,JP Nagar,Cafe,"Pasta, Pizza","Continental, North Indian, Mexican",400,[],[],Cafes,JP Nagar
+http://zomato.com/494,Address 494,Restaurant 494,Yes,No,4.5/5,3816,9876543294,Jayanagar,Delivery,"Pasta, Pizza","Chinese, South Indian",2000,[],[],Cafes,BTM
+http://zomato.com/495,Address 495,Restaurant 495,Yes,Yes,4.5/5,717,9876543295,Whitefield,Dessert Parlor,"Pasta, Pizza",Mexican,1500,[],[],Cafes,Indiranagar
+http://zomato.com/496,Address 496,Restaurant 496,Yes,No,3.6/5,3484,9876543296,BTM,Bakery,"Pasta, Pizza","South Indian, Chinese, Mughlai",1500,[],[],Cafes,Indiranagar
+http://zomato.com/497,Address 497,Restaurant 497,No,No,3.3/5,4434,9876543297,BTM,Delivery,"Pasta, Pizza",Fast Food,800,[],[],Dining,HSR
+http://zomato.com/498,Address 498,Restaurant 498,Yes,Yes,2.7/5,658,9876543298,HSR,Buffet,"Pasta, Pizza","Desserts, Chinese, Beverages",600,[],[],Dining,Koramangala 5th Block
+http://zomato.com/499,Address 499,Restaurant 499,No,Yes,4.0/5,4008,9876543299,Indiranagar,Buffet,"Pasta, Pizza","Continental, Fast Food",1000,[],[],Dining,Whitefield
+http://zomato.com/500,Address 500,Restaurant 500,Yes,Yes,5.0/5,4524,987654320,Jayanagar,Bakery,"Pasta, Pizza",Continental,400,[],[],Other,Koramangala 5th Block
+http://zomato.com/501,Address 501,Restaurant 501,Yes,No,4.1/5,4994,987654321,Marathahalli,Dessert Parlor,"Pasta, Pizza","Fast Food, Beverages, South Indian",600,[],[],Dining,Jayanagar
+http://zomato.com/502,Address 502,Restaurant 502,Yes,No,4.1/5,4234,987654322,Jayanagar,Quick Service Restaurant,"Pasta, Pizza","South Indian, Continental",200,[],[],Dining,Jayanagar
+http://zomato.com/503,Address 503,Restaurant 503,No,Yes,2.8/5,3764,987654323,Indiranagar,Dessert Parlor,"Pasta, Pizza","Beverages, Italian",800,[],[],Cafes,Indiranagar
+http://zomato.com/504,Address 504,Restaurant 504,Yes,Yes,4.6/5,2989,987654324,Marathahalli,Casual Dining,"Pasta, Pizza","Mexican, North Indian",2000,[],[],Dining,JP Nagar
+http://zomato.com/505,Address 505,Restaurant 505,Yes,Yes,3.9/5,4637,987654325,Jayanagar,Casual Dining,"Pasta, Pizza","North Indian, Mughlai",2000,[],[],Dining,Jayanagar
+http://zomato.com/506,Address 506,Restaurant 506,No,No,3.0/5,2104,987654326,Marathahalli,Casual Dining,"Pasta, Pizza","Fast Food, Continental",2000,[],[],Dining,Jayanagar
+http://zomato.com/507,Address 507,Restaurant 507,Yes,No,3.3/5,1255,987654327,HSR,Bakery,"Pasta, Pizza",Chinese,1000,[],[],Cafes,BTM
+http://zomato.com/508,Address 508,Restaurant 508,No,No,NEW,2482,987654328,HSR,Buffet,"Pasta, Pizza","Mexican, Fast Food, Desserts",1500,[],[],Dining,Koramangala 5th Block
+http://zomato.com/509,Address 509,Restaurant 509,No,No,NEW,383,987654329,Indiranagar,Cafe,"Pasta, Pizza","Mughlai, Italian",400,[],[],Dining,BTM
+http://zomato.com/510,Address 510,Restaurant 510,Yes,Yes,3.2/5,2607,9876543210,Indiranagar,Buffet,"Pasta, Pizza",Desserts,2000,[],[],Other,Koramangala 5th Block
+http://zomato.com/511,Address 511,Restaurant 511,No,Yes,3.2/5,193,9876543211,Marathahalli,Cafe,"Pasta, Pizza","Continental, North Indian, Fast Food",2000,[],[],Other,HSR
+http://zomato.com/512,Address 512,Restaurant 512,Yes,Yes,3.1/5,3807,9876543212,Koramangala 5th Block,Cafe,"Pasta, Pizza","Fast Food, Italian",200,[],[],Other,BTM
+http://zomato.com/513,Address 513,Restaurant 513,No,Yes,4.7/5,3719,9876543213,JP Nagar,Buffet,"Pasta, Pizza","South Indian, Beverages, Continental",3000,[],[],Other,HSR
+http://zomato.com/514,Address 514,Restaurant 514,No,No,3.0/5,2581,9876543214,BTM,Bakery,"Pasta, Pizza","Mexican, Beverages",600,[],[],Cafes,Jayanagar
+http://zomato.com/515,Address 515,Restaurant 515,Yes,No,3.6/5,2565,9876543215,Jayanagar,Dessert Parlor,"Pasta, Pizza",Continental,2000,[],[],Other,Indiranagar
+http://zomato.com/516,Address 516,Restaurant 516,No,Yes,2.8/5,2763,9876543216,Jayanagar,Cafe,"Pasta, Pizza",North Indian,800,[],[],Dining,Koramangala 5th Block
+http://zomato.com/517,Address 517,Restaurant 517,No,Yes,NEW,2798,9876543217,Koramangala 5th Block,Quick Service Restaurant,"Pasta, Pizza","Mexican, Desserts",600,[],[],Other,Jayanagar
+http://zomato.com/518,Address 518,Restaurant 518,No,No,3.7/5,2339,9876543218,Koramangala 5th Block,Buffet,"Pasta, Pizza","Mexican, North Indian, Mughlai",1500,[],[],Cafes,JP Nagar
+http://zomato.com/519,Address 519,Restaurant 519,No,Yes,4.3/5,3406,9876543219,Koramangala 5th Block,Buffet,"Pasta, Pizza",Mexican,600,[],[],Other,Koramangala 5th Block
+http://zomato.com/520,Address 520,Restaurant 520,No,No,2.9/5,731,9876543220,Whitefield,Casual Dining,"Pasta, Pizza",Chinese,400,[],[],Other,Jayanagar
+http://zomato.com/521,Address 521,Restaurant 521,Yes,Yes,2.8/5,2872,9876543221,Whitefield,Dessert Parlor,"Pasta, Pizza",Mughlai,200,[],[],Cafes,HSR
+http://zomato.com/522,Address 522,Restaurant 522,No,Yes,4.1/5,3120,9876543222,Marathahalli,Casual Dining,"Pasta, Pizza","North Indian, Italian, Mexican",1000,[],[],Cafes,BTM
+http://zomato.com/523,Address 523,Restaurant 523,Yes,Yes,2.7/5,4780,9876543223,Whitefield,Buffet,"Pasta, Pizza","Italian, North Indian, Continental",400,[],[],Cafes,Whitefield
+http://zomato.com/524,Address 524,Restaurant 524,No,Yes,NEW,4177,9876543224,HSR,Buffet,"Pasta, Pizza","Mughlai, Continental, Beverages",1500,[],[],Cafes,Koramangala 5th Block
+http://zomato.com/525,Address 525,Restaurant 525,Yes,Yes,3.2/5,2604,9876543225,HSR,Cafe,"Pasta, Pizza","Mughlai, Fast Food",800,[],[],Cafes,Whitefield
+http://zomato.com/526,Address 526,Restaurant 526,Yes,Yes,4.8/5,2382,9876543226,Indiranagar,Dessert Parlor,"Pasta, Pizza","Chinese, South Indian, Continental",1500,[],[],Cafes,Koramangala 5th Block
+http://zomato.com/527,Address 527,Restaurant 527,No,Yes,3.2/5,531,9876543227,BTM,Delivery,"Pasta, Pizza","Chinese, Mughlai, Italian",1500,[],[],Dining,Koramangala 5th Block
+http://zomato.com/528,Address 528,Restaurant 528,No,No,3.6/5,4316,9876543228,Marathahalli,Quick Service Restaurant,"Pasta, Pizza","Mughlai, South Indian",600,[],[],Other,BTM
+http://zomato.com/529,Address 529,Restaurant 529,No,No,2.7/5,634,9876543229,BTM,Cafe,"Pasta, Pizza","Mughlai, South Indian",800,[],[],Other,HSR
+http://zomato.com/530,Address 530,Restaurant 530,Yes,No,2.6/5,1769,9876543230,Jayanagar,Buffet,"Pasta, Pizza",Mexican,400,[],[],Cafes,Marathahalli
+http://zomato.com/531,Address 531,Restaurant 531,No,No,NEW,3804,9876543231,JP Nagar,Cafe,"Pasta, Pizza",Italian,1500,[],[],Cafes,Marathahalli
+http://zomato.com/532,Address 532,Restaurant 532,Yes,No,2.8/5,2370,9876543232,Indiranagar,Quick Service Restaurant,"Pasta, Pizza","Beverages, South Indian, Chinese",400,[],[],Dining,Whitefield
+http://zomato.com/533,Address 533,Restaurant 533,Yes,Yes,3.5/5,2,9876543233,Jayanagar,Buffet,"Pasta, Pizza","South Indian, North Indian, Mughlai",2000,[],[],Dining,Indiranagar
+http://zomato.com/534,Address 534,Restaurant 534,Yes,Yes,4.7/5,205,9876543234,Jayanagar,Quick Service Restaurant,"Pasta, Pizza",Continental,2000,[],[],Cafes,Jayanagar
+http://zomato.com/535,Address 535,Restaurant 535,No,No,NEW,4135,9876543235,Marathahalli,Delivery,"Pasta, Pizza","Desserts, South Indian",2000,[],[],Dining,Indiranagar
+http://zomato.com/536,Address 536,Restaurant 536,No,Yes,4.9/5,2621,9876543236,Koramangala 5th Block,Cafe,"Pasta, Pizza",Beverages,1000,[],[],Dining,Indiranagar
+http://zomato.com/537,Address 537,Restaurant 537,Yes,No,4.8/5,4739,9876543237,Koramangala 5th Block,Bakery,"Pasta, Pizza","Chinese, North Indian",600,[],[],Cafes,Marathahalli
+http://zomato.com/538,Address 538,Restaurant 538,Yes,No,NEW,2890,9876543238,BTM,Cafe,"Pasta, Pizza","Italian, Continental, South Indian",400,[],[],Cafes,Jayanagar
+http://zomato.com/539,Address 539,Restaurant 539,No,Yes,3.2/5,3193,9876543239,Indiranagar,Casual Dining,"Pasta, Pizza",Beverages,2000,[],[],Cafes,Marathahalli
+http://zomato.com/540,Address 540,Restaurant 540,Yes,Yes,5.0/5,2666,9876543240,Koramangala 5th Block,Dessert Parlor,"Pasta, Pizza","South Indian, Italian",2000,[],[],Cafes,BTM
+http://zomato.com/541,Address 541,Restaurant 541,No,Yes,4.1/5,3306,9876543241,Jayanagar,Dessert Parlor,"Pasta, Pizza","Italian, South Indian, Mexican",800,[],[],Other,BTM
+http://zomato.com/542,Address 542,Restaurant 542,Yes,No,3.9/5,897,9876543242,Koramangala 5th Block,Casual Dining,"Pasta, Pizza","Desserts, Fast Food, North Indian",1500,[],[],Other,Marathahalli
+http://zomato.com/543,Address 543,Restaurant 543,No,Yes,4.9/5,1085,9876543243,Whitefield,Buffet,"Pasta, Pizza","South Indian, Fast Food",2000,[],[],Cafes,HSR
+http://zomato.com/544,Address 544,Restaurant 544,Yes,No,3.4/5,1279,9876543244,Koramangala 5th Block,Dessert Parlor,"Pasta, Pizza","Mughlai, Desserts",1000,[],[],Dining,Marathahalli
+http://zomato.com/545,Address 545,Restaurant 545,No,No,2.9/5,670,9876543245,Jayanagar,Quick Service Restaurant,"Pasta, Pizza",Chinese,800,[],[],Cafes,JP Nagar
+http://zomato.com/546,Address 546,Restaurant 546,Yes,No,3.1/5,1505,9876543246,BTM,Dessert Parlor,"Pasta, Pizza","North Indian, Mughlai, Beverages",600,[],[],Other,Indiranagar
+http://zomato.com/547,Address 547,Restaurant 547,No,Yes,3.9/5,3575,9876543247,Marathahalli,Dessert Parlor,"Pasta, Pizza","Fast Food, Italian, Continental",3000,[],[],Dining,HSR
+http://zomato.com/548,Address 548,Restaurant 548,No,Yes,2.8/5,4814,9876543248,Indiranagar,Casual Dining,"Pasta, Pizza","Mughlai, South Indian, Mexican",3000,[],[],Other,HSR
+http://zomato.com/549,Address 549,Restaurant 549,Yes,No,4.3/5,1955,9876543249,JP Nagar,Buffet,"Pasta, Pizza",Beverages,1000,[],[],Cafes,Indiranagar
+http://zomato.com/550,Address 550,Restaurant 550,Yes,Yes,NEW,249,9876543250,Koramangala 5th Block,Delivery,"Pasta, Pizza","Mexican, Continental",1000,[],[],Other,HSR
+http://zomato.com/551,Address 551,Restaurant 551,No,Yes,3.9/5,1892,9876543251,HSR,Dessert Parlor,"Pasta, Pizza","Fast Food, Chinese, South Indian",1000,[],[],Other,Indiranagar
+http://zomato.com/552,Address 552,Restaurant 552,Yes,Yes,NEW,3439,9876543252,HSR,Bakery,"Pasta, Pizza",Fast Food,1500,[],[],Other,JP Nagar
+http://zomato.com/553,Address 553,Restaurant 553,No,No,3.7/5,1853,9876543253,BTM,Dessert Parlor,"Pasta, Pizza",Beverages,3000,[],[],Dining,Koramangala 5th Block
+http://zomato.com/554,Address 554,Restaurant 554,Yes,No,4.9/5,2854,9876543254,Jayanagar,Delivery,"Pasta, Pizza","Continental, Chinese",2000,[],[],Other,HSR
+http://zomato.com/555,Address 555,Restaurant 555,No,Yes,4.2/5,1503,9876543255,JP Nagar,Casual Dining,"Pasta, Pizza","Mughlai, North Indian, Fast Food",200,[],[],Dining,Whitefield
+http://zomato.com/556,Address 556,Restaurant 556,No,No,3.5/5,3385,9876543256,JP Nagar,Delivery,"Pasta, Pizza","Beverages, North Indian, Desserts",1000,[],[],Cafes,Whitefield
+http://zomato.com/557,Address 557,Restaurant 557,No,Yes,3.9/5,3571,9876543257,Whitefield,Casual Dining,"Pasta, Pizza",Fast Food,800,[],[],Cafes,JP Nagar
+http://zomato.com/558,Address 558,Restaurant 558,No,Yes,NEW,3792,9876543258,JP Nagar,Quick Service Restaurant,"Pasta, Pizza","Beverages, Mexican, Chinese",3000,[],[],Other,Indiranagar
+http://zomato.com/559,Address 559,Restaurant 559,No,Yes,4.5/5,3426,9876543259,HSR,Casual Dining,"Pasta, Pizza","South Indian, Desserts, Chinese",800,[],[],Dining,Whitefield
+http://zomato.com/560,Address 560,Restaurant 560,No,Yes,2.6/5,43,9876543260,Marathahalli,Quick Service Restaurant,"Pasta, Pizza","Beverages, Continental",600,[],[],Cafes,JP Nagar
+http://zomato.com/561,Address 561,Restaurant 561,Yes,No,3.0/5,3612,9876543261,Jayanagar,Quick Service Restaurant,"Pasta, Pizza","Beverages, North Indian, Chinese",400,[],[],Dining,Marathahalli
+http://zomato.com/562,Address 562,Restaurant 562,Yes,No,2.9/5,2618,9876543262,Jayanagar,Casual Dining,"Pasta, Pizza","Chinese, Italian",400,[],[],Dining,Jayanagar
+http://zomato.com/563,Address 563,Restaurant 563,Yes,No,4.4/5,4678,9876543263,Koramangala 5th Block,Bakery,"Pasta, Pizza","Chinese, Mexican, Beverages",200,[],[],Other,Whitefield
+http://zomato.com/564,Address 564,Restaurant 564,No,Yes,3.0/5,3163,9876543264,Koramangala 5th Block,Cafe,"Pasta, Pizza","South Indian, Mexican, Italian",1500,[],[],Other,BTM
+http://zomato.com/565,Address 565,Restaurant 565,No,Yes,4.7/5,1288,9876543265,Koramangala 5th Block,Casual Dining,"Pasta, Pizza","Mexican, Mughlai",2000,[],[],Dining,Jayanagar
+http://zomato.com/566,Address 566,Restaurant 566,No,Yes,3.1/5,2942,9876543266,HSR,Dessert Parlor,"Pasta, Pizza","Mughlai, Chinese, Mexican",1500,[],[],Dining,BTM
+http://zomato.com/567,Address 567,Restaurant 567,No,No,5.0/5,219,9876543267,HSR,Bakery,"Pasta, Pizza","Mughlai, North Indian, Desserts",2000,[],[],Other,Indiranagar
+http://zomato.com/568,Address 568,Restaurant 568,Yes,Yes,2.6/5,1925,9876543268,BTM,Bakery,"Pasta, Pizza","Desserts, Beverages",1000,[],[],Dining,Whitefield
+http://zomato.com/569,Address 569,Restaurant 569,Yes,No,NEW,2972,9876543269,HSR,Dessert Parlor,"Pasta, Pizza",Beverages,3000,[],[],Other,JP Nagar
+http://zomato.com/570,Address 570,Restaurant 570,No,No,4.8/5,3513,9876543270,HSR,Cafe,"Pasta, Pizza",South Indian,2000,[],[],Dining,Koramangala 5th Block
+http://zomato.com/571,Address 571,Restaurant 571,Yes,No,3.7/5,2448,9876543271,HSR,Bakery,"Pasta, Pizza",Beverages,3000,[],[],Other,Whitefield
+http://zomato.com/572,Address 572,Restaurant 572,Yes,No,4.1/5,3471,9876543272,HSR,Quick Service Restaurant,"Pasta, Pizza",Chinese,200,[],[],Dining,Whitefield
+http://zomato.com/573,Address 573,Restaurant 573,No,No,3.5/5,2774,9876543273,Marathahalli,Cafe,"Pasta, Pizza","Desserts, Chinese",600,[],[],Other,Whitefield
+http://zomato.com/574,Address 574,Restaurant 574,Yes,No,4.9/5,990,9876543274,HSR,Buffet,"Pasta, Pizza","Desserts, Italian",600,[],[],Dining,Whitefield
+http://zomato.com/575,Address 575,Restaurant 575,No,Yes,3.8/5,2946,9876543275,BTM,Dessert Parlor,"Pasta, Pizza","Mexican, Fast Food, North Indian",400,[],[],Cafes,BTM
+http://zomato.com/576,Address 576,Restaurant 576,Yes,Yes,4.5/5,1812,9876543276,JP Nagar,Cafe,"Pasta, Pizza","Fast Food, South Indian, North Indian",600,[],[],Cafes,JP Nagar
+http://zomato.com/577,Address 577,Restaurant 577,No,No,4.1/5,4953,9876543277,JP Nagar,Casual Dining,"Pasta, Pizza",Chinese,1000,[],[],Dining,JP Nagar
+http://zomato.com/578,Address 578,Restaurant 578,No,No,3.5/5,803,9876543278,Whitefield,Cafe,"Pasta, Pizza",South Indian,800,[],[],Cafes,BTM
+http://zomato.com/579,Address 579,Restaurant 579,No,Yes,3.8/5,489,9876543279,Marathahalli,Quick Service Restaurant,"Pasta, Pizza","Continental, North Indian",600,[],[],Dining,Koramangala 5th Block
+http://zomato.com/580,Address 580,Restaurant 580,No,No,4.2/5,3556,9876543280,Koramangala 5th Block,Casual Dining,"Pasta, Pizza",Beverages,200,[],[],Dining,JP Nagar
+http://zomato.com/581,Address 581,Restaurant 581,Yes,No,3.3/5,1493,9876543281,Indiranagar,Delivery,"Pasta, Pizza","Chinese, Italian, Desserts",1000,[],[],Cafes,JP Nagar
+http://zomato.com/582,Address 582,Restaurant 582,No,Yes,4.8/5,3645,9876543282,HSR,Dessert Parlor,"Pasta, Pizza",Italian,600,[],[],Dining,Indiranagar
+http://zomato.com/583,Address 583,Restaurant 583,No,No,5.0/5,2891,9876543283,Whitefield,Dessert Parlor,"Pasta, Pizza","North Indian, Mexican, South Indian",1500,[],[],Other,HSR
+http://zomato.com/584,Address 584,Restaurant 584,No,No,3.0/5,1705,9876543284,Indiranagar,Cafe,"Pasta, Pizza",Beverages,2000,[],[],Dining,Indiranagar
+http://zomato.com/585,Address 585,Restaurant 585,Yes,No,4.7/5,3516,9876543285,BTM,Bakery,"Pasta, Pizza","Chinese, Continental, Fast Food",600,[],[],Dining,HSR
+http://zomato.com/586,Address 586,Restaurant 586,No,Yes,2.9/5,3340,9876543286,JP Nagar,Casual Dining,"Pasta, Pizza","North Indian, Chinese",1500,[],[],Cafes,Jayanagar
+http://zomato.com/587,Address 587,Restaurant 587,Yes,Yes,4.0/5,53,9876543287,Whitefield,Delivery,"Pasta, Pizza","Beverages, Chinese, Mughlai",1000,[],[],Other,Koramangala 5th Block
+http://zomato.com/588,Address 588,Restaurant 588,No,Yes,NEW,2575,9876543288,BTM,Casual Dining,"Pasta, Pizza",South Indian,600,[],[],Dining,HSR
+http://zomato.com/589,Address 589,Restaurant 589,Yes,No,4.5/5,3591,9876543289,Whitefield,Dessert Parlor,"Pasta, Pizza","Mexican, Continental, Italian",1500,[],[],Dining,Indiranagar
+http://zomato.com/590,Address 590,Restaurant 590,Yes,No,4.9/5,615,9876543290,Jayanagar,Casual Dining,"Pasta, Pizza",Continental,800,[],[],Dining,Koramangala 5th Block
+http://zomato.com/591,Address 591,Restaurant 591,No,Yes,5.0/5,954,9876543291,BTM,Delivery,"Pasta, Pizza","Beverages, Chinese, Italian",3000,[],[],Dining,Koramangala 5th Block
+http://zomato.com/592,Address 592,Restaurant 592,Yes,No,4.1/5,2433,9876543292,JP Nagar,Bakery,"Pasta, Pizza","Mughlai, Beverages",400,[],[],Dining,Whitefield
+http://zomato.com/593,Address 593,Restaurant 593,No,No,4.7/5,1629,9876543293,JP Nagar,Cafe,"Pasta, Pizza","Mughlai, North Indian",1000,[],[],Dining,Marathahalli
+http://zomato.com/594,Address 594,Restaurant 594,No,No,2.9/5,2781,9876543294,Marathahalli,Quick Service Restaurant,"Pasta, Pizza",South Indian,1500,[],[],Other,Marathahalli
+http://zomato.com/595,Address 595,Restaurant 595,No,No,NEW,649,9876543295,Whitefield,Casual Dining,"Pasta, Pizza","Beverages, Italian, Desserts",200,[],[],Other,Marathahalli
+http://zomato.com/596,Address 596,Restaurant 596,Yes,No,3.8/5,2347,9876543296,HSR,Quick Service Restaurant,"Pasta, Pizza","South Indian, Mexican",3000,[],[],Dining,Koramangala 5th Block
+http://zomato.com/597,Address 597,Restaurant 597,Yes,Yes,4.7/5,4490,9876543297,JP Nagar,Dessert Parlor,"Pasta, Pizza","North Indian, Mexican, Chinese",600,[],[],Dining,Whitefield
+http://zomato.com/598,Address 598,Restaurant 598,No,No,NEW,3278,9876543298,Whitefield,Cafe,"Pasta, Pizza","North Indian, Continental, Fast Food",1500,[],[],Cafes,Jayanagar
+http://zomato.com/599,Address 599,Restaurant 599,No,Yes,3.0/5,2640,9876543299,Marathahalli,Buffet,"Pasta, Pizza","Continental, Italian, North Indian",3000,[],[],Other,Jayanagar
+http://zomato.com/600,Address 600,Restaurant 600,Yes,No,4.5/5,3801,987654320,HSR,Cafe,"Pasta, Pizza","Chinese, North Indian, Fast Food",2000,[],[],Other,Marathahalli
+http://zomato.com/601,Address 601,Restaurant 601,No,Yes,4.3/5,2561,987654321,BTM,Casual Dining,"Pasta, Pizza","Fast Food, North Indian",3000,[],[],Dining,Jayanagar
+http://zomato.com/602,Address 602,Restaurant 602,No,No,3.7/5,3249,987654322,Marathahalli,Bakery,"Pasta, Pizza","Italian, Desserts",1500,[],[],Other,Whitefield
+http://zomato.com/603,Address 603,Restaurant 603,No,Yes,3.6/5,370,987654323,Jayanagar,Cafe,"Pasta, Pizza","Continental, Chinese",1500,[],[],Other,Marathahalli
+http://zomato.com/604,Address 604,Restaurant 604,Yes,No,3.7/5,857,987654324,HSR,Casual Dining,"Pasta, Pizza","Mexican, Chinese",2000,[],[],Cafes,HSR
+http://zomato.com/605,Address 605,Restaurant 605,Yes,Yes,3.3/5,4886,987654325,Whitefield,Casual Dining,"Pasta, Pizza","North Indian, South Indian, Desserts",400,[],[],Cafes,HSR
+http://zomato.com/606,Address 606,Restaurant 606,Yes,No,4.3/5,4753,987654326,JP Nagar,Quick Service Restaurant,"Pasta, Pizza",Desserts,3000,[],[],Other,Whitefield
+http://zomato.com/607,Address 607,Restaurant 607,No,Yes,2.8/5,383,987654327,JP Nagar,Cafe,"Pasta, Pizza",Mexican,2000,[],[],Other,BTM
+http://zomato.com/608,Address 608,Restaurant 608,No,No,2.9/5,3877,987654328,Whitefield,Casual Dining,"Pasta, Pizza","Italian, Mexican, Continental",2000,[],[],Other,Jayanagar
+http://zomato.com/609,Address 609,Restaurant 609,No,Yes,3.6/5,2552,987654329,Whitefield,Quick Service Restaurant,"Pasta, Pizza","Continental, South Indian",3000,[],[],Dining,Marathahalli
+http://zomato.com/610,Address 610,Restaurant 610,Yes,Yes,4.1/5,4334,9876543210,Whitefield,Delivery,"Pasta, Pizza",Mughlai,200,[],[],Cafes,HSR
+http://zomato.com/611,Address 611,Restaurant 611,No,No,3.4/5,4290,9876543211,Koramangala 5th Block,Buffet,"Pasta, Pizza",Mexican,2000,[],[],Dining,Whitefield
+http://zomato.com/612,Address 612,Restaurant 612,No,No,3.7/5,2725,9876543212,HSR,Quick Service Restaurant,"Pasta, Pizza",Desserts,200,[],[],Cafes,JP Nagar
+http://zomato.com/613,Address 613,Restaurant 613,No,Yes,4.1/5,4034,9876543213,JP Nagar,Quick Service Restaurant,"Pasta, Pizza","Mughlai, North Indian, South Indian",800,[],[],Cafes,HSR
+http://zomato.com/614,Address 614,Restaurant 614,No,No,4.2/5,3293,9876543214,HSR,Casual Dining,"Pasta, Pizza","Mughlai, South Indian",3000,[],[],Cafes,JP Nagar
+http://zomato.com/615,Address 615,Restaurant 615,Yes,Yes,4.2/5,4251,9876543215,Marathahalli,Dessert Parlor,"Pasta, Pizza","North Indian, Chinese, Fast Food",2000,[],[],Other,Whitefield
+http://zomato.com/616,Address 616,Restaurant 616,Yes,Yes,NEW,3988,9876543216,JP Nagar,Dessert Parlor,"Pasta, Pizza",Fast Food,400,[],[],Cafes,Whitefield
+http://zomato.com/617,Address 617,Restaurant 617,No,Yes,4.6/5,922,9876543217,Koramangala 5th Block,Bakery,"Pasta, Pizza","Italian, North Indian",2000,[],[],Dining,Indiranagar
+http://zomato.com/618,Address 618,Restaurant 618,Yes,No,4.6/5,2915,9876543218,Whitefield,Dessert Parlor,"Pasta, Pizza","Mexican, South Indian, Desserts",1500,[],[],Cafes,HSR
+http://zomato.com/619,Address 619,Restaurant 619,Yes,Yes,4.1/5,2950,9876543219,Jayanagar,Quick Service Restaurant,"Pasta, Pizza","Desserts, Italian, Fast Food",1000,[],[],Dining,Indiranagar
+http://zomato.com/620,Address 620,Restaurant 620,No,Yes,3.8/5,3046,9876543220,Whitefield,Bakery,"Pasta, Pizza","Mexican, South Indian, Beverages",400,[],[],Cafes,Koramangala 5th Block
+http://zomato.com/621,Address 621,Restaurant 621,No,No,3.0/5,974,9876543221,BTM,Casual Dining,"Pasta, Pizza",Fast Food,2000,[],[],Cafes,HSR
+http://zomato.com/622,Address 622,Restaurant 622,Yes,No,NEW,1230,9876543222,Whitefield,Cafe,"Pasta, Pizza",North Indian,400,[],[],Other,Marathahalli
+http://zomato.com/623,Address 623,Restaurant 623,No,No,4.1/5,2435,9876543223,Koramangala 5th Block,Buffet,"Pasta, Pizza",Desserts,3000,[],[],Dining,Koramangala 5th Block
+http://zomato.com/624,Address 624,Restaurant 624,Yes,No,4.7/5,1814,9876543224,HSR,Buffet,"Pasta, Pizza","South Indian, North Indian",200,[],[],Cafes,Koramangala 5th Block
+http://zomato.com/625,Address 625,Restaurant 625,No,Yes,4.5/5,2934,9876543225,JP Nagar,Quick Service Restaurant,"Pasta, Pizza",Italian,800,[],[],Cafes,Jayanagar
+http://zomato.com/626,Address 626,Restaurant 626,Yes,Yes,3.2/5,4933,9876543226,Whitefield,Quick Service Restaurant,"Pasta, Pizza","Desserts, Mexican",800,[],[],Dining,JP Nagar
+http://zomato.com/627,Address 627,Restaurant 627,No,Yes,4.2/5,1363,9876543227,JP Nagar,Bakery,"Pasta, Pizza",Fast Food,3000,[],[],Cafes,Jayanagar
+http://zomato.com/628,Address 628,Restaurant 628,Yes,Yes,2.8/5,3940,9876543228,Indiranagar,Casual Dining,"Pasta, Pizza","Fast Food, Beverages, Desserts",3000,[],[],Other,Marathahalli
+http://zomato.com/629,Address 629,Restaurant 629,Yes,No,3.7/5,203,9876543229,Marathahalli,Delivery,"Pasta, Pizza","Mexican, Continental",400,[],[],Dining,Whitefield
+http://zomato.com/630,Address 630,Restaurant 630,Yes,Yes,3.9/5,160,9876543230,HSR,Quick Service Restaurant,"Pasta, Pizza","Italian, North Indian, Desserts",3000,[],[],Other,Indiranagar
+http://zomato.com/631,Address 631,Restaurant 631,No,Yes,4.9/5,4487,9876543231,JP Nagar,Delivery,"Pasta, Pizza","South Indian, Mughlai, Mexican",400,[],[],Dining,Marathahalli
+http://zomato.com/632,Address 632,Restaurant 632,Yes,No,3.6/5,768,9876543232,Jayanagar,Delivery,"Pasta, Pizza","Beverages, South Indian",3000,[],[],Dining,Whitefield
+http://zomato.com/633,Address 633,Restaurant 633,Yes,Yes,NEW,3748,9876543233,Marathahalli,Dessert Parlor,"Pasta, Pizza","Chinese, Beverages, Continental",2000,[],[],Dining,Marathahalli
+http://zomato.com/634,Address 634,Restaurant 634,No,Yes,4.8/5,2581,9876543234,BTM,Casual Dining,"Pasta, Pizza",Continental,3000,[],[],Cafes,Whitefield
+http://zomato.com/635,Address 635,Restaurant 635,No,Yes,4.6/5,1093,9876543235,BTM,Buffet,"Pasta, Pizza",South Indian,600,[],[],Dining,HSR
+http://zomato.com/636,Address 636,Restaurant 636,Yes,Yes,4.8/5,4500,9876543236,Jayanagar,Buffet,"Pasta, Pizza",Chinese,1500,[],[],Dining,Indiranagar
+http://zomato.com/637,Address 637,Restaurant 637,Yes,Yes,4.5/5,607,9876543237,Whitefield,Delivery,"Pasta, Pizza",Continental,200,[],[],Dining,Whitefield
+http://zomato.com/638,Address 638,Restaurant 638,No,Yes,NEW,1540,9876543238,Marathahalli,Buffet,"Pasta, Pizza","South Indian, Beverages, North Indian",1500,[],[],Other,Koramangala 5th Block
+http://zomato.com/639,Address 639,Restaurant 639,No,No,4.3/5,2875,9876543239,JP Nagar,Casual Dining,"Pasta, Pizza",Mexican,1000,[],[],Dining,Marathahalli
+http://zomato.com/640,Address 640,Restaurant 640,No,No,4.6/5,3191,9876543240,Marathahalli,Dessert Parlor,"Pasta, Pizza",Desserts,1000,[],[],Cafes,Indiranagar
+http://zomato.com/641,Address 641,Restaurant 641,No,Yes,4.7/5,1837,9876543241,Whitefield,Casual Dining,"Pasta, Pizza",North Indian,800,[],[],Dining,Whitefield
+http://zomato.com/642,Address 642,Restaurant 642,No,Yes,4.3/5,689,9876543242,Koramangala 5th Block,Quick Service Restaurant,"Pasta, Pizza","Chinese, South Indian, Mughlai",200,[],[],Dining,Koramangala 5th Block
+http://zomato.com/643,Address 643,Restaurant 643,Yes,No,2.7/5,3759,9876543243,HSR,Delivery,"Pasta, Pizza","South Indian, Beverages",1500,[],[],Other,Koramangala 5th Block
+http://zomato.com/644,Address 644,Restaurant 644,No,Yes,2.5/5,2949,9876543244,Jayanagar,Casual Dining,"Pasta, Pizza",Chinese,800,[],[],Cafes,HSR
+http://zomato.com/645,Address 645,Restaurant 645,Yes,Yes,3.3/5,2103,9876543245,Whitefield,Buffet,"Pasta, Pizza",Mexican,1000,[],[],Cafes,JP Nagar
+http://zomato.com/646,Address 646,Restaurant 646,Yes,Yes,3.2/5,365,9876543246,Koramangala 5th Block,Cafe,"Pasta, Pizza","Chinese, South Indian, Italian",400,[],[],Cafes,Koramangala 5th Block
+http://zomato.com/647,Address 647,Restaurant 647,Yes,No,4.4/5,3575,9876543247,Marathahalli,Casual Dining,"Pasta, Pizza",Fast Food,200,[],[],Dining,Jayanagar
+http://zomato.com/648,Address 648,Restaurant 648,No,Yes,NEW,4550,9876543248,Marathahalli,Delivery,"Pasta, Pizza","Chinese, Continental",200,[],[],Dining,Indiranagar
+http://zomato.com/649,Address 649,Restaurant 649,Yes,No,4.6/5,4199,9876543249,Whitefield,Dessert Parlor,"Pasta, Pizza","Chinese, Mughlai, Continental",3000,[],[],Cafes,Indiranagar
+http://zomato.com/650,Address 650,Restaurant 650,Yes,Yes,4.0/5,4172,9876543250,JP Nagar,Buffet,"Pasta, Pizza",Mughlai,3000,[],[],Cafes,BTM
+http://zomato.com/651,Address 651,Restaurant 651,No,No,3.0/5,4325,9876543251,Marathahalli,Dessert Parlor,"Pasta, Pizza","Desserts, Continental, North Indian",1500,[],[],Other,Indiranagar
+http://zomato.com/652,Address 652,Restaurant 652,Yes,No,NEW,2378,9876543252,JP Nagar,Delivery,"Pasta, Pizza","Desserts, North Indian",3000,[],[],Cafes,Whitefield
+http://zomato.com/653,Address 653,Restaurant 653,Yes,Yes,4.5/5,1205,9876543253,JP Nagar,Buffet,"Pasta, Pizza",South Indian,3000,[],[],Dining,Marathahalli
+http://zomato.com/654,Address 654,Restaurant 654,No,No,NEW,4988,9876543254,HSR,Quick Service Restaurant,"Pasta, Pizza","Desserts, Beverages",2000,[],[],Dining,Whitefield
+http://zomato.com/655,Address 655,Restaurant 655,Yes,Yes,5.0/5,3839,9876543255,JP Nagar,Buffet,"Pasta, Pizza","North Indian, Beverages",600,[],[],Dining,Jayanagar
+http://zomato.com/656,Address 656,Restaurant 656,Yes,No,3.8/5,2735,9876543256,Indiranagar,Quick Service Restaurant,"Pasta, Pizza","Fast Food, Beverages, Mughlai",1500,[],[],Other,BTM
+http://zomato.com/657,Address 657,Restaurant 657,Yes,Yes,NEW,3347,9876543257,HSR,Dessert Parlor,"Pasta, Pizza","Desserts, North Indian, South Indian",3000,[],[],Cafes,Marathahalli
+http://zomato.com/658,Address 658,Restaurant 658,No,Yes,4.0/5,1675,9876543258,Koramangala 5th Block,Dessert Parlor,"Pasta, Pizza",Desserts,400,[],[],Dining,HSR
+http://zomato.com/659,Address 659,Restaurant 659,No,No,2.7/5,298,9876543259,Koramangala 5th Block,Delivery,"Pasta, Pizza","Mughlai, Beverages, South Indian",2000,[],[],Other,Koramangala 5th Block
+http://zomato.com/660,Address 660,Restaurant 660,No,Yes,4.2/5,956,9876543260,Marathahalli,Quick Service Restaurant,"Pasta, Pizza",Italian,2000,[],[],Other,BTM
+http://zomato.com/661,Address 661,Restaurant 661,Yes,Yes,4.7/5,1114,9876543261,Marathahalli,Dessert Parlor,"Pasta, Pizza","North Indian, Desserts",2000,[],[],Dining,Whitefield
+http://zomato.com/662,Address 662,Restaurant 662,Yes,No,3.8/5,2505,9876543262,JP Nagar,Quick Service Restaurant,"Pasta, Pizza","Italian, Chinese, Beverages",400,[],[],Other,Marathahalli
+http://zomato.com/663,Address 663,Restaurant 663,No,Yes,3.3/5,1474,9876543263,HSR,Dessert Parlor,"Pasta, Pizza","North Indian, Beverages",800,[],[],Other,Koramangala 5th Block
+http://zomato.com/664,Address 664,Restaurant 664,Yes,Yes,4.4/5,4460,9876543264,HSR,Buffet,"Pasta, Pizza","South Indian, Chinese",200,[],[],Dining,Marathahalli
+http://zomato.com/665,Address 665,Restaurant 665,Yes,No,4.7/5,4446,9876543265,Indiranagar,Casual Dining,"Pasta, Pizza","Italian, Continental, Beverages",800,[],[],Other,Koramangala 5th Block
+http://zomato.com/666,Address 666,Restaurant 666,No,No,4.0/5,3726,9876543266,JP Nagar,Cafe,"Pasta, Pizza","South Indian, North Indian, Beverages",400,[],[],Dining,Marathahalli
+http://zomato.com/667,Address 667,Restaurant 667,No,Yes,4.0/5,3471,9876543267,Indiranagar,Buffet,"Pasta, Pizza","Beverages, Mughlai, Fast Food",600,[],[],Dining,Whitefield
+http://zomato.com/668,Address 668,Restaurant 668,Yes,Yes,3.1/5,2828,9876543268,BTM,Bakery,"Pasta, Pizza",Beverages,200,[],[],Other,BTM
+http://zomato.com/669,Address 669,Restaurant 669,Yes,No,2.8/5,2850,9876543269,JP Nagar,Casual Dining,"Pasta, Pizza",North Indian,400,[],[],Dining,Whitefield
+http://zomato.com/670,Address 670,Restaurant 670,Yes,No,3.7/5,2506,9876543270,Jayanagar,Bakery,"Pasta, Pizza","Mexican, Desserts",600,[],[],Dining,Jayanagar
+http://zomato.com/671,Address 671,Restaurant 671,No,Yes,4.9/5,3770,9876543271,Jayanagar,Dessert Parlor,"Pasta, Pizza","South Indian, Continental",1500,[],[],Cafes,HSR
+http://zomato.com/672,Address 672,Restaurant 672,No,No,4.4/5,2964,9876543272,Whitefield,Cafe,"Pasta, Pizza",South Indian,1000,[],[],Dining,HSR
+http://zomato.com/673,Address 673,Restaurant 673,No,Yes,4.1/5,4594,9876543273,JP Nagar,Cafe,"Pasta, Pizza","Mexican, Italian",2000,[],[],Cafes,JP Nagar
+http://zomato.com/674,Address 674,Restaurant 674,No,Yes,NEW,949,9876543274,HSR,Dessert Parlor,"Pasta, Pizza","South Indian, Desserts, Chinese",3000,[],[],Cafes,Indiranagar
+http://zomato.com/675,Address 675,Restaurant 675,Yes,Yes,3.4/5,4603,9876543275,Marathahalli,Dessert Parlor,"Pasta, Pizza",Mexican,400,[],[],Cafes,Whitefield
+http://zomato.com/676,Address 676,Restaurant 676,No,Yes,2.6/5,2850,9876543276,Koramangala 5th Block,Quick Service Restaurant,"Pasta, Pizza","South Indian, Mughlai, Continental",1000,[],[],Cafes,Whitefield
+http://zomato.com/677,Address 677,Restaurant 677,No,Yes,3.2/5,165,9876543277,Whitefield,Dessert Parlor,"Pasta, Pizza","Desserts, Chinese",800,[],[],Other,Koramangala 5th Block
+http://zomato.com/678,Address 678,Restaurant 678,No,No,3.3/5,3486,9876543278,Marathahalli,Delivery,"Pasta, Pizza","Continental, South Indian, Italian",1000,[],[],Other,JP Nagar
+http://zomato.com/679,Address 679,Restaurant 679,No,No,3.0/5,2509,9876543279,Jayanagar,Dessert Parlor,"Pasta, Pizza","Desserts, Continental, Mexican",400,[],[],Dining,HSR
+http://zomato.com/680,Address 680,Restaurant 680,No,No,3.2/5,919,9876543280,JP Nagar,Delivery,"Pasta, Pizza","Beverages, Mexican, Chinese",1000,[],[],Dining,Whitefield
+http://zomato.com/681,Address 681,Restaurant 681,Yes,No,3.8/5,113,9876543281,Whitefield,Dessert Parlor,"Pasta, Pizza","Mexican, Fast Food, North Indian",2000,[],[],Dining,Marathahalli
+http://zomato.com/682,Address 682,Restaurant 682,Yes,Yes,NEW,3504,9876543282,JP Nagar,Quick Service Restaurant,"Pasta, Pizza",North Indian,200,[],[],Other,HSR
+http://zomato.com/683,Address 683,Restaurant 683,No,Yes,NEW,991,9876543283,Jayanagar,Delivery,"Pasta, Pizza","Italian, Mexican",400,[],[],Cafes,JP Nagar
+http://zomato.com/684,Address 684,Restaurant 684,Yes,Yes,2.6/5,3839,9876543284,Whitefield,Casual Dining,"Pasta, Pizza","Fast Food, Mexican, Continental",600,[],[],Other,Indiranagar
+http://zomato.com/685,Address 685,Restaurant 685,No,Yes,3.3/5,1258,9876543285,Jayanagar,Delivery,"Pasta, Pizza","Chinese, North Indian, Continental",1000,[],[],Other,Marathahalli
+http://zomato.com/686,Address 686,Restaurant 686,No,No,3.9/5,3426,9876543286,Indiranagar,Buffet,"Pasta, Pizza","Desserts, North Indian",200,[],[],Dining,Koramangala 5th Block
+http://zomato.com/687,Address 687,Restaurant 687,Yes,Yes,3.2/5,514,9876543287,Jayanagar,Quick Service Restaurant,"Pasta, Pizza",Chinese,2000,[],[],Dining,Jayanagar
+http://zomato.com/688,Address 688,Restaurant 688,Yes,Yes,3.5/5,4804,9876543288,HSR,Bakery,"Pasta, Pizza","Continental, Fast Food, Chinese",800,[],[],Dining,Marathahalli
+http://zomato.com/689,Address 689,Restaurant 689,No,No,NEW,3196,9876543289,HSR,Delivery,"Pasta, Pizza","Chinese, Continental, Mexican",800,[],[],Cafes,BTM
+http://zomato.com/690,Address 690,Restaurant 690,No,No,2.8/5,4434,9876543290,JP Nagar,Buffet,"Pasta, Pizza","South Indian, Beverages",2000,[],[],Cafes,HSR
+http://zomato.com/691,Address 691,Restaurant 691,No,No,3.8/5,2584,9876543291,Koramangala 5th Block,Buffet,"Pasta, Pizza",South Indian,1000,[],[],Other,BTM
+http://zomato.com/692,Address 692,Restaurant 692,Yes,No,3.7/5,67,9876543292,Jayanagar,Buffet,"Pasta, Pizza","South Indian, North Indian",800,[],[],Cafes,Indiranagar
+http://zomato.com/693,Address 693,Restaurant 693,No,Yes,5.0/5,1596,9876543293,Marathahalli,Dessert Parlor,"Pasta, Pizza","South Indian, Beverages",600,[],[],Dining,Marathahalli
+http://zomato.com/694,Address 694,Restaurant 694,No,Yes,3.2/5,4478,9876543294,HSR,Buffet,"Pasta, Pizza","Italian, Chinese",400,[],[],Cafes,JP Nagar
+http://zomato.com/695,Address 695,Restaurant 695,No,No,3.6/5,18,9876543295,BTM,Dessert Parlor,"Pasta, Pizza",Continental,200,[],[],Cafes,JP Nagar
+http://zomato.com/696,Address 696,Restaurant 696,Yes,Yes,4.8/5,2730,9876543296,Koramangala 5th Block,Bakery,"Pasta, Pizza","Fast Food, Beverages, Italian",1500,[],[],Cafes,Indiranagar
+http://zomato.com/697,Address 697,Restaurant 697,No,Yes,4.0/5,3521,9876543297,Indiranagar,Quick Service Restaurant,"Pasta, Pizza","Beverages, North Indian, Fast Food",1000,[],[],Cafes,HSR
+http://zomato.com/698,Address 698,Restaurant 698,No,Yes,4.6/5,572,9876543298,Whitefield,Cafe,"Pasta, Pizza","Desserts, Continental",800,[],[],Dining,JP Nagar
+http://zomato.com/699,Address 699,Restaurant 699,Yes,No,4.6/5,2258,9876543299,Whitefield,Dessert Parlor,"Pasta, Pizza",South Indian,400,[],[],Dining,Marathahalli
+http://zomato.com/700,Address 700,Restaurant 700,No,Yes,NEW,2902,987654320,HSR,Buffet,"Pasta, Pizza",Italian,1500,[],[],Other,Jayanagar
+http://zomato.com/701,Address 701,Restaurant 701,No,No,2.6/5,650,987654321,Koramangala 5th Block,Buffet,"Pasta, Pizza",Mexican,600,[],[],Other,Marathahalli
+http://zomato.com/702,Address 702,Restaurant 702,Yes,Yes,2.6/5,2587,987654322,HSR,Casual Dining,"Pasta, Pizza",Beverages,800,[],[],Other,Jayanagar
+http://zomato.com/703,Address 703,Restaurant 703,No,Yes,4.2/5,3262,987654323,Whitefield,Buffet,"Pasta, Pizza","North Indian, Italian",800,[],[],Cafes,JP Nagar
+http://zomato.com/704,Address 704,Restaurant 704,Yes,Yes,3.5/5,1338,987654324,BTM,Quick Service Restaurant,"Pasta, Pizza","North Indian, Desserts",200,[],[],Cafes,Marathahalli
+http://zomato.com/705,Address 705,Restaurant 705,Yes,No,3.4/5,4996,987654325,Jayanagar,Delivery,"Pasta, Pizza","Desserts, Mexican, Italian",600,[],[],Dining,JP Nagar
+http://zomato.com/706,Address 706,Restaurant 706,No,Yes,3.5/5,3634,987654326,Koramangala 5th Block,Delivery,"Pasta, Pizza","Italian, Continental, Fast Food",600,[],[],Other,HSR
+http://zomato.com/707,Address 707,Restaurant 707,No,No,2.7/5,2827,987654327,JP Nagar,Buffet,"Pasta, Pizza","Mexican, Fast Food, Chinese",1000,[],[],Dining,Jayanagar
+http://zomato.com/708,Address 708,Restaurant 708,No,No,NEW,2217,987654328,Jayanagar,Casual Dining,"Pasta, Pizza",Continental,1500,[],[],Other,HSR
+http://zomato.com/709,Address 709,Restaurant 709,No,No,4.9/5,3539,987654329,Jayanagar,Dessert Parlor,"Pasta, Pizza","Chinese, South Indian, Mughlai",200,[],[],Other,JP Nagar
+http://zomato.com/710,Address 710,Restaurant 710,Yes,Yes,4.2/5,1037,9876543210,Jayanagar,Quick Service Restaurant,"Pasta, Pizza","Mexican, Continental",1000,[],[],Other,Whitefield
+http://zomato.com/711,Address 711,Restaurant 711,No,Yes,4.0/5,4383,9876543211,JP Nagar,Casual Dining,"Pasta, Pizza",Mughlai,200,[],[],Cafes,Koramangala 5th Block
+http://zomato.com/712,Address 712,Restaurant 712,Yes,Yes,NEW,3978,9876543212,BTM,Dessert Parlor,"Pasta, Pizza","Beverages, Mexican, South Indian",600,[],[],Other,Marathahalli
+http://zomato.com/713,Address 713,Restaurant 713,No,Yes,4.8/5,2961,9876543213,Indiranagar,Quick Service Restaurant,"Pasta, Pizza","Mexican, Fast Food",200,[],[],Other,Whitefield
+http://zomato.com/714,Address 714,Restaurant 714,No,No,4.7/5,3226,9876543214,BTM,Buffet,"Pasta, Pizza","Beverages, Desserts",200,[],[],Cafes,HSR
+http://zomato.com/715,Address 715,Restaurant 715,No,No,2.8/5,1098,9876543215,BTM,Delivery,"Pasta, Pizza","South Indian, Beverages, North Indian",200,[],[],Other,BTM
+http://zomato.com/716,Address 716,Restaurant 716,Yes,No,2.7/5,2324,9876543216,BTM,Quick Service Restaurant,"Pasta, Pizza","Mexican, Beverages",3000,[],[],Cafes,JP Nagar
+http://zomato.com/717,Address 717,Restaurant 717,No,Yes,2.9/5,939,9876543217,Marathahalli,Buffet,"Pasta, Pizza","South Indian, Continental, Mughlai",400,[],[],Cafes,JP Nagar
+http://zomato.com/718,Address 718,Restaurant 718,No,No,NEW,3716,9876543218,HSR,Bakery,"Pasta, Pizza","Chinese, Mexican",400,[],[],Dining,Koramangala 5th Block
+http://zomato.com/719,Address 719,Restaurant 719,No,Yes,3.2/5,3414,9876543219,Whitefield,Cafe,"Pasta, Pizza",Beverages,1500,[],[],Cafes,JP Nagar
+http://zomato.com/720,Address 720,Restaurant 720,No,No,3.9/5,1448,9876543220,HSR,Quick Service Restaurant,"Pasta, Pizza",Mughlai,1500,[],[],Cafes,Koramangala 5th Block
+http://zomato.com/721,Address 721,Restaurant 721,Yes,Yes,NEW,570,9876543221,Koramangala 5th Block,Cafe,"Pasta, Pizza","Beverages, Chinese",2000,[],[],Cafes,Marathahalli
+http://zomato.com/722,Address 722,Restaurant 722,No,Yes,3.9/5,2904,9876543222,BTM,Quick Service Restaurant,"Pasta, Pizza","Italian, North Indian, Chinese",600,[],[],Other,Jayanagar
+http://zomato.com/723,Address 723,Restaurant 723,Yes,No,4.3/5,2505,9876543223,Indiranagar,Cafe,"Pasta, Pizza",Fast Food,200,[],[],Dining,Koramangala 5th Block
+http://zomato.com/724,Address 724,Restaurant 724,Yes,No,4.6/5,917,9876543224,Koramangala 5th Block,Bakery,"Pasta, Pizza","South Indian, Mughlai",600,[],[],Other,Koramangala 5th Block
+http://zomato.com/725,Address 725,Restaurant 725,Yes,No,3.6/5,1874,9876543225,HSR,Delivery,"Pasta, Pizza",Italian,400,[],[],Cafes,Whitefield
+http://zomato.com/726,Address 726,Restaurant 726,Yes,No,3.2/5,4928,9876543226,Whitefield,Dessert Parlor,"Pasta, Pizza","Fast Food, Beverages",3000,[],[],Cafes,JP Nagar
+http://zomato.com/727,Address 727,Restaurant 727,Yes,Yes,4.5/5,1678,9876543227,JP Nagar,Cafe,"Pasta, Pizza","South Indian, North Indian, Fast Food",200,[],[],Dining,Marathahalli
+http://zomato.com/728,Address 728,Restaurant 728,Yes,No,4.5/5,615,9876543228,HSR,Bakery,"Pasta, Pizza",Fast Food,1000,[],[],Dining,Jayanagar
+http://zomato.com/729,Address 729,Restaurant 729,No,No,4.6/5,4501,9876543229,Jayanagar,Cafe,"Pasta, Pizza","Chinese, Continental, Mughlai",400,[],[],Cafes,Indiranagar
+http://zomato.com/730,Address 730,Restaurant 730,Yes,No,3.6/5,1749,9876543230,HSR,Delivery,"Pasta, Pizza","Continental, North Indian, South Indian",400,[],[],Cafes,HSR
+http://zomato.com/731,Address 731,Restaurant 731,Yes,Yes,4.0/5,3825,9876543231,Jayanagar,Cafe,"Pasta, Pizza","Beverages, Desserts, North Indian",400,[],[],Other,Koramangala 5th Block
+http://zomato.com/732,Address 732,Restaurant 732,Yes,Yes,4.0/5,4188,9876543232,JP Nagar,Bakery,"Pasta, Pizza","South Indian, Mexican, Mughlai",2000,[],[],Cafes,Indiranagar
+http://zomato.com/733,Address 733,Restaurant 733,No,No,4.2/5,2477,9876543233,HSR,Buffet,"Pasta, Pizza","Italian, South Indian",200,[],[],Other,JP Nagar
+http://zomato.com/734,Address 734,Restaurant 734,No,Yes,2.9/5,4749,9876543234,Indiranagar,Bakery,"Pasta, Pizza",Continental,1500,[],[],Dining,HSR
+http://zomato.com/735,Address 735,Restaurant 735,Yes,No,2.9/5,3505,9876543235,Indiranagar,Casual Dining,"Pasta, Pizza",Italian,800,[],[],Other,Koramangala 5th Block
+http://zomato.com/736,Address 736,Restaurant 736,No,Yes,3.4/5,3475,9876543236,Koramangala 5th Block,Delivery,"Pasta, Pizza","Fast Food, Mughlai",1000,[],[],Cafes,BTM
+http://zomato.com/737,Address 737,Restaurant 737,Yes,Yes,2.6/5,4529,9876543237,JP Nagar,Buffet,"Pasta, Pizza",Mexican,1000,[],[],Other,BTM
+http://zomato.com/738,Address 738,Restaurant 738,Yes,Yes,4.1/5,1135,9876543238,BTM,Casual Dining,"Pasta, Pizza","Desserts, Mughlai",600,[],[],Other,Indiranagar
+http://zomato.com/739,Address 739,Restaurant 739,No,Yes,2.7/5,4000,9876543239,Indiranagar,Delivery,"Pasta, Pizza","Mexican, Chinese",200,[],[],Dining,Whitefield
+http://zomato.com/740,Address 740,Restaurant 740,Yes,No,3.3/5,374,9876543240,HSR,Buffet,"Pasta, Pizza",Beverages,1500,[],[],Other,Indiranagar
+http://zomato.com/741,Address 741,Restaurant 741,No,No,4.0/5,206,9876543241,JP Nagar,Cafe,"Pasta, Pizza","Fast Food, Desserts, South Indian",400,[],[],Cafes,HSR
+http://zomato.com/742,Address 742,Restaurant 742,No,No,3.0/5,4875,9876543242,Whitefield,Buffet,"Pasta, Pizza","Mughlai, Mexican, South Indian",800,[],[],Other,Whitefield
+http://zomato.com/743,Address 743,Restaurant 743,Yes,Yes,3.6/5,1319,9876543243,Jayanagar,Bakery,"Pasta, Pizza",North Indian,200,[],[],Other,HSR
+http://zomato.com/744,Address 744,Restaurant 744,Yes,No,2.9/5,1141,9876543244,HSR,Casual Dining,"Pasta, Pizza","Desserts, Beverages",200,[],[],Other,Jayanagar
+http://zomato.com/745,Address 745,Restaurant 745,No,No,2.6/5,4627,9876543245,Jayanagar,Cafe,"Pasta, Pizza",North Indian,2000,[],[],Cafes,JP Nagar
+http://zomato.com/746,Address 746,Restaurant 746,Yes,No,4.9/5,2690,9876543246,Jayanagar,Bakery,"Pasta, Pizza","Mexican, Continental",1500,[],[],Other,BTM
+http://zomato.com/747,Address 747,Restaurant 747,Yes,Yes,2.6/5,3255,9876543247,BTM,Delivery,"Pasta, Pizza","Chinese, Mughlai",800,[],[],Cafes,Marathahalli
+http://zomato.com/748,Address 748,Restaurant 748,Yes,Yes,NEW,89,9876543248,JP Nagar,Buffet,"Pasta, Pizza",Beverages,400,[],[],Other,Indiranagar
+http://zomato.com/749,Address 749,Restaurant 749,No,Yes,2.9/5,4108,9876543249,JP Nagar,Bakery,"Pasta, Pizza","Desserts, North Indian",200,[],[],Dining,Koramangala 5th Block
+http://zomato.com/750,Address 750,Restaurant 750,No,No,NEW,3020,9876543250,Koramangala 5th Block,Cafe,"Pasta, Pizza",Mexican,1000,[],[],Dining,HSR
+http://zomato.com/751,Address 751,Restaurant 751,Yes,No,3.6/5,1857,9876543251,Jayanagar,Casual Dining,"Pasta, Pizza","Chinese, Mughlai, Beverages",3000,[],[],Dining,HSR
+http://zomato.com/752,Address 752,Restaurant 752,No,No,4.8/5,804,9876543252,Koramangala 5th Block,Casual Dining,"Pasta, Pizza","Beverages, North Indian",1000,[],[],Cafes,JP Nagar
+http://zomato.com/753,Address 753,Restaurant 753,No,Yes,4.9/5,944,9876543253,BTM,Buffet,"Pasta, Pizza","Continental, Chinese, South Indian",800,[],[],Cafes,Indiranagar
+http://zomato.com/754,Address 754,Restaurant 754,No,Yes,4.7/5,2789,9876543254,Jayanagar,Bakery,"Pasta, Pizza","Mughlai, Italian",3000,[],[],Cafes,Koramangala 5th Block
+http://zomato.com/755,Address 755,Restaurant 755,No,No,4.6/5,3875,9876543255,Koramangala 5th Block,Cafe,"Pasta, Pizza","Fast Food, North Indian, Italian",400,[],[],Other,Koramangala 5th Block
+http://zomato.com/756,Address 756,Restaurant 756,No,Yes,3.2/5,1610,9876543256,Koramangala 5th Block,Quick Service Restaurant,"Pasta, Pizza",Chinese,800,[],[],Cafes,HSR
+http://zomato.com/757,Address 757,Restaurant 757,Yes,Yes,3.5/5,2923,9876543257,Whitefield,Delivery,"Pasta, Pizza",Mughlai,200,[],[],Cafes,Marathahalli
+http://zomato.com/758,Address 758,Restaurant 758,Yes,Yes,3.4/5,3882,9876543258,Koramangala 5th Block,Delivery,"Pasta, Pizza","North Indian, Desserts",2000,[],[],Cafes,HSR
+http://zomato.com/759,Address 759,Restaurant 759,Yes,Yes,2.9/5,3221,9876543259,JP Nagar,Cafe,"Pasta, Pizza",South Indian,2000,[],[],Cafes,Marathahalli
+http://zomato.com/760,Address 760,Restaurant 760,No,No,3.9/5,4391,9876543260,Koramangala 5th Block,Quick Service Restaurant,"Pasta, Pizza","North Indian, Fast Food",1000,[],[],Dining,HSR
+http://zomato.com/761,Address 761,Restaurant 761,No,Yes,4.6/5,4735,9876543261,Jayanagar,Casual Dining,"Pasta, Pizza","Chinese, North Indian, Fast Food",2000,[],[],Other,HSR
+http://zomato.com/762,Address 762,Restaurant 762,Yes,Yes,3.3/5,2387,9876543262,Koramangala 5th Block,Buffet,"Pasta, Pizza",Mughlai,600,[],[],Dining,Koramangala 5th Block
+http://zomato.com/763,Address 763,Restaurant 763,No,Yes,3.0/5,4723,9876543263,Indiranagar,Dessert Parlor,"Pasta, Pizza","Continental, North Indian",800,[],[],Other,Marathahalli
+http://zomato.com/764,Address 764,Restaurant 764,Yes,Yes,NEW,941,9876543264,Marathahalli,Dessert Parlor,"Pasta, Pizza",Chinese,2000,[],[],Other,Koramangala 5th Block
+http://zomato.com/765,Address 765,Restaurant 765,Yes,No,3.2/5,4925,9876543265,Jayanagar,Buffet,"Pasta, Pizza","North Indian, Beverages, Desserts",600,[],[],Dining,Indiranagar
+http://zomato.com/766,Address 766,Restaurant 766,Yes,No,3.9/5,2566,9876543266,Indiranagar,Cafe,"Pasta, Pizza","Fast Food, Desserts",600,[],[],Cafes,HSR
+http://zomato.com/767,Address 767,Restaurant 767,No,Yes,4.0/5,975,9876543267,BTM,Quick Service Restaurant,"Pasta, Pizza","Beverages, Chinese",1500,[],[],Dining,Jayanagar
+http://zomato.com/768,Address 768,Restaurant 768,No,Yes,3.6/5,954,9876543268,Jayanagar,Quick Service Restaurant,"Pasta, Pizza",Beverages,1000,[],[],Other,Marathahalli
+http://zomato.com/769,Address 769,Restaurant 769,Yes,Yes,3.7/5,1262,9876543269,JP Nagar,Delivery,"Pasta, Pizza",Italian,800,[],[],Other,Whitefield
+http://zomato.com/770,Address 770,Restaurant 770,Yes,Yes,5.0/5,943,9876543270,Marathahalli,Casual Dining,"Pasta, Pizza",Fast Food,600,[],[],Cafes,BTM
+http://zomato.com/771,Address 771,Restaurant 771,Yes,Yes,4.1/5,2202,9876543271,Marathahalli,Bakery,"Pasta, Pizza","Italian, Beverages",200,[],[],Dining,Whitefield
+http://zomato.com/772,Address 772,Restaurant 772,Yes,Yes,4.1/5,3327,9876543272,JP Nagar,Quick Service Restaurant,"Pasta, Pizza",Continental,2000,[],[],Other,Whitefield
+http://zomato.com/773,Address 773,Restaurant 773,No,No,3.5/5,4274,9876543273,Marathahalli,Buffet,"Pasta, Pizza",Mexican,1500,[],[],Dining,Jayanagar
+http://zomato.com/774,Address 774,Restaurant 774,No,Yes,NEW,2259,9876543274,JP Nagar,Bakery,"Pasta, Pizza","Fast Food, Italian, Continental",400,[],[],Cafes,Koramangala 5th Block
+http://zomato.com/775,Address 775,Restaurant 775,Yes,No,3.9/5,1828,9876543275,Indiranagar,Dessert Parlor,"Pasta, Pizza","South Indian, Beverages",2000,[],[],Cafes,Koramangala 5th Block
+http://zomato.com/776,Address 776,Restaurant 776,Yes,No,4.9/5,1257,9876543276,BTM,Bakery,"Pasta, Pizza","Desserts, Fast Food",2000,[],[],Other,BTM
+http://zomato.com/777,Address 777,Restaurant 777,No,Yes,4.3/5,464,9876543277,Whitefield,Casual Dining,"Pasta, Pizza","Mughlai, Desserts, Italian",2000,[],[],Cafes,BTM
+http://zomato.com/778,Address 778,Restaurant 778,No,No,4.7/5,3294,9876543278,Jayanagar,Buffet,"Pasta, Pizza","North Indian, South Indian",1500,[],[],Other,JP Nagar
+http://zomato.com/779,Address 779,Restaurant 779,Yes,No,4.5/5,1230,9876543279,JP Nagar,Casual Dining,"Pasta, Pizza","South Indian, Chinese, Beverages",400,[],[],Other,BTM
+http://zomato.com/780,Address 780,Restaurant 780,Yes,No,4.5/5,2654,9876543280,Jayanagar,Bakery,"Pasta, Pizza","Mughlai, Chinese",1000,[],[],Cafes,Whitefield
+http://zomato.com/781,Address 781,Restaurant 781,Yes,No,4.7/5,884,9876543281,BTM,Cafe,"Pasta, Pizza","Continental, Fast Food",800,[],[],Cafes,Whitefield
+http://zomato.com/782,Address 782,Restaurant 782,No,No,2.9/5,3805,9876543282,Indiranagar,Quick Service Restaurant,"Pasta, Pizza",Continental,800,[],[],Dining,Koramangala 5th Block
+http://zomato.com/783,Address 783,Restaurant 783,No,No,5.0/5,3856,9876543283,Whitefield,Buffet,"Pasta, Pizza","Beverages, North Indian, Mughlai",400,[],[],Dining,Whitefield
+http://zomato.com/784,Address 784,Restaurant 784,No,Yes,4.7/5,3135,9876543284,BTM,Cafe,"Pasta, Pizza","Beverages, Italian, North Indian",3000,[],[],Other,Koramangala 5th Block
+http://zomato.com/785,Address 785,Restaurant 785,Yes,No,3.4/5,924,9876543285,Indiranagar,Bakery,"Pasta, Pizza",Italian,2000,[],[],Dining,HSR
+http://zomato.com/786,Address 786,Restaurant 786,Yes,No,3.0/5,4589,9876543286,Marathahalli,Quick Service Restaurant,"Pasta, Pizza",Mughlai,200,[],[],Other,HSR
+http://zomato.com/787,Address 787,Restaurant 787,No,No,3.5/5,1546,9876543287,Jayanagar,Delivery,"Pasta, Pizza","Continental, Beverages",400,[],[],Cafes,Koramangala 5th Block
+http://zomato.com/788,Address 788,Restaurant 788,No,Yes,3.7/5,1094,9876543288,HSR,Cafe,"Pasta, Pizza","Mexican, Beverages",400,[],[],Cafes,Marathahalli
+http://zomato.com/789,Address 789,Restaurant 789,Yes,No,4.7/5,2411,9876543289,Whitefield,Cafe,"Pasta, Pizza",Mexican,800,[],[],Dining,Koramangala 5th Block
+http://zomato.com/790,Address 790,Restaurant 790,No,Yes,3.5/5,2617,9876543290,Marathahalli,Bakery,"Pasta, Pizza",Italian,600,[],[],Other,Indiranagar
+http://zomato.com/791,Address 791,Restaurant 791,No,No,4.4/5,762,9876543291,BTM,Dessert Parlor,"Pasta, Pizza","Italian, Chinese, Beverages",200,[],[],Other,Indiranagar
+http://zomato.com/792,Address 792,Restaurant 792,Yes,Yes,4.9/5,2323,9876543292,Whitefield,Bakery,"Pasta, Pizza","Mexican, Continental",800,[],[],Dining,Indiranagar
+http://zomato.com/793,Address 793,Restaurant 793,No,Yes,2.8/5,4145,9876543293,Marathahalli,Cafe,"Pasta, Pizza","Italian, Desserts",1500,[],[],Other,Indiranagar
+http://zomato.com/794,Address 794,Restaurant 794,Yes,No,3.6/5,2775,9876543294,Indiranagar,Quick Service Restaurant,"Pasta, Pizza","Desserts, Fast Food, Continental",400,[],[],Other,Jayanagar
+http://zomato.com/795,Address 795,Restaurant 795,Yes,No,4.7/5,4659,9876543295,JP Nagar,Dessert Parlor,"Pasta, Pizza",North Indian,3000,[],[],Cafes,JP Nagar
+http://zomato.com/796,Address 796,Restaurant 796,Yes,Yes,NEW,4878,9876543296,Jayanagar,Bakery,"Pasta, Pizza","Italian, Fast Food, Desserts",600,[],[],Other,JP Nagar
+http://zomato.com/797,Address 797,Restaurant 797,Yes,No,3.6/5,3155,9876543297,Koramangala 5th Block,Buffet,"Pasta, Pizza","Continental, Italian",200,[],[],Other,Koramangala 5th Block
+http://zomato.com/798,Address 798,Restaurant 798,Yes,Yes,4.1/5,3970,9876543298,Koramangala 5th Block,Bakery,"Pasta, Pizza","Mughlai, Continental, Beverages",1000,[],[],Other,HSR
+http://zomato.com/799,Address 799,Restaurant 799,Yes,Yes,2.5/5,2040,9876543299,Indiranagar,Cafe,"Pasta, Pizza",Mexican,200,[],[],Dining,Whitefield
+http://zomato.com/800,Address 800,Restaurant 800,Yes,Yes,4.2/5,583,987654320,BTM,Cafe,"Pasta, Pizza","Chinese, Mughlai",200,[],[],Dining,Indiranagar
+http://zomato.com/801,Address 801,Restaurant 801,No,Yes,4.2/5,4331,987654321,Jayanagar,Delivery,"Pasta, Pizza","Continental, Desserts",2000,[],[],Dining,JP Nagar
+http://zomato.com/802,Address 802,Restaurant 802,Yes,Yes,3.2/5,2103,987654322,BTM,Bakery,"Pasta, Pizza","North Indian, Mughlai",400,[],[],Other,JP Nagar
+http://zomato.com/803,Address 803,Restaurant 803,Yes,No,4.5/5,1942,987654323,Jayanagar,Cafe,"Pasta, Pizza","Mughlai, Desserts, Italian",400,[],[],Other,Indiranagar
+http://zomato.com/804,Address 804,Restaurant 804,No,Yes,3.0/5,4455,987654324,Indiranagar,Buffet,"Pasta, Pizza","Beverages, Fast Food, Mughlai",1000,[],[],Dining,HSR
+http://zomato.com/805,Address 805,Restaurant 805,No,Yes,2.5/5,109,987654325,Jayanagar,Casual Dining,"Pasta, Pizza","Chinese, South Indian, Fast Food",1000,[],[],Dining,Jayanagar
+http://zomato.com/806,Address 806,Restaurant 806,No,No,4.2/5,191,987654326,JP Nagar,Dessert Parlor,"Pasta, Pizza","North Indian, Chinese",1000,[],[],Other,Jayanagar
+http://zomato.com/807,Address 807,Restaurant 807,Yes,Yes,3.2/5,903,987654327,BTM,Casual Dining,"Pasta, Pizza","Chinese, Italian, Mexican",800,[],[],Other,BTM
+http://zomato.com/808,Address 808,Restaurant 808,No,No,NEW,861,987654328,Indiranagar,Dessert Parlor,"Pasta, Pizza","Mughlai, Mexican",800,[],[],Cafes,JP Nagar
+http://zomato.com/809,Address 809,Restaurant 809,Yes,No,4.6/5,1083,987654329,JP Nagar,Buffet,"Pasta, Pizza","North Indian, Mexican, Desserts",400,[],[],Dining,BTM
+http://zomato.com/810,Address 810,Restaurant 810,Yes,No,2.9/5,649,9876543210,Jayanagar,Bakery,"Pasta, Pizza",Beverages,400,[],[],Other,Jayanagar
+http://zomato.com/811,Address 811,Restaurant 811,Yes,Yes,4.4/5,4134,9876543211,Indiranagar,Delivery,"Pasta, Pizza","Continental, North Indian",1000,[],[],Dining,Marathahalli
+http://zomato.com/812,Address 812,Restaurant 812,Yes,Yes,4.4/5,3611,9876543212,Jayanagar,Cafe,"Pasta, Pizza","Continental, Italian, South Indian",800,[],[],Dining,Indiranagar
+http://zomato.com/813,Address 813,Restaurant 813,No,Yes,4.0/5,636,9876543213,BTM,Cafe,"Pasta, Pizza",Continental,600,[],[],Dining,HSR
+http://zomato.com/814,Address 814,Restaurant 814,No,No,NEW,1036,9876543214,Indiranagar,Cafe,"Pasta, Pizza",Continental,800,[],[],Cafes,JP Nagar
+http://zomato.com/815,Address 815,Restaurant 815,Yes,Yes,2.7/5,4131,9876543215,Jayanagar,Bakery,"Pasta, Pizza",Chinese,400,[],[],Other,Indiranagar
+http://zomato.com/816,Address 816,Restaurant 816,Yes,No,3.5/5,2148,9876543216,BTM,Dessert Parlor,"Pasta, Pizza","Mughlai, Mexican, Fast Food",800,[],[],Other,Jayanagar
+http://zomato.com/817,Address 817,Restaurant 817,Yes,Yes,NEW,3865,9876543217,JP Nagar,Buffet,"Pasta, Pizza","Continental, Italian, Fast Food",400,[],[],Dining,Indiranagar
+http://zomato.com/818,Address 818,Restaurant 818,No,No,2.8/5,3157,9876543218,HSR,Cafe,"Pasta, Pizza","Beverages, Desserts, Mughlai",1000,[],[],Other,Jayanagar
+http://zomato.com/819,Address 819,Restaurant 819,Yes,Yes,4.9/5,3587,9876543219,JP Nagar,Casual Dining,"Pasta, Pizza","Mexican, Desserts",2000,[],[],Cafes,HSR
+http://zomato.com/820,Address 820,Restaurant 820,Yes,Yes,NEW,3294,9876543220,Jayanagar,Cafe,"Pasta, Pizza",Continental,1000,[],[],Dining,Jayanagar
+http://zomato.com/821,Address 821,Restaurant 821,No,Yes,3.8/5,4261,9876543221,Indiranagar,Bakery,"Pasta, Pizza","Desserts, South Indian",1000,[],[],Cafes,Indiranagar
+http://zomato.com/822,Address 822,Restaurant 822,No,No,2.7/5,2430,9876543222,Koramangala 5th Block,Buffet,"Pasta, Pizza","Italian, Desserts",600,[],[],Cafes,HSR
+http://zomato.com/823,Address 823,Restaurant 823,Yes,No,4.5/5,1879,9876543223,JP Nagar,Delivery,"Pasta, Pizza",Beverages,2000,[],[],Other,Jayanagar
+http://zomato.com/824,Address 824,Restaurant 824,No,Yes,2.6/5,3966,9876543224,JP Nagar,Buffet,"Pasta, Pizza",Mexican,600,[],[],Other,BTM
+http://zomato.com/825,Address 825,Restaurant 825,No,Yes,NEW,3713,9876543225,BTM,Casual Dining,"Pasta, Pizza","Desserts, Continental, South Indian",400,[],[],Cafes,Marathahalli
+http://zomato.com/826,Address 826,Restaurant 826,Yes,No,3.2/5,4126,9876543226,Marathahalli,Cafe,"Pasta, Pizza",North Indian,200,[],[],Other,Koramangala 5th Block
+http://zomato.com/827,Address 827,Restaurant 827,No,No,3.2/5,4106,9876543227,Koramangala 5th Block,Cafe,"Pasta, Pizza","Fast Food, Italian",1500,[],[],Cafes,Indiranagar
+http://zomato.com/828,Address 828,Restaurant 828,Yes,No,4.8/5,2011,9876543228,Jayanagar,Quick Service Restaurant,"Pasta, Pizza","Italian, South Indian, Mexican",600,[],[],Cafes,Koramangala 5th Block
+http://zomato.com/829,Address 829,Restaurant 829,No,Yes,4.8/5,3373,9876543229,HSR,Dessert Parlor,"Pasta, Pizza",North Indian,400,[],[],Dining,Indiranagar
+http://zomato.com/830,Address 830,Restaurant 830,Yes,No,3.7/5,2143,9876543230,Indiranagar,Casual Dining,"Pasta, Pizza","Mexican, Italian, North Indian",2000,[],[],Cafes,Jayanagar
+http://zomato.com/831,Address 831,Restaurant 831,Yes,Yes,4.1/5,2500,9876543231,Marathahalli,Quick Service Restaurant,"Pasta, Pizza","Beverages, Italian, South Indian",800,[],[],Cafes,Jayanagar
+http://zomato.com/832,Address 832,Restaurant 832,Yes,No,4.0/5,4581,9876543232,Jayanagar,Buffet,"Pasta, Pizza","Beverages, South Indian, North Indian",2000,[],[],Other,HSR
+http://zomato.com/833,Address 833,Restaurant 833,No,Yes,4.1/5,1289,9876543233,Whitefield,Delivery,"Pasta, Pizza","Desserts, Mughlai",1000,[],[],Dining,JP Nagar
+http://zomato.com/834,Address 834,Restaurant 834,Yes,No,4.7/5,1447,9876543234,HSR,Dessert Parlor,"Pasta, Pizza",Beverages,1000,[],[],Other,Marathahalli
+http://zomato.com/835,Address 835,Restaurant 835,No,No,3.6/5,3199,9876543235,JP Nagar,Casual Dining,"Pasta, Pizza","Desserts, Mexican, Chinese",1000,[],[],Dining,BTM
+http://zomato.com/836,Address 836,Restaurant 836,Yes,No,4.1/5,1943,9876543236,Whitefield,Cafe,"Pasta, Pizza",North Indian,400,[],[],Other,JP Nagar
+http://zomato.com/837,Address 837,Restaurant 837,Yes,No,NEW,3183,9876543237,JP Nagar,Buffet,"Pasta, Pizza",Beverages,1000,[],[],Cafes,Koramangala 5th Block
+http://zomato.com/838,Address 838,Restaurant 838,No,No,3.1/5,3216,9876543238,JP Nagar,Casual Dining,"Pasta, Pizza",South Indian,600,[],[],Dining,Jayanagar
+http://zomato.com/839,Address 839,Restaurant 839,Yes,Yes,4.6/5,3136,9876543239,Whitefield,Cafe,"Pasta, Pizza","Chinese, Beverages, Continental",800,[],[],Dining,JP Nagar
+http://zomato.com/840,Address 840,Restaurant 840,Yes,No,3.9/5,3318,9876543240,HSR,Dessert Parlor,"Pasta, Pizza",Desserts,1000,[],[],Dining,Jayanagar
+http://zomato.com/841,Address 841,Restaurant 841,No,No,2.9/5,2782,9876543241,BTM,Cafe,"Pasta, Pizza","Mughlai, Italian",400,[],[],Dining,Indiranagar
+http://zomato.com/842,Address 842,Restaurant 842,Yes,No,3.2/5,990,9876543242,Whitefield,Delivery,"Pasta, Pizza",Mexican,800,[],[],Other,JP Nagar
+http://zomato.com/843,Address 843,Restaurant 843,Yes,Yes,3.2/5,4920,9876543243,Jayanagar,Buffet,"Pasta, Pizza",South Indian,1000,[],[],Other,Koramangala 5th Block
+http://zomato.com/844,Address 844,Restaurant 844,Yes,No,4.1/5,2153,9876543244,Marathahalli,Bakery,"Pasta, Pizza","Beverages, Chinese, Continental",200,[],[],Dining,HSR
+http://zomato.com/845,Address 845,Restaurant 845,Yes,Yes,NEW,225,9876543245,Marathahalli,Cafe,"Pasta, Pizza","Desserts, Fast Food",3000,[],[],Dining,JP Nagar
+http://zomato.com/846,Address 846,Restaurant 846,No,No,3.3/5,776,9876543246,Whitefield,Delivery,"Pasta, Pizza","Desserts, Mughlai, Continental",1000,[],[],Dining,Jayanagar
+http://zomato.com/847,Address 847,Restaurant 847,No,No,NEW,2837,9876543247,Jayanagar,Bakery,"Pasta, Pizza","Mughlai, Desserts",1500,[],[],Other,Whitefield
+http://zomato.com/848,Address 848,Restaurant 848,Yes,Yes,2.6/5,687,9876543248,BTM,Buffet,"Pasta, Pizza","Mughlai, South Indian",2000,[],[],Dining,Whitefield
+http://zomato.com/849,Address 849,Restaurant 849,No,No,4.3/5,529,9876543249,Marathahalli,Dessert Parlor,"Pasta, Pizza",Mughlai,600,[],[],Dining,HSR
+http://zomato.com/850,Address 850,Restaurant 850,Yes,Yes,NEW,3442,9876543250,Jayanagar,Dessert Parlor,"Pasta, Pizza","Continental, Mexican",800,[],[],Dining,HSR
+http://zomato.com/851,Address 851,Restaurant 851,No,Yes,2.5/5,2153,9876543251,BTM,Buffet,"Pasta, Pizza","South Indian, Desserts",600,[],[],Other,Marathahalli
+http://zomato.com/852,Address 852,Restaurant 852,Yes,No,4.4/5,1294,9876543252,Jayanagar,Buffet,"Pasta, Pizza",South Indian,200,[],[],Cafes,HSR
+http://zomato.com/853,Address 853,Restaurant 853,Yes,Yes,2.8/5,1526,9876543253,JP Nagar,Casual Dining,"Pasta, Pizza","Chinese, Italian",200,[],[],Cafes,Jayanagar
+http://zomato.com/854,Address 854,Restaurant 854,Yes,No,3.2/5,4774,9876543254,Marathahalli,Delivery,"Pasta, Pizza",North Indian,1500,[],[],Other,BTM
+http://zomato.com/855,Address 855,Restaurant 855,Yes,No,3.3/5,2896,9876543255,BTM,Delivery,"Pasta, Pizza","Mughlai, Desserts, Continental",600,[],[],Cafes,Indiranagar
+http://zomato.com/856,Address 856,Restaurant 856,Yes,Yes,4.7/5,3103,9876543256,Marathahalli,Buffet,"Pasta, Pizza","Chinese, Mexican",800,[],[],Dining,JP Nagar
+http://zomato.com/857,Address 857,Restaurant 857,Yes,Yes,4.8/5,2440,9876543257,JP Nagar,Quick Service Restaurant,"Pasta, Pizza","Italian, Continental",200,[],[],Dining,HSR
+http://zomato.com/858,Address 858,Restaurant 858,No,Yes,4.9/5,4135,9876543258,Whitefield,Quick Service Restaurant,"Pasta, Pizza","Beverages, Chinese",3000,[],[],Other,Whitefield
+http://zomato.com/859,Address 859,Restaurant 859,Yes,Yes,NEW,3802,9876543259,JP Nagar,Bakery,"Pasta, Pizza","Fast Food, South Indian, Italian",200,[],[],Other,Indiranagar
+http://zomato.com/860,Address 860,Restaurant 860,No,No,3.7/5,844,9876543260,Marathahalli,Bakery,"Pasta, Pizza","Chinese, Continental, South Indian",1000,[],[],Cafes,BTM
+http://zomato.com/861,Address 861,Restaurant 861,Yes,No,4.1/5,446,9876543261,Marathahalli,Quick Service Restaurant,"Pasta, Pizza",Fast Food,1500,[],[],Cafes,Jayanagar
+http://zomato.com/862,Address 862,Restaurant 862,No,Yes,2.5/5,3915,9876543262,HSR,Buffet,"Pasta, Pizza","South Indian, Chinese, Italian",2000,[],[],Dining,Indiranagar
+http://zomato.com/863,Address 863,Restaurant 863,No,No,4.3/5,3109,9876543263,BTM,Buffet,"Pasta, Pizza","North Indian, Continental",400,[],[],Other,Jayanagar
+http://zomato.com/864,Address 864,Restaurant 864,No,No,4.9/5,1234,9876543264,Whitefield,Bakery,"Pasta, Pizza",North Indian,2000,[],[],Cafes,BTM
+http://zomato.com/865,Address 865,Restaurant 865,Yes,No,4.9/5,226,9876543265,JP Nagar,Cafe,"Pasta, Pizza",Desserts,3000,[],[],Cafes,BTM
+http://zomato.com/866,Address 866,Restaurant 866,Yes,No,3.2/5,4143,9876543266,BTM,Buffet,"Pasta, Pizza","Italian, North Indian",2000,[],[],Dining,Marathahalli
+http://zomato.com/867,Address 867,Restaurant 867,No,Yes,4.5/5,2959,9876543267,Indiranagar,Quick Service Restaurant,"Pasta, Pizza","Continental, Mughlai",3000,[],[],Dining,JP Nagar
+http://zomato.com/868,Address 868,Restaurant 868,Yes,Yes,2.6/5,1830,9876543268,BTM,Delivery,"Pasta, Pizza","Mexican, Fast Food, North Indian",200,[],[],Dining,Indiranagar
+http://zomato.com/869,Address 869,Restaurant 869,No,No,4.9/5,3779,9876543269,Indiranagar,Buffet,"Pasta, Pizza","Mughlai, South Indian",800,[],[],Dining,BTM
+http://zomato.com/870,Address 870,Restaurant 870,Yes,Yes,3.6/5,186,9876543270,Whitefield,Buffet,"Pasta, Pizza",Fast Food,800,[],[],Cafes,JP Nagar
+http://zomato.com/871,Address 871,Restaurant 871,No,Yes,3.0/5,2877,9876543271,JP Nagar,Cafe,"Pasta, Pizza",Mughlai,1000,[],[],Other,Indiranagar
+http://zomato.com/872,Address 872,Restaurant 872,No,Yes,3.4/5,2535,9876543272,JP Nagar,Bakery,"Pasta, Pizza","Chinese, Continental",3000,[],[],Other,Jayanagar
+http://zomato.com/873,Address 873,Restaurant 873,Yes,No,NEW,1932,9876543273,Jayanagar,Buffet,"Pasta, Pizza",Mughlai,800,[],[],Dining,BTM
+http://zomato.com/874,Address 874,Restaurant 874,No,No,3.5/5,2924,9876543274,Marathahalli,Dessert Parlor,"Pasta, Pizza","Beverages, Mexican",1000,[],[],Dining,Jayanagar
+http://zomato.com/875,Address 875,Restaurant 875,Yes,No,4.6/5,848,9876543275,Koramangala 5th Block,Casual Dining,"Pasta, Pizza","Fast Food, Desserts",200,[],[],Cafes,Indiranagar
+http://zomato.com/876,Address 876,Restaurant 876,No,Yes,4.1/5,2032,9876543276,HSR,Quick Service Restaurant,"Pasta, Pizza",South Indian,200,[],[],Dining,Marathahalli
+http://zomato.com/877,Address 877,Restaurant 877,No,No,4.7/5,1252,9876543277,BTM,Dessert Parlor,"Pasta, Pizza",Desserts,2000,[],[],Other,Jayanagar
+http://zomato.com/878,Address 878,Restaurant 878,Yes,No,4.2/5,1881,9876543278,Whitefield,Bakery,"Pasta, Pizza",Desserts,200,[],[],Dining,Koramangala 5th Block
+http://zomato.com/879,Address 879,Restaurant 879,Yes,Yes,3.2/5,269,9876543279,Koramangala 5th Block,Delivery,"Pasta, Pizza","North Indian, Desserts, Fast Food",200,[],[],Other,Koramangala 5th Block
+http://zomato.com/880,Address 880,Restaurant 880,Yes,No,4.1/5,1630,9876543280,BTM,Casual Dining,"Pasta, Pizza","South Indian, Mexican, North Indian",3000,[],[],Dining,JP Nagar
+http://zomato.com/881,Address 881,Restaurant 881,No,No,3.3/5,4405,9876543281,Koramangala 5th Block,Dessert Parlor,"Pasta, Pizza","Mughlai, Italian",400,[],[],Dining,HSR
+http://zomato.com/882,Address 882,Restaurant 882,Yes,Yes,3.5/5,3203,9876543282,Whitefield,Casual Dining,"Pasta, Pizza","Continental, Italian",1500,[],[],Other,Koramangala 5th Block
+http://zomato.com/883,Address 883,Restaurant 883,No,Yes,3.0/5,1574,9876543283,JP Nagar,Quick Service Restaurant,"Pasta, Pizza",Fast Food,2000,[],[],Cafes,Koramangala 5th Block
+http://zomato.com/884,Address 884,Restaurant 884,No,Yes,3.2/5,2892,9876543284,Whitefield,Bakery,"Pasta, Pizza","Fast Food, Continental, Italian",2000,[],[],Cafes,Marathahalli
+http://zomato.com/885,Address 885,Restaurant 885,Yes,No,2.6/5,1695,9876543285,BTM,Buffet,"Pasta, Pizza","Desserts, Italian",1500,[],[],Dining,Marathahalli
+http://zomato.com/886,Address 886,Restaurant 886,Yes,No,3.8/5,3258,9876543286,Koramangala 5th Block,Delivery,"Pasta, Pizza",Mexican,400,[],[],Dining,HSR
+http://zomato.com/887,Address 887,Restaurant 887,No,No,4.6/5,3262,9876543287,Marathahalli,Bakery,"Pasta, Pizza","Continental, Chinese",200,[],[],Other,Whitefield
+http://zomato.com/888,Address 888,Restaurant 888,No,Yes,NEW,1445,9876543288,HSR,Casual Dining,"Pasta, Pizza",Italian,800,[],[],Other,HSR
+http://zomato.com/889,Address 889,Restaurant 889,Yes,Yes,3.3/5,219,9876543289,HSR,Dessert Parlor,"Pasta, Pizza","Fast Food, Desserts, North Indian",1000,[],[],Dining,Whitefield
+http://zomato.com/890,Address 890,Restaurant 890,Yes,No,NEW,52,9876543290,Marathahalli,Quick Service Restaurant,"Pasta, Pizza","South Indian, Beverages",2000,[],[],Other,Marathahalli
+http://zomato.com/891,Address 891,Restaurant 891,Yes,No,3.5/5,1757,9876543291,Marathahalli,Quick Service Restaurant,"Pasta, Pizza","Mughlai, Italian",1500,[],[],Cafes,Whitefield
+http://zomato.com/892,Address 892,Restaurant 892,Yes,Yes,3.5/5,1666,9876543292,JP Nagar,Bakery,"Pasta, Pizza","Mughlai, Chinese",600,[],[],Cafes,Marathahalli
+http://zomato.com/893,Address 893,Restaurant 893,Yes,Yes,4.0/5,2785,9876543293,BTM,Buffet,"Pasta, Pizza","North Indian, Mexican",1000,[],[],Other,Whitefield
+http://zomato.com/894,Address 894,Restaurant 894,No,Yes,NEW,719,9876543294,Indiranagar,Dessert Parlor,"Pasta, Pizza",South Indian,600,[],[],Other,Jayanagar
+http://zomato.com/895,Address 895,Restaurant 895,No,Yes,4.9/5,405,9876543295,Whitefield,Buffet,"Pasta, Pizza",Chinese,600,[],[],Other,Marathahalli
+http://zomato.com/896,Address 896,Restaurant 896,No,No,4.2/5,2294,9876543296,HSR,Buffet,"Pasta, Pizza","South Indian, Italian",3000,[],[],Cafes,HSR
+http://zomato.com/897,Address 897,Restaurant 897,No,Yes,4.4/5,71,9876543297,Marathahalli,Dessert Parlor,"Pasta, Pizza","North Indian, Mexican, Mughlai",2000,[],[],Dining,JP Nagar
+http://zomato.com/898,Address 898,Restaurant 898,Yes,No,3.8/5,2053,9876543298,Whitefield,Casual Dining,"Pasta, Pizza","North Indian, Chinese, South Indian",200,[],[],Other,JP Nagar
+http://zomato.com/899,Address 899,Restaurant 899,Yes,No,2.8/5,1229,9876543299,HSR,Bakery,"Pasta, Pizza","Mexican, Mughlai",3000,[],[],Other,Marathahalli
+http://zomato.com/900,Address 900,Restaurant 900,Yes,No,NEW,1567,987654320,Marathahalli,Bakery,"Pasta, Pizza","Chinese, Continental",600,[],[],Other,Koramangala 5th Block
+http://zomato.com/901,Address 901,Restaurant 901,No,Yes,4.5/5,3682,987654321,BTM,Cafe,"Pasta, Pizza","North Indian, Chinese, Continental",200,[],[],Dining,BTM
+http://zomato.com/902,Address 902,Restaurant 902,No,Yes,3.2/5,2953,987654322,HSR,Bakery,"Pasta, Pizza",Continental,400,[],[],Other,JP Nagar
+http://zomato.com/903,Address 903,Restaurant 903,Yes,Yes,NEW,4482,987654323,JP Nagar,Quick Service Restaurant,"Pasta, Pizza","Desserts, South Indian",800,[],[],Other,HSR
+http://zomato.com/904,Address 904,Restaurant 904,Yes,Yes,4.4/5,698,987654324,Indiranagar,Casual Dining,"Pasta, Pizza","South Indian, Fast Food, North Indian",600,[],[],Cafes,Koramangala 5th Block
+http://zomato.com/905,Address 905,Restaurant 905,No,No,3.4/5,826,987654325,Indiranagar,Dessert Parlor,"Pasta, Pizza","Italian, Desserts",2000,[],[],Other,JP Nagar
+http://zomato.com/906,Address 906,Restaurant 906,No,Yes,2.5/5,348,987654326,Marathahalli,Bakery,"Pasta, Pizza","Continental, Italian",800,[],[],Cafes,BTM
+http://zomato.com/907,Address 907,Restaurant 907,Yes,Yes,4.1/5,3908,987654327,HSR,Casual Dining,"Pasta, Pizza",Chinese,200,[],[],Dining,Indiranagar
+http://zomato.com/908,Address 908,Restaurant 908,Yes,No,4.6/5,307,987654328,JP Nagar,Bakery,"Pasta, Pizza","Desserts, Italian",600,[],[],Other,Indiranagar
+http://zomato.com/909,Address 909,Restaurant 909,No,Yes,NEW,3416,987654329,Jayanagar,Dessert Parlor,"Pasta, Pizza","South Indian, Chinese",1000,[],[],Other,Marathahalli
+http://zomato.com/910,Address 910,Restaurant 910,Yes,No,4.5/5,2334,9876543210,Whitefield,Delivery,"Pasta, Pizza","Beverages, Fast Food, Italian",3000,[],[],Cafes,BTM
+http://zomato.com/911,Address 911,Restaurant 911,Yes,No,3.6/5,4861,9876543211,Whitefield,Dessert Parlor,"Pasta, Pizza",Desserts,2000,[],[],Dining,HSR
+http://zomato.com/912,Address 912,Restaurant 912,Yes,No,3.3/5,4820,9876543212,Koramangala 5th Block,Dessert Parlor,"Pasta, Pizza",South Indian,400,[],[],Dining,HSR
+http://zomato.com/913,Address 913,Restaurant 913,No,No,NEW,2809,9876543213,JP Nagar,Dessert Parlor,"Pasta, Pizza",Mexican,1500,[],[],Cafes,JP Nagar
+http://zomato.com/914,Address 914,Restaurant 914,No,No,3.1/5,3558,9876543214,HSR,Bakery,"Pasta, Pizza",Chinese,400,[],[],Dining,Jayanagar
+http://zomato.com/915,Address 915,Restaurant 915,No,No,4.4/5,4478,9876543215,BTM,Cafe,"Pasta, Pizza",Beverages,3000,[],[],Dining,Koramangala 5th Block
+http://zomato.com/916,Address 916,Restaurant 916,No,No,2.6/5,3477,9876543216,BTM,Dessert Parlor,"Pasta, Pizza","Italian, Chinese",600,[],[],Dining,BTM
+http://zomato.com/917,Address 917,Restaurant 917,No,No,4.9/5,4620,9876543217,Koramangala 5th Block,Quick Service Restaurant,"Pasta, Pizza","Continental, Italian",3000,[],[],Dining,JP Nagar
+http://zomato.com/918,Address 918,Restaurant 918,No,Yes,5.0/5,2686,9876543218,Marathahalli,Quick Service Restaurant,"Pasta, Pizza","Italian, Beverages",2000,[],[],Dining,Marathahalli
+http://zomato.com/919,Address 919,Restaurant 919,No,Yes,4.9/5,2985,9876543219,HSR,Casual Dining,"Pasta, Pizza",South Indian,400,[],[],Dining,BTM
+http://zomato.com/920,Address 920,Restaurant 920,Yes,Yes,NEW,275,9876543220,Koramangala 5th Block,Cafe,"Pasta, Pizza","Mughlai, Desserts",1500,[],[],Dining,Koramangala 5th Block
+http://zomato.com/921,Address 921,Restaurant 921,Yes,Yes,3.1/5,2547,9876543221,Indiranagar,Casual Dining,"Pasta, Pizza","Continental, Mexican, North Indian",1000,[],[],Dining,Whitefield
+http://zomato.com/922,Address 922,Restaurant 922,Yes,No,2.9/5,2764,9876543222,Whitefield,Quick Service Restaurant,"Pasta, Pizza","Chinese, North Indian",800,[],[],Other,Marathahalli
+http://zomato.com/923,Address 923,Restaurant 923,Yes,Yes,4.5/5,336,9876543223,HSR,Buffet,"Pasta, Pizza",South Indian,3000,[],[],Cafes,JP Nagar
+http://zomato.com/924,Address 924,Restaurant 924,Yes,No,2.9/5,1973,9876543224,Koramangala 5th Block,Quick Service Restaurant,"Pasta, Pizza","Continental, Chinese",1000,[],[],Dining,Jayanagar
+http://zomato.com/925,Address 925,Restaurant 925,Yes,Yes,4.1/5,2979,9876543225,Indiranagar,Delivery,"Pasta, Pizza",North Indian,400,[],[],Cafes,BTM
+http://zomato.com/926,Address 926,Restaurant 926,Yes,Yes,4.2/5,4576,9876543226,JP Nagar,Dessert Parlor,"Pasta, Pizza","North Indian, South Indian",1500,[],[],Dining,Whitefield
+http://zomato.com/927,Address 927,Restaurant 927,No,Yes,3.4/5,3968,9876543227,Koramangala 5th Block,Buffet,"Pasta, Pizza",Chinese,800,[],[],Dining,Marathahalli
+http://zomato.com/928,Address 928,Restaurant 928,No,No,3.2/5,910,9876543228,Marathahalli,Quick Service Restaurant,"Pasta, Pizza","South Indian, Mughlai",2000,[],[],Other,JP Nagar
+http://zomato.com/929,Address 929,Restaurant 929,Yes,Yes,4.7/5,1996,9876543229,Marathahalli,Bakery,"Pasta, Pizza","Mughlai, Italian, Chinese",1500,[],[],Cafes,Indiranagar
+http://zomato.com/930,Address 930,Restaurant 930,Yes,No,2.7/5,3129,9876543230,Marathahalli,Bakery,"Pasta, Pizza","Beverages, Fast Food, Continental",1000,[],[],Cafes,HSR
+http://zomato.com/931,Address 931,Restaurant 931,No,No,2.5/5,4204,9876543231,HSR,Casual Dining,"Pasta, Pizza","North Indian, Fast Food, Mughlai",200,[],[],Other,JP Nagar
+http://zomato.com/932,Address 932,Restaurant 932,Yes,Yes,3.6/5,3757,9876543232,BTM,Buffet,"Pasta, Pizza","Italian, Fast Food, South Indian",200,[],[],Other,Indiranagar
+http://zomato.com/933,Address 933,Restaurant 933,Yes,Yes,4.9/5,327,9876543233,BTM,Casual Dining,"Pasta, Pizza",Mexican,800,[],[],Cafes,Indiranagar
+http://zomato.com/934,Address 934,Restaurant 934,No,Yes,3.1/5,1799,9876543234,Whitefield,Dessert Parlor,"Pasta, Pizza","Continental, Chinese",3000,[],[],Dining,Marathahalli
+http://zomato.com/935,Address 935,Restaurant 935,Yes,No,4.2/5,314,9876543235,Koramangala 5th Block,Dessert Parlor,"Pasta, Pizza",Desserts,800,[],[],Dining,JP Nagar
+http://zomato.com/936,Address 936,Restaurant 936,No,Yes,NEW,3545,9876543236,JP Nagar,Delivery,"Pasta, Pizza","Continental, Mughlai",800,[],[],Cafes,HSR
+http://zomato.com/937,Address 937,Restaurant 937,Yes,No,4.5/5,1134,9876543237,Koramangala 5th Block,Cafe,"Pasta, Pizza","Chinese, Mexican",200,[],[],Dining,JP Nagar
+http://zomato.com/938,Address 938,Restaurant 938,No,No,3.9/5,2746,9876543238,Whitefield,Casual Dining,"Pasta, Pizza","North Indian, Continental, Beverages",1000,[],[],Other,Indiranagar
+http://zomato.com/939,Address 939,Restaurant 939,No,Yes,2.6/5,4876,9876543239,Indiranagar,Dessert Parlor,"Pasta, Pizza","South Indian, Mexican, North Indian",3000,[],[],Other,Koramangala 5th Block
+http://zomato.com/940,Address 940,Restaurant 940,No,Yes,3.6/5,1520,9876543240,Whitefield,Casual Dining,"Pasta, Pizza",Mughlai,800,[],[],Other,Whitefield
+http://zomato.com/941,Address 941,Restaurant 941,Yes,No,2.6/5,155,9876543241,Marathahalli,Dessert Parlor,"Pasta, Pizza","Mughlai, Mexican, Italian",200,[],[],Cafes,Jayanagar
+http://zomato.com/942,Address 942,Restaurant 942,No,No,5.0/5,1724,9876543242,HSR,Quick Service Restaurant,"Pasta, Pizza","Beverages, Desserts",800,[],[],Cafes,JP Nagar
+http://zomato.com/943,Address 943,Restaurant 943,Yes,No,4.6/5,3343,9876543243,Indiranagar,Casual Dining,"Pasta, Pizza","North Indian, Mughlai, Fast Food",800,[],[],Cafes,Whitefield
+http://zomato.com/944,Address 944,Restaurant 944,Yes,Yes,4.9/5,886,9876543244,HSR,Quick Service Restaurant,"Pasta, Pizza",Italian,3000,[],[],Dining,Whitefield
+http://zomato.com/945,Address 945,Restaurant 945,Yes,No,4.9/5,3073,9876543245,Marathahalli,Casual Dining,"Pasta, Pizza","Italian, Desserts",3000,[],[],Cafes,BTM
+http://zomato.com/946,Address 946,Restaurant 946,Yes,Yes,4.3/5,2805,9876543246,Jayanagar,Cafe,"Pasta, Pizza","Mexican, North Indian, South Indian",1500,[],[],Cafes,Koramangala 5th Block
+http://zomato.com/947,Address 947,Restaurant 947,No,No,3.9/5,721,9876543247,Whitefield,Delivery,"Pasta, Pizza","Desserts, Mexican",800,[],[],Other,Whitefield
+http://zomato.com/948,Address 948,Restaurant 948,No,No,3.6/5,912,9876543248,Whitefield,Bakery,"Pasta, Pizza","South Indian, Chinese",200,[],[],Dining,JP Nagar
+http://zomato.com/949,Address 949,Restaurant 949,Yes,Yes,2.7/5,3357,9876543249,JP Nagar,Bakery,"Pasta, Pizza","Continental, Italian",1000,[],[],Dining,Marathahalli
+http://zomato.com/950,Address 950,Restaurant 950,Yes,No,5.0/5,870,9876543250,Koramangala 5th Block,Bakery,"Pasta, Pizza","Italian, Chinese",200,[],[],Other,Marathahalli
+http://zomato.com/951,Address 951,Restaurant 951,No,Yes,4.5/5,4108,9876543251,Indiranagar,Quick Service Restaurant,"Pasta, Pizza","Mughlai, Chinese, North Indian",200,[],[],Dining,BTM
+http://zomato.com/952,Address 952,Restaurant 952,Yes,Yes,4.9/5,497,9876543252,BTM,Buffet,"Pasta, Pizza",Continental,800,[],[],Cafes,Whitefield
+http://zomato.com/953,Address 953,Restaurant 953,No,No,3.8/5,1756,9876543253,HSR,Dessert Parlor,"Pasta, Pizza","Italian, Mexican",1500,[],[],Dining,JP Nagar
+http://zomato.com/954,Address 954,Restaurant 954,Yes,Yes,4.4/5,1117,9876543254,Indiranagar,Bakery,"Pasta, Pizza",South Indian,600,[],[],Other,JP Nagar
+http://zomato.com/955,Address 955,Restaurant 955,Yes,Yes,3.7/5,3409,9876543255,JP Nagar,Cafe,"Pasta, Pizza","Desserts, Continental, South Indian",2000,[],[],Dining,Indiranagar
+http://zomato.com/956,Address 956,Restaurant 956,No,No,3.1/5,2828,9876543256,JP Nagar,Bakery,"Pasta, Pizza",Desserts,600,[],[],Other,Koramangala 5th Block
+http://zomato.com/957,Address 957,Restaurant 957,Yes,Yes,4.2/5,1647,9876543257,HSR,Casual Dining,"Pasta, Pizza","Fast Food, Beverages, Italian",600,[],[],Cafes,HSR
+http://zomato.com/958,Address 958,Restaurant 958,No,Yes,3.9/5,2983,9876543258,BTM,Quick Service Restaurant,"Pasta, Pizza","Fast Food, North Indian",200,[],[],Cafes,Jayanagar
+http://zomato.com/959,Address 959,Restaurant 959,Yes,Yes,3.7/5,142,9876543259,Koramangala 5th Block,Buffet,"Pasta, Pizza",South Indian,800,[],[],Other,HSR
+http://zomato.com/960,Address 960,Restaurant 960,Yes,No,NEW,2761,9876543260,HSR,Casual Dining,"Pasta, Pizza",Mughlai,3000,[],[],Cafes,BTM
+http://zomato.com/961,Address 961,Restaurant 961,Yes,Yes,NEW,3435,9876543261,HSR,Buffet,"Pasta, Pizza",South Indian,2000,[],[],Cafes,Indiranagar
+http://zomato.com/962,Address 962,Restaurant 962,No,No,4.8/5,4660,9876543262,Marathahalli,Casual Dining,"Pasta, Pizza","Mexican, Mughlai, Fast Food",600,[],[],Dining,Jayanagar
+http://zomato.com/963,Address 963,Restaurant 963,Yes,No,4.1/5,2431,9876543263,BTM,Casual Dining,"Pasta, Pizza","Beverages, Italian, Mexican",400,[],[],Cafes,HSR
+http://zomato.com/964,Address 964,Restaurant 964,Yes,Yes,3.3/5,4512,9876543264,Koramangala 5th Block,Delivery,"Pasta, Pizza","Italian, Desserts, Fast Food",400,[],[],Other,JP Nagar
+http://zomato.com/965,Address 965,Restaurant 965,Yes,Yes,4.3/5,1848,9876543265,Whitefield,Delivery,"Pasta, Pizza","Beverages, Chinese, South Indian",400,[],[],Cafes,Marathahalli
+http://zomato.com/966,Address 966,Restaurant 966,Yes,Yes,NEW,2696,9876543266,Marathahalli,Dessert Parlor,"Pasta, Pizza","Beverages, South Indian, Chinese",1000,[],[],Dining,Indiranagar
+http://zomato.com/967,Address 967,Restaurant 967,No,No,2.6/5,1717,9876543267,Jayanagar,Quick Service Restaurant,"Pasta, Pizza","Mexican, North Indian, Desserts",800,[],[],Other,HSR
+http://zomato.com/968,Address 968,Restaurant 968,No,Yes,4.2/5,3072,9876543268,BTM,Cafe,"Pasta, Pizza","Chinese, Beverages",200,[],[],Cafes,BTM
+http://zomato.com/969,Address 969,Restaurant 969,Yes,Yes,3.2/5,1067,9876543269,Koramangala 5th Block,Cafe,"Pasta, Pizza","Italian, Continental, Mexican",200,[],[],Cafes,Whitefield
+http://zomato.com/970,Address 970,Restaurant 970,No,Yes,4.8/5,2786,9876543270,JP Nagar,Cafe,"Pasta, Pizza",Italian,800,[],[],Cafes,BTM
+http://zomato.com/971,Address 971,Restaurant 971,Yes,Yes,2.6/5,3791,9876543271,Marathahalli,Casual Dining,"Pasta, Pizza","Mughlai, Mexican, North Indian",1500,[],[],Other,BTM
+http://zomato.com/972,Address 972,Restaurant 972,Yes,Yes,3.4/5,1288,9876543272,Koramangala 5th Block,Delivery,"Pasta, Pizza","Desserts, Continental",3000,[],[],Dining,BTM
+http://zomato.com/973,Address 973,Restaurant 973,Yes,No,4.4/5,3871,9876543273,Indiranagar,Quick Service Restaurant,"Pasta, Pizza","North Indian, Beverages",2000,[],[],Other,Whitefield
+http://zomato.com/974,Address 974,Restaurant 974,No,No,4.9/5,1806,9876543274,HSR,Casual Dining,"Pasta, Pizza","Desserts, Italian, South Indian",1500,[],[],Other,Jayanagar
+http://zomato.com/975,Address 975,Restaurant 975,No,Yes,3.4/5,1504,9876543275,Jayanagar,Buffet,"Pasta, Pizza","Fast Food, North Indian, Chinese",3000,[],[],Dining,JP Nagar
+http://zomato.com/976,Address 976,Restaurant 976,No,Yes,3.1/5,3308,9876543276,Whitefield,Delivery,"Pasta, Pizza","Desserts, Italian, South Indian",1000,[],[],Other,Marathahalli
+http://zomato.com/977,Address 977,Restaurant 977,No,Yes,3.4/5,2951,9876543277,HSR,Delivery,"Pasta, Pizza","Mughlai, Chinese",800,[],[],Other,Jayanagar
+http://zomato.com/978,Address 978,Restaurant 978,No,Yes,3.1/5,71,9876543278,Indiranagar,Bakery,"Pasta, Pizza","Desserts, South Indian, Italian",1500,[],[],Cafes,HSR
+http://zomato.com/979,Address 979,Restaurant 979,No,No,4.8/5,1690,9876543279,Indiranagar,Bakery,"Pasta, Pizza",Chinese,2000,[],[],Other,HSR
+http://zomato.com/980,Address 980,Restaurant 980,No,Yes,3.8/5,1344,9876543280,Jayanagar,Quick Service Restaurant,"Pasta, Pizza","Mughlai, North Indian",1000,[],[],Cafes,Marathahalli
+http://zomato.com/981,Address 981,Restaurant 981,No,No,2.6/5,3303,9876543281,Whitefield,Buffet,"Pasta, Pizza","Chinese, Fast Food",600,[],[],Other,HSR
+http://zomato.com/982,Address 982,Restaurant 982,No,No,NEW,3113,9876543282,JP Nagar,Quick Service Restaurant,"Pasta, Pizza","South Indian, Mexican",600,[],[],Cafes,Koramangala 5th Block
+http://zomato.com/983,Address 983,Restaurant 983,Yes,Yes,4.7/5,882,9876543283,Marathahalli,Quick Service Restaurant,"Pasta, Pizza","Fast Food, Mexican",1000,[],[],Cafes,Marathahalli
+http://zomato.com/984,Address 984,Restaurant 984,No,No,4.9/5,4234,9876543284,BTM,Casual Dining,"Pasta, Pizza","Italian, Beverages",3000,[],[],Cafes,Whitefield
+http://zomato.com/985,Address 985,Restaurant 985,No,No,3.6/5,2662,9876543285,Whitefield,Dessert Parlor,"Pasta, Pizza",Mughlai,800,[],[],Dining,HSR
+http://zomato.com/986,Address 986,Restaurant 986,No,No,3.8/5,1504,9876543286,BTM,Quick Service Restaurant,"Pasta, Pizza","Fast Food, Continental",600,[],[],Other,HSR
+http://zomato.com/987,Address 987,Restaurant 987,No,No,3.2/5,2463,9876543287,Koramangala 5th Block,Bakery,"Pasta, Pizza",Chinese,800,[],[],Other,Indiranagar
+http://zomato.com/988,Address 988,Restaurant 988,No,Yes,4.7/5,2553,9876543288,Indiranagar,Dessert Parlor,"Pasta, Pizza","Mughlai, Beverages, North Indian",1500,[],[],Other,Indiranagar
+http://zomato.com/989,Address 989,Restaurant 989,No,Yes,4.7/5,732,9876543289,Koramangala 5th Block,Casual Dining,"Pasta, Pizza","Chinese, Fast Food, Mughlai",600,[],[],Dining,Indiranagar
+http://zomato.com/990,Address 990,Restaurant 990,No,No,4.5/5,1748,9876543290,JP Nagar,Dessert Parlor,"Pasta, Pizza",South Indian,2000,[],[],Cafes,Marathahalli
+http://zomato.com/991,Address 991,Restaurant 991,No,Yes,3.7/5,3924,9876543291,Koramangala 5th Block,Cafe,"Pasta, Pizza","Chinese, Beverages, Mughlai",2000,[],[],Other,Whitefield
+http://zomato.com/992,Address 992,Restaurant 992,No,Yes,4.0/5,423,9876543292,Whitefield,Buffet,"Pasta, Pizza","Desserts, North Indian",1500,[],[],Dining,Marathahalli
+http://zomato.com/993,Address 993,Restaurant 993,No,Yes,3.3/5,3478,9876543293,Koramangala 5th Block,Dessert Parlor,"Pasta, Pizza","Chinese, Mughlai, Italian",2000,[],[],Dining,BTM
+http://zomato.com/994,Address 994,Restaurant 994,No,Yes,3.0/5,1591,9876543294,JP Nagar,Quick Service Restaurant,"Pasta, Pizza","North Indian, Mughlai, Continental",800,[],[],Other,JP Nagar
+http://zomato.com/995,Address 995,Restaurant 995,Yes,Yes,NEW,4485,9876543295,JP Nagar,Casual Dining,"Pasta, Pizza","North Indian, Continental",3000,[],[],Cafes,Whitefield
+http://zomato.com/996,Address 996,Restaurant 996,Yes,No,NEW,4437,9876543296,JP Nagar,Buffet,"Pasta, Pizza",Mughlai,800,[],[],Dining,Whitefield
+http://zomato.com/997,Address 997,Restaurant 997,No,Yes,3.8/5,4709,9876543297,Whitefield,Quick Service Restaurant,"Pasta, Pizza","Continental, South Indian, Mughlai",3000,[],[],Other,BTM
+http://zomato.com/998,Address 998,Restaurant 998,No,Yes,4.5/5,492,9876543298,JP Nagar,Buffet,"Pasta, Pizza","Beverages, Mexican",2000,[],[],Cafes,Marathahalli
+http://zomato.com/999,Address 999,Restaurant 999,Yes,Yes,3.3/5,191,9876543299,Indiranagar,Bakery,"Pasta, Pizza","Mughlai, Italian, North Indian",400,[],[],Dining,Marathahalli
